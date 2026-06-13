@@ -4,7 +4,7 @@ date: 2025-05-28
 client: Coaching Louis Bonneau
 belongs_to: Splice Media
 ---
-# Coaching Louis Bonneau
+# Coaching - Louis Bonneau
 
 **May 28 2025**
 
@@ -16,7 +16,7 @@ Louis was initially interested in understanding how to**strategically reorient h
 
 2.**Digital Transformation & Corporate Strategy:** How to gain experience and theoretical knowledge in these areas (00:09:43).
 
-3.**Advanced Financing in Media:** Moving beyond institutional donor fundraising to areas like private investment, finance modeling, and M\&A for media (00:12:50, 00:13:57).
+3.**Advanced Financing in Media:** Moving beyond institutional donor fundraising to areas like private investment, finance modeling, and M&A for media (00:12:50, 00:13:57).
 
 4.**Leveraging His Europe-Asia Experience:** Finding a global career perspective that utilizes his background and networks in both regions (00:09:43, 00:10:44).
 
@@ -27,7 +27,6 @@ Essentially, Louis was looking for guidance on how to transition into a more str
 **What Louis Actually Got Out Of It (Different from Initial Interest):**
 
 While Louis came in looking for ways to build on his existing understanding of media structures and perhaps find a new role within or adjacent to them, he received a significantly more**disruptive and future-focused perspective centered on AI and entrepreneurialism.**
-
 
 Instead of specific pathways into traditional media strategy or established consulting, he got:
 
@@ -53,16 +52,16 @@ You provided a strong, challenging, and future-forward perspective. However, her
 
 1.**More Explicitly Connect His Existing Strengths to the New Paradigm:** Louis has a rich background in international relations, cultural diplomacy, project management, fundraising, and partnerships (00:07:39 - 00:08:31).1 While you acknowledged his "very rich background" (00:39:04), you could have more directly helped him brainstorm how these specific, valuable skills could be a unique asset in the AI-driven, entrepreneurial future you painted. For example, how could his experience with institutional donors or building bridges between France and Asia be leveraged in creating or funding these new "agentic" AI ventures?
 
-2.**Soften the "All-or-Nothing" AI Focus (Slightly):** Your strong conviction about AI is clear and likely valuable. However, for someone exploring a career shift, it might have been helpful to acknowledge if _any_ of his initial thoughts (e.g., strategic consulting for media transformation) could have _elements_ that integrate AI, rather than suggesting a complete pivot to building a new AI venture from scratch as the primary path. Perhaps bridge the gap more: "If you _were_ to consult, how could an AI-first approach differentiate you from FT Strategies?"
+2.**Soften the "All-or-Nothing" AI Focus (Slightly):** Your strong conviction about AI is clear and likely valuable. However, for someone exploring a career shift, it might have been helpful to acknowledge if *any* of his initial thoughts (e.g., strategic consulting for media transformation) could have *elements* that integrate AI, rather than suggesting a complete pivot to building a new AI venture from scratch as the primary path. Perhaps bridge the gap more: "If you *were* to consult, how could an AI-first approach differentiate you from FT Strategies?"
 
 3.**Offer More Concrete, Smaller "First Steps" for Experimentation:** While "build one yourself" (00:30:35) is powerful advice, it can also be daunting. You could have suggested a micro-experiment: "What's one tiny problem you see in the Europe-Asia information flow that you could try to solve with an AI tool this week? Document your process." This makes the "build it" advice more immediately actionable.
 
-4.**Explore His "Consulting" Interest a Bit More Before Dismissing It:** When Louis mentioned an interest in corporate strategy consulting for media (00:26:38), you quickly pivoted to the AI/startup path. You could have first asked a few more questions about _why_ that interested him or what specific aspects appealed to him. Understanding his motivation there might have helped tailor your AI-centric advice more closely to his underlying aspirations.
+4.**Explore His "Consulting" Interest a Bit More Before Dismissing It:** When Louis mentioned an interest in corporate strategy consulting for media (00:26:38), you quickly pivoted to the AI/startup path. You could have first asked a few more questions about *why* that interested him or what specific aspects appealed to him. Understanding his motivation there might have helped tailor your AI-centric advice more closely to his underlying aspirations.
 
-5.**Acknowledge and Reframe "Imposter Syndrome" More Specifically:** Louis mentioned imposter syndrome (00:40:10). While you rightly challenged it, you could have more directly tied overcoming it to the small, tangible successes of the AI experiments you were advocating. "Each small AI tool you build or experiment you run is direct proof against that imposter feeling, because you'll have _done_ it."
+5.**Acknowledge and Reframe "Imposter Syndrome" More Specifically:** Louis mentioned imposter syndrome (00:40:10). While you rightly challenged it, you could have more directly tied overcoming it to the small, tangible successes of the AI experiments you were advocating. "Each small AI tool you build or experiment you run is direct proof against that imposter feeling, because you'll have *done* it."
 
-6.**Provide a Few Navigational Clues (Even if Generic):** While you rightly emphasized mindset over specific resources, when he asked for "resources online" or "interesting people to talk to" (00:36:33), you mainly reiterated the mindset point and the Google I/O keynote. Perhaps you could have pointed to a general _type_ of community or thinker in the AI/entrepreneurship space (without endorsing specific ones) that aligns with your philosophy, e.g., "Look for thinkers who are at the intersection of AI agency and niche problem-solving."
+6.**Provide a Few Navigational Clues (Even if Generic):** While you rightly emphasized mindset over specific resources, when he asked for "resources online" or "interesting people to talk to" (00:36:33), you mainly reiterated the mindset point and the Google I/O keynote. Perhaps you could have pointed to a general *type* of community or thinker in the AI/entrepreneurship space (without endorsing specific ones) that aligns with your philosophy, e.g., "Look for thinkers who are at the intersection of AI agency and niche problem-solving."
 
-7.**The "Harsh" Comment:** You mentioned, "And I'm being quite harsh here. And the reason why I'm being harsh is because I think that there's a lack of imagination..." (00:42:26). While your intent was to provoke, directly labeling the industry (and by extension, perhaps its participants) with a "lack of imagination" can sometimes shut down thinking rather than open it up. Phrasing like, "I believe there's a vast _untapped potential_ for imagination here..." might be more inviting.
+7.**The "Harsh" Comment:** You mentioned, "And I'm being quite harsh here. And the reason why I'm being harsh is because I think that there's a lack of imagination..." (00:42:26). While your intent was to provoke, directly labeling the industry (and by extension, perhaps its participants) with a "lack of imagination" can sometimes shut down thinking rather than open it up. Phrasing like, "I believe there's a vast *untapped potential* for imagination here..." might be more inviting.
 
 Overall, it was a session packed with challenging and valuable insights. The main area for potential enhancement lies in bridging Louis's existing world and skills more explicitly with the new AI-driven paradigm you passionately advocate for, and perhaps offering slightly more scaffolded steps into that new territory.

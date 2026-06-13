@@ -1,7 +1,7 @@
 ---
-type: Note
+type: Coaching-Session
 ---
-# Coaching -Padma Priya
+# Coaching - Padma Priya
 
 - Title: Co-founder
 - Company: Suno India

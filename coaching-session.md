@@ -7,6 +7,7 @@ _order: 30
 _pinned_properties:
   - client
   - session_date
+_sort: "created:desc"
 ---
 
 # Coaching-Session

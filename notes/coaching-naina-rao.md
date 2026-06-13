@@ -6,10 +6,9 @@ date: 2024-04-08
 client: Naina Rao
 belongs_to: Splice Media
 ---
+# Coaching - Naina Rao
 
-# Naina Rao
-
-- Email: npbrao@gmail.com
+- Email: <npbrao@gmail.com>
 - Location: Guam
 
 **Monday, April 8, 2024**
@@ -25,7 +24,7 @@ However, by the end of the call, Naina seemed to have gained more clarity and co
 
 In summary, Naina started off feeling unsure and stressed, but by the end of the call she had gained more clarity, confidence and a plan to proactively build the support systems she needs to thrive in this new leadership role.
 
----
+***
 
 **Session notes**
 

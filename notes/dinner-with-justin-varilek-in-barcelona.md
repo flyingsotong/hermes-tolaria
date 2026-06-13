@@ -1,6 +1,6 @@
 ---
-type: Note
 date: 2024-03-14
+type: Meeting-Note
 ---
 # Dinner with Justin Varilek in Barcelona
 

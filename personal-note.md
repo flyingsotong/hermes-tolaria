@@ -6,6 +6,7 @@ _sidebar_label: Personal
 _order: 90
 _pinned_properties:
   - date
+_sort: "created:desc"
 ---
 
 # Personal-Note

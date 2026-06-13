@@ -1,5 +1,5 @@
 ---
-type: Note
+type: Meeting-Note
 ---
 # China disinfo discussion -- Brussels, Comet
 

@@ -1,6 +1,6 @@
 ---
-type: Note
 date: 2024-03-15
+type: Meeting-Note
 ---
 # Dinner with Preethi Nallu in Barcelona
 

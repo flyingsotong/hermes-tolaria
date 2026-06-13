@@ -6,10 +6,9 @@ date: 2023-09-18
 client: Bhanupriya Rao
 belongs_to: Splice Media
 ---
+# Coaching - Bhanupriya Rao
 
-# Bhanupriya Rao
-
-- Email: bhanupriya@behanbox.com
+- Email: <bhanupriya@behanbox.com>
 
 > "When I say you changed my life, I'm not exaggerating one bit. I think a lot and with a lot of honesty because as I keep telling you, this is important to me — being honest with myself. Since as far as I can remember I have always wanted to better myself, rise above my present. And the key to that is honesty. What you have helped me with is make me connect the dots with all honesty."
 
@@ -36,7 +35,7 @@ Bhanupriya's written reflection:
 
 *This is why I also love my sessions with you. Opening up about all this is not easy but why I do this is because you treat me as a person and not as a 'hero' or as a 'case to be worked upon'. You are helping me find what I love and the feelings that come with it. Love is joy but also confidence and energy. I wish that people are treated for who they are, not what is envisioned of them. I wish kids are taught early that they are persons and not the experiments/lab rats of their parents. And today I really wish we all discover what we love. Because beyond fear lies love.*
 
----
+***
 
 **August 24, 2023**
 
@@ -47,7 +46,7 @@ Bhanupriya's written reflection:
 
 What's the one change your client needs? Ask: **What is the change you want for yourself? How can I help you with that change?**
 
----
+***
 
 **August 8, 2023**
 
@@ -60,7 +59,7 @@ What's the one change your client needs? Ask: **What is the change you want for 
 - Her insight: the way she thinks about something not being "intellectual enough" is holding her back — this is something we'll get into next week from a "fear paradigm" perspective... what are you really afraid of?
 - My insight: I'm loving this.
 
----
+***
 
 **July 4, 2023**
 
@@ -68,7 +67,7 @@ What's the one change your client needs? Ask: **What is the change you want for 
 - Her insight: the need to really go down and look hard at the value they're creating
 - My insight: when I'm lazy, I switch to consulting mode and answer their questions — do people expect me to give them business answers because of what I do with Splice?
 
----
+***
 
 **May 29, 2023**
 
