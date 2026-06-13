@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Battle to Restore Public Trust in Malaysia’s Media (The Diplomat)
 
 - URL: [https://thediplomat.com/2024/05/the-battle-to-restore-public-trust-in-malaysian-media/](https://thediplomat.com/2024/05/the-battle-to-restore-public-trust-in-malaysian-media/?utm_source=substack\&utm_medium=email)
 

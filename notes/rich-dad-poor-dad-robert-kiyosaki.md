@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Rich Dad Poor Dad (Robert Kiyosaki)
 
 - There is a difference between being poor and being broke. Broke is temporary. Poor is eternal.”
 

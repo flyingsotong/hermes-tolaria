@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Teaching survivorship bias using the WWII bomber mission example is a fantastic and highly effective way to illustrate this cognitive bias. Here's a detailed plan for your lecture
 
 Lecture Plan: The WWII Bomber & Survivorship Bias
 

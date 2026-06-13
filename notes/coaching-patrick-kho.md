@@ -7,6 +7,7 @@ date: 2025-02-03
 client: Patrick Kho
 belongs_to: Splice Media
 ---
+# Coaching - Patrick Kho
 
 **February 3, 2025**
 

@@ -2,6 +2,7 @@
 type: Media-Analysis
 source_url: https://www.therebooting.com/p/newsletters-arent-business-models?utm_source=post-email-title&publication_id=100541&post_id=139199609&utm_campaign=email-post-title&isFreemail=true&r=2qlk6&utm_medium=email
 ---
+# Newsletters aren’t business models - by Brian Morrissey
 
 - Description: Email is a great starting point
 

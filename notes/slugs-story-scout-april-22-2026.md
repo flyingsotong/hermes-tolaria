@@ -6,6 +6,7 @@ scout_date: 2026-04-22
 related_to:
   - Slugs
 ---
+# Slugs story scout — April 22, 2026
 
 ---
 Five candidates for this week's issue, ranked #1 to #5.

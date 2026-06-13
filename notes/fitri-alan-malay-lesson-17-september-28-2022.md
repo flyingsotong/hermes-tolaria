@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Fitri, Alan Malay lesson 17 – September 28, 2022
 
 Attendees: <fitriyanti@gmail.com>, Alan Soon
 

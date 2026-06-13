@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How to clean up your books before selling your business
 
 - Description: Will a buyer be impressed with your business’s clear financials, or is your accounting a mess? Follow our checklist to make sure your books are sale-ready.
 

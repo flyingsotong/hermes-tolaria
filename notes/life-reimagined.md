@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Life Reimagined
 
 - Author: [Barbara Bradley Hagerty](Barbara%20Bradley%20Hagerty.md)
 

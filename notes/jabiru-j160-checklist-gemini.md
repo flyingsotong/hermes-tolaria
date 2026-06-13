@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Jabiru J160 Checklist (Gemini)
 
 Via Gemini. This information is for general educational and informational purposes only.**It is not a substitute for the official Pilot's Operating Handbook (POH) for the specific aircraft you are flying.** Procedures can vary based on the aircraft's serial number, installed equipment (e.g., choke vs. primer), and local operating conditions.
 ALWAYS refer to the approved POH and your flight school's or organization's specific checklists before operating any aircraft.*

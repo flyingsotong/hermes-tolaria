@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The First Principles of Marketing (Martin Soler)
 
 <https://martinsoler.com/insights/2025/9/30/the-first-principles-of-marketing>
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Starbucks’ New Logo A Risky Move
 
 2010 was the year that proved that logo change is not always for the better. Gap got taken to the cleaners when it updated its branding and Tropicana came a cropper when it removed the iconic orange and straw from its packaging. Perhaps with these debacles in mind, Starbucks waited until 2011 to unveil its new face. By going with a minimalist approach, eliminating all words (the old logo said “Starbucks Coffee”) and playing up the siren figure, the company appears to be pulling an Apple. But given a fundamental difference between the two, the new Starbucks logo could turn out to be a lemon.
 

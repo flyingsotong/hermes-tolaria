@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Understanding MSL vs. AGL
 
 Objective: By the end of this lesson, you will be able to confidently differentiate between Mean Sea Level (MSL) and Above Ground Level (AGL) and correctly identify these values on an aeronautical chart.
 

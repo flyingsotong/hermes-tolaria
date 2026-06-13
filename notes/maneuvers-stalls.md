@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Maneuvers Stalls
 
 A stall is the reduction in lift that occurs **when the critical angle of attack is exceeded**, causing the airflow to separate from the wing's upper surface. This separation results in a significant decrease in lift and an increase in drag.
 

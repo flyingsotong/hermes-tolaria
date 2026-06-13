@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# China disinfo discussion -- Brussels, Comet
 
 China tactics to influence communities abroad What is the role in social media
 

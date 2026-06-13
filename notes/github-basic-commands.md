@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Github basic commands
 
 **Clone** — download a repo from GitHub to your machine. You do this once.
 

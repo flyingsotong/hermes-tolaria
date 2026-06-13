@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Checklist Personal Minimums
 
 - I fly for fun 1st and foremost — if it's not going to be fun DON'T DO IT!
 - Check everything — TWICE

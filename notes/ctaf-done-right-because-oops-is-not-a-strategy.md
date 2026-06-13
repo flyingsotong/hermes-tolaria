@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# CTAF Done Right Because Oops Is Not a Strategy
 
 [Flight Safety Australia](https://www.flightsafetyaustralia.com/2025/08/ctaf-done-right-because-oops-is-not-a-strategy/?utm_source=Swift%20Digital\&utm_medium=Email\&utm_campaign=Flight%20Safety%20Australia)
 

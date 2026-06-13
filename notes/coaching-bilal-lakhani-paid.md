@@ -7,6 +7,7 @@ date: 2026-01-19
 client: Bilal Lakhani (Paid)
 belongs_to: Splice Media
 ---
+# Coaching - Bilal Lakhani (Paid)
 
 **Coaching Journal: Reflections on the Bilal Lakhani engagement**
 

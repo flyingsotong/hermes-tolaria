@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# ADAM Up to 7 kg Theory Class
 
 **August 22, 2025**
 

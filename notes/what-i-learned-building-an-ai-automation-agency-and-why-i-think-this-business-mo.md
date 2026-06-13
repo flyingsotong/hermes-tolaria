@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# What I learned building an AI Automation Agency (and why I think this Business Model is Broken) — N…
 
 What I learned building an AI Automation Agency (and why I think this Business Model is Broken) — Nadia Privalikhina
 

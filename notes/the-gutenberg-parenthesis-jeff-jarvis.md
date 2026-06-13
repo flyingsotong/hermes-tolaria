@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Gutenberg Parenthesis (Jeff Jarvis)
 
 - Author: [Jeff Jarvis](Jeff%20Jarvis.md)
 

@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Website setup checklist
 
 1. Code with Gemini
 

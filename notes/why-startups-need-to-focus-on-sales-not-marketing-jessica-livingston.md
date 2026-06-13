@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Why Startups Need to Focus on Sales, Not Marketing — Jessica Livingston
 
 - Description: The most important thing an early-stage startup should know about marketing is rather counterintuitive: that you probably shouldn’t be doing anything you’d use the term “marketing
 

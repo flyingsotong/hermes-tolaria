@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# My coaching brand — how I work as a coach around uncomfortable truths
 
 Here’s how you can build a simple, compelling description of what you do when you help clients figure out their uncomfortable truths.
 

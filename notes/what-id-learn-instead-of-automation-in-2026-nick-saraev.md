@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# What I'd Learn Instead of Automation in 2026 (Nick Saraev)
 
 <https://www.youtube.com/watch?v=YIl-awY250k>
 This video argues that the AI revolution is making surface-level technical skills obsolete. To build a successful business now, you need to shift your focus from _how_ to build automations to _what_ problems need solving and _how_ to communicate those problems to AI.

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# New Mem
 
 [Houck's Newsletter](https://www.houck.news/) [Start Here](https://www.houck.news/c/start-here) [Community](https://community.houck.news/) [Partnerships](https://www.passionfroot.me/houck) [Work with Houck](https://www.houck.news/c/collab) Categories [Try For Free](https://www.houck.news/subscribe)
 **17 Fundraising Terms Founders Need To Know**

@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# CASA Non-controlled operations quiz (fixed-wing)
 
 **1. What is the definition of 'in the vicinity' of a non-controlled aerodrome?**
 - within 5 nm of the aerodrome, and 3,000 ft

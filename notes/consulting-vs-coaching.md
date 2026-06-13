@@ -3,6 +3,7 @@ type: Coaching-Session
 client: Consulting vs Coaching
 belongs_to: Splice Media
 ---
+# Consulting vs Coaching
 
 Hire a consultant when you need to execute a process or a method. Hire a coach when you want to learn to learn more about how you think and feel.
 

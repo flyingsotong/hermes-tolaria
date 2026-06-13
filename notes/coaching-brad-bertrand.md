@@ -7,6 +7,7 @@ date: 2025-03-28
 client: Brad Bertrand
 belongs_to: Splice Media
 ---
+# Coaching - Brad Bertrand
 
 ---
 

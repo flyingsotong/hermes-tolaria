@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# It’s Not Just Semantics Managing Outcomes Vs. Outputs
 
 by [Deborah Mills-Scofield](https://hbr.org/search?term=deborah%20mills-scofield) November 26, 2012
 

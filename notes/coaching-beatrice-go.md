@@ -7,6 +7,7 @@ date: 2023-06-02
 client: Beatrice Go
 belongs_to: Splice Media
 ---
+# Coaching - Beatrice Go
 
 **June 2, 2023**
 

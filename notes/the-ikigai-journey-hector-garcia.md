@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Ikigai Journey (Hector Garcia)
 
 - Author: [Hector Garcia](Hector%20Garcia.md)
 

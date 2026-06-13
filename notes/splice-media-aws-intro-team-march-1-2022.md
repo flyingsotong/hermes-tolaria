@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Splice Media  AWS Intro Team – March 1, 2022
 
 Attendees: <langsyd@amazon.com>, Alan Soon, <aliamoli@amazon.com>, <sehgalv@amazon.com>, <jasontue@amazon.com>, <vikup@amazon.com>
 

@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# RPC Exam Paper 1 Answers
 
 Okay, here are the answers to your RPC Exam questions, along with explanations based on standard Australian aviation regulations and practices (primarily CASA regulations and AIP, which RAAus operations generally align with).
 

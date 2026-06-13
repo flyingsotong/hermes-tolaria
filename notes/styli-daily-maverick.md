@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Styli, Daily Maverick
 
 Sources of revenue:
 

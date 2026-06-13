@@ -7,6 +7,7 @@ date: 2025-02-17
 client: Grace Shao
 belongs_to: Splice Media
 ---
+# Coaching - Grace Shao
 
 **February 17, 2025**
 

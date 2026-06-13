@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# 124 - People, Talent & Culture - Hospitality's problem
 
 [Read on Substack](https://martinsoler.substack.com/p/124-people-talent-and-culture-hospitalitys)
 

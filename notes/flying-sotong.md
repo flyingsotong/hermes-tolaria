@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Flying Sotong
 
 **Content Pillars & Exploration Areas**
 

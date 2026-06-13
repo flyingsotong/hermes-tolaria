@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# THIS is Why You're Still Slow Even With AI (Nate B. Jones)
 
 **Summary**
 

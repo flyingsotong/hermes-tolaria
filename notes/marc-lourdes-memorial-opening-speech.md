@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Marc Lourdes memorial -- opening speech
 
 **Marc Lourdes memorial -- opening speech**
 

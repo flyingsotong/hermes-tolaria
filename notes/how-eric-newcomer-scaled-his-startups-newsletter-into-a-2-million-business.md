@@ -2,6 +2,7 @@
 type: Project-Note
 source_url: https://simonowens.substack.com/p/how-eric-newcomer-scaled-his-startups
 ---
+# How Eric Newcomer scaled his startups newsletter into a $2 million business
 
 - Description: The former Bloomberg reporter is hyper focused on serving an affluent and influential audience.
 

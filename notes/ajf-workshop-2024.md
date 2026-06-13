@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# AJF workshop 2024
 
 _This half-day session will cover the changes in the media/information landscape in the past five years, and where it'll be two years from now. Here are the key themes:_
 

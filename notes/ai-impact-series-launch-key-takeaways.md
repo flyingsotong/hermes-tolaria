@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# AI Impact Series Launch - Key Takeaways
 
 **Introduction**
 

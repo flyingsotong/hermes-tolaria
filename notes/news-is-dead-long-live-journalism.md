@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# News is Dead. Long Live Journalism!
 
 - Description: How AI reveals an opportunity to rise above the noise and save journalism.
 

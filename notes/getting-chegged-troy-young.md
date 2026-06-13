@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Getting Chegged (Troy Young)
 
 [Troy Young](Troy%20Young.md) <https://www.peoplevsalgorithms.com/p/getting-chegged>
 

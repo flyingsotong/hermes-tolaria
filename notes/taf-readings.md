@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# TAF Readings
 
 `TAF: WSSS 280800Z 1808/1912 03009KT 9999 FEW015 SCT020`
 

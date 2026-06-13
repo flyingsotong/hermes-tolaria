@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Elite athlete vs. grandmaster The mechanics of decision-making - Big Think
 
 - URL: [https://bigthink.com/business/athlete-vs-grandmaster-the-psychology-of-decision-making](https://bigthink.com/business/athlete-vs-grandmaster-the-psychology-of-decision-making/?utm_source=rejoiner\&utm_medium=email\&utm_campaign=businessnewsletter\&utm_content=09%2F30%2F24+BT+Biz\&rjnrid=PDxw8wL)
 

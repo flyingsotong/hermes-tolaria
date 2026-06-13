@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Flavors Menufesto
 
 "What would you do for a country on the brink of the internet?"
 

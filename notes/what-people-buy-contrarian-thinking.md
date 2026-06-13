@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# What people buy (Contrarian Thinking)
 
 [Entrepreneurship 2](What%20people%20buy%20%28Contrarian%20Thinking%29/Entrepreneurship%202)
 

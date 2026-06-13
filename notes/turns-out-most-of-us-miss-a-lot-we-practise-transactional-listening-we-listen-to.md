@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Turns out Most of us miss a lot → We practise transactional listening - we listen to answer and not to understand.
 
 1⃣ Our brains often make unconscious assumptions when we listen, leading us to be wrong more frequently than we realize. 2⃣ Also, when speaking, we may not articulate our thoughts accurately the first time. So there‘s an even higher chance we‘re not really understanding our interviewing partner correctly.
 

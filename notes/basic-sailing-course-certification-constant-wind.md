@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Basic Sailing Course Certification (Constant Wind)
 
 January 13-4, 2024
 

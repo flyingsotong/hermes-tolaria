@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How to Study & Learn Using Active Recall
 
 - Description: Dr. Cal Newport and Dr. Andrew Huberman discuss the concept of active recall and its role in effective learning.
 - Highlights

@@ -7,6 +7,7 @@ date: 2025-01-15
 client: Durga Sengupta
 belongs_to: Splice Media
 ---
+# Coaching - Durga Sengupta
 
 **January 15, 2025**
 

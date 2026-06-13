@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# Game Over Deconstructing the tradeoffs of a troubled media operator (People vs Algorithms)
 
 - URL: [https://www.peoplevsalgorithms.com/p/game-over](https://www.peoplevsalgorithms.com/p/game-over?utm_source=post-email-title\&publication_id=526437\&post_id=141244715\&utm_campaign=email-post-title\&isFreemail=true\&r=5enl\&utm_medium=email)
 - Description: Deconstructing the tradeoffs of a troubled media operator.

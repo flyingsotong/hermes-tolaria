@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# First Things First
 
 Stephen R. Covey, A. Roger Merrill and Rebecca R. Merrill
 

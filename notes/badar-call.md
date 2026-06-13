@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Badar call
 
 Badar call 16/1/2023
 

@@ -7,6 +7,7 @@ date: 2025-03-25
 client: Amanda Oon
 belongs_to: Splice Media
 ---
+# Coaching - Amanda Oon
 
 **March 25, 2025**
 

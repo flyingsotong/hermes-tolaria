@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Legacy Is When Your Ideas Outlive Their Attribution The Skift Journey (Rafat Ali)
 
 [Read on Operator (Substack)](https://operator.substack.com/p/legacy-is-when-your-ideas-outlive?utm_source=post-email-title\&publication_id=4056\&post_id=185079635\&utm_campaign=email-post-title\&isFreemail=true\&r=2qlk6\&triedRedirect=true\&utm_medium=email)
 **Author:** Rafat Ali

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Continuous Discovery Habits (Teresa Torres)
 
 - Author: [Teresa Torres](Teresa%20Torres.md)
 

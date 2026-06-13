@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Emotions Help Us Think Straight (The New York Times)
 
 - Description: We now understand that our emotions are often wise. The problem is that our culture and our institutions haven’t caught up with our knowledge.
 

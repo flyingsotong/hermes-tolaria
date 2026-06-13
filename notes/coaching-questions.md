@@ -6,6 +6,7 @@ tags:
 client: Questions
 belongs_to: Splice Media
 ---
+# Coaching - Questions
 
 **Setting the stage**
 

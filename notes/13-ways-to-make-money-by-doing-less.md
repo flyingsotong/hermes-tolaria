@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# 13 ways to make money by doing less
 
 ​**Hey Contrarians,** People obsess about stocks vs Airbnb vs ecommerce. The truth is, you can make millions doing just about anything. We know a guy who became a billionaire selling chicken byproduct. Yuck. What you can’t do? Become a millionaire w_hen the life you live doesn’t lend itself to wealth_. Sometimes making money isn’t about the tactic: it’s about the habit. Let's look at some small decisions that compound to big results.
 ![](https://embed.filekitcdn.com/e/898UQfCbkN4VwgpQCm46MR/baLwwvcVgobcbGzsN7J2Ds?w=800\&fit=max)

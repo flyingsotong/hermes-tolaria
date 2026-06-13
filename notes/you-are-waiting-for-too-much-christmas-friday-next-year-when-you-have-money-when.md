@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# You are waiting for too much Christmas, Friday, next year, when you have money, when love arrives, when everything is perfect...
 
 Listen, perfection does not exist.
 

@@ -3,6 +3,7 @@ type: Coaching-Session
 client: PCC Module 1 Foundations of Coaching
 belongs_to: Splice Media
 ---
+# PCC Module 1 Foundations of Coaching
 
 My intention
 

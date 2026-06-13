@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Peter Thiel Wants Everyone to Think More About the Antichrist
 
 [Wall Street Journal Article](https://www.wsj.com/tech/peter-thiel-antichrist-lectures-dd28c876)
 

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Defining Journalism Creator Newsrooms
 
 - primarily fronted by one or two personalities
 

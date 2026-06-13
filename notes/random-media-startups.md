@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Random media startups
 
 The newsletter is the core of 2PM Inc: an industry-leading source that analyzes the intersection of media and commerce and how those principles are applied elsewhere. <https://2pml.com/>
 

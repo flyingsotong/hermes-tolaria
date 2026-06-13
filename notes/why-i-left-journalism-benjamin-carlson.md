@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Why I Left Journalism (Benjamin Carlson)
 
 Here are the bad habits — or peccadilloes, or perhaps even sins — that I perceived in the industry and feared were growing in me as a byproduct of being a journalist:
 

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Psychology of Money (Morgan Housel)
 
 <https://readwise.io/bookreview/28921493>
 

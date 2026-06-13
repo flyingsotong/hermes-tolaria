@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# 10 Tips for Better Due Diligence 1
 
 10 Tips for Better Due Diligence
 <https://twitter.com/steviemctweets/status/1592249833204903936>

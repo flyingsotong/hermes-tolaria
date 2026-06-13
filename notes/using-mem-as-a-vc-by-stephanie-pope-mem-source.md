@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Using Mem as a VC - by Stephanie Pope - Mem (source)
 
 Using Mem as a VC - by Stephanie Pope - Mem ([source](https://newsletter.mem.ai/p/using-mem-as-a-vc))
 

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Are you still worried about who owns the customer (Martin Soler)
 
 <https://en.10minhotel.com/2025/06/05/111-seriously-now-who-owns-the-customer/>
 There’s a phrase that keeps popping up in marketing discussions: _owning the customer._ And every time I hear it, I cringe.

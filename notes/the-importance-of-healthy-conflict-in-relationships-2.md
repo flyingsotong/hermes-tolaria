@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Importance of Healthy Conflict in Relationships 2
 
 The Importance of Healthy Conflict in Relationships
 <https://twitter.com/Theholisticpsyc/status/1590378103926591491>

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# A Love Letter (Alex Elle)
 
 [A Love Letter](https://alexelle.substack.com/p/a-love-letter)
 

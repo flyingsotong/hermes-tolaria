@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Audience in the Mind’s Eye How Journalists Imagine Their Readers
 
 Columbia Journalism Review TOW REPORT JUNE 26, 2019 By JAMES G. ROBINSON   <https://www.cjr.org/tow_center_reports/how-journalists-imagine-their-readers.php>
 

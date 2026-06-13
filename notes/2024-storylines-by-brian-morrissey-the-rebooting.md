@@ -2,6 +2,7 @@
 type: Media-Analysis
 source_url: https://www.therebooting.com/p/2024-storylines
 ---
+# 2024 storylines - by Brian Morrissey - The Rebooting
 
 - Description: Platform-publisher deals, mass media's decline while individuals rise, Web3 comes back
 

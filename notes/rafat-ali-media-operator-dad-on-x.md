@@ -2,6 +2,7 @@
 type: Media-Analysis
 source_url: https://twitter.com/rafat/status/1749782623814111355
 ---
+# Rafat Ali, Media Operator & Dad on X
 
 - Description: [Rafat Ali.md](Rafat%20Ali,%20Media%20Operator%20&%20Dad%20on%20X/Rafat%20Ali.md)
 

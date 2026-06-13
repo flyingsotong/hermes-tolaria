@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Fractals Server & Services Cheat Sheet
 
 Last Updated: October 10, 2025
 This document contains all the essential details for the server hosting fractals.sg services.

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Blue Oceans
 
 Competition shouldn't be the center of your thinking Competition keeps you anchored on a fixed way of growing Too much is spent trying to claw market share instead of building new markets
 

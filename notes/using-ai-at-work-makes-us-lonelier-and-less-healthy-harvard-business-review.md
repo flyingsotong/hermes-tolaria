@@ -2,6 +2,7 @@
 type: Project-Note
 source_url: https://hbr.org/2024/06/research-using-ai-at-work-makes-us-lonelier-and-less-healthy
 ---
+# Using AI at Work Makes Us Lonelier and Less Healthy (Harvard Business Review)
 
 - Description: The promise of AI is alluring — optimized productivity, lightning-fast data analysis, and freedom from mundane tasks — and both companies and workers alike are fascinated (and more than a little dumbfounded) by how these tools allow them to do more and better work faster than ever before. Yet in fervor to keep pace with competitors and reap the efficiency gains associated with deploying AI, many organizations have lost sight of their most important asset: the humans whose jobs are being fragmented into tasks that are increasingly becoming automated. Across four studies, employees who use it as a core part of their jobs reported feeling lonelier, drinking more, and suffering from insomnia more than employees who don’t.
 

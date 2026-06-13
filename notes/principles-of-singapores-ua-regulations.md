@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Principles of Singapore's UA Regulations
 
 **1. A Risk-Based Approach**
 This is the central pillar of the entire framework. Instead of a single, restrictive set of rules for all drones, the regulations are calibrated to the level of risk a specific drone operation poses. The greater the potential risk to people, property, or other aircraft, the more stringent the requirements for pilot competency, equipment airworthiness, and operational permits.

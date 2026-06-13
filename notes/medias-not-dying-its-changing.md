@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Media's not dying, it's changing
 
 - Description: Plus: Why did Google come to dominate ad tech?
 

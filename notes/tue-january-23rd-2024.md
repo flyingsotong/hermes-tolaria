@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Tue, January 23rd, 2024
 
 - [Links](Links.md)
 

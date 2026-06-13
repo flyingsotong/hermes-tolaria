@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# What I want for myself in 2025
 
 _I find deep satisfaction whenever I can help people and businesses achieve their goals. I'm good at seeing patterns, opportunities and challenges, and creating different ways to proceed. Learning excites me and I'm always looking for new ways to do that. These give me purpose._ (via Clifton Strengths Personality Report)
 

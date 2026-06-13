@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How do I get to the main venue at Chiang Mai University
 
 Take the red trucks from Nimman. Lucky you if you've picked a hotel in Nimman! There are two red truck (songtaew) stations in the area.
 

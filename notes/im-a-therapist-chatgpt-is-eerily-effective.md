@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# I’m a Therapist. ChatGPT Is Eerily Effective.
 
 Aug. 1, 2025
 

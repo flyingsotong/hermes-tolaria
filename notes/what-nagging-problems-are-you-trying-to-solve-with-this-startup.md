@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# What nagging problems are you trying to solve with this startup
 
 1. What nagging problems are you trying to solve with this startup?
 

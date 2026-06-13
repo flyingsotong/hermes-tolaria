@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Company of One
 
 **Metadata**
 

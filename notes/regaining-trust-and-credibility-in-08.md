@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Regaining Trust and Credibility in ‘08
 
 Making the Press, Politics and PR Personal Again By Stephen M.R. Covey, CEO, CoveyLink Worldwide; Author, "The Speed of Trust"
 

@@ -3,6 +3,7 @@ type: Coaching-Session
 client: RFTW coaching Karma Paljor
 belongs_to: Splice Media
 ---
+# RFTW coaching Karma Paljor
 
 **Aug 20, 2025**
 This transcript captures a productive initial coaching call focused on the coachee's journalism business.

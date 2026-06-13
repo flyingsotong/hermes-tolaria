@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The new SERP
 
 - Description: Plus: Highlights from The Rebooting's 2023 and a conversation with House of Kaizen's Matt Cronin on publisher subscription trends.
 

@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# Moving past ZIRP (Brian Morrissey)
 
 **The Rebooting**
 <https://www.therebooting.com/p/moving-past-zirp>

@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Understanding the G1000 aircraft
 
 **Course, Heading, and Why You're Not Flying Straight South**
 

@@ -7,6 +7,7 @@ date: 2023-07-07
 client: Julia Hildebrand
 belongs_to: Splice Media
 ---
+# Coaching - Julia Hildebrand
 
 Email: julia.hildebrand@proton.me
 

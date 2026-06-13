@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Care doesn't scale
 
 - Highlights
 

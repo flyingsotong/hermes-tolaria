@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# An audience of one — served at scale
 
 An AI scenario by Splice By Alan Soon and Rishad Patel Free to circulate; anonymity not required
 

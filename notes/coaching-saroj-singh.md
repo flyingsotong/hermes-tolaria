@@ -7,6 +7,7 @@ date: 2025-06-03
 client: Saroj Singh
 belongs_to: Splice Media
 ---
+# Coaching - Saroj Singh
 
 **June 3, 2025**
 

@@ -3,6 +3,7 @@ type: Coaching-Session
 client: Minimum Skills Requirements for ICF ACC Credential
 belongs_to: Splice Media
 ---
+# Minimum Skills Requirements for ICF ACC Credential
 
 <https://coachingfederation.org/credentials-and-standards/performance-evaluations/minimum-skills-requirements>
 

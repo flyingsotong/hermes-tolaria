@@ -3,6 +3,7 @@ type: Personal-Note
 tags:
   - quotes
 ---
+# Nugget of Wisdom (Joseph Nguyen)
 
 **On suffering and enlightenment**
 Suffering is not in the way of enlightenment. It is the path to enlightenment.

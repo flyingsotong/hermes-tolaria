@@ -7,6 +7,7 @@ date: 2025-02-05
 client: Kanika Sharma
 belongs_to: Splice Media
 ---
+# Coaching - Kanika Sharma
 
 **February 5, 2025**
 

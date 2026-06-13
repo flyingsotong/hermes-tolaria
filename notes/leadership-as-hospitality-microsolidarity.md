@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Leadership as Hospitality (Microsolidarity)
 
 - Highlights
 

@@ -2,6 +2,7 @@
 type: Media-Analysis
 source_url: https://niemanreports.org/articles/journalism-needs-leaders-who-know-how-to-run-a-business/
 ---
+# Journalism Needs Leaders Who Know How to Run a Business - Nieman Reports (Laura Krantz McNeill)
 
 Journalism Needs Leaders Who Know How to Run a Business - Nieman Reports (Laura Krantz McNeill)
 

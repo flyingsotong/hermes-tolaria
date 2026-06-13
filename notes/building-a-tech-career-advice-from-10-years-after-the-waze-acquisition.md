@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Building a Tech Career Advice from 10 Years After the Waze Acquisition
 
 <https://twitter.com/julie_mo/status/1669050123211399177>
 **Smart summary:** The thread provides advice for those in the tech industry, emphasizing the importance of being in the right room, seeing every opportunity as an adventure and lesson, committing to roles for the long-term, staying in touch with everyone, and being prepared for the best and worst characters to come back. It also highlights the importance of having a broad range of knowledge that can be applied in surprising ways.

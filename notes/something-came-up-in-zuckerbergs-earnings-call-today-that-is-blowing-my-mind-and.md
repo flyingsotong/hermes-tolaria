@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Something came up in Zuckerberg's earnings call today that is blowing my mind -- and could redefine information, media, and news.
 
 "Creators will now have all these tools to make content more easily and more fun. And I think over time, maybe we'll even get to the point where we can just generate content directly for people based on what they might be interested in. That could be really compelling."
 

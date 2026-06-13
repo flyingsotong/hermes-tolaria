@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Is it time to give up on old news (Jeff Jarvis)
 
 - Description: I am coming to a conclusion I have avoided for my last three decades working on the internet and news: It may finally be time to give up on old journalism...
 

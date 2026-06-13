@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Wed, March 6th, 2024
 
 - People don't buy products.
 

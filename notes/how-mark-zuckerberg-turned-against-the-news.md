@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How Mark Zuckerberg turned against the news
 
 [Kali Hays](https://12ft.io/proxy?q=https%3A%2F%2Fwww.businessinsider.com%2Fauthor%2Fkali-hays) Business Insider
 - Mark Zuckerberg is over the news media.

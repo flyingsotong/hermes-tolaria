@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# What I perceive to be important to Rishad
 
 [Rishad Patel.md](What%20I%20perceive%20to%20be%20important%20to%20Rishad/Rishad%20Patel.md)
 

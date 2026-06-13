@@ -7,6 +7,7 @@ date: 2023-08-11
 client: Marwa Ershaidat
 belongs_to: Splice Media
 ---
+# Coaching - Marwa Ershaidat
 
 - Email: marwa.ershaidat@gmail.com
 

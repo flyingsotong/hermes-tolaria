@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# UAPL Theory MCQ (2nd try)
 
 **August 25, 2025**
 That's a fantastic score on your**Class A RotorCraft UAPL Theory MCQ** test! A score of**104/122** is excellent and shows a strong grasp of the required knowledge. You are very close to a perfect score.

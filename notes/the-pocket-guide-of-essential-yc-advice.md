@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Pocket Guide of Essential YC Advice
 
 - Launch now
 

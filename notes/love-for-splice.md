@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Love for Splice
 
 “Hi Alan! Random note but just wanted to say thank you for speaking with me + giving me a platform so early on. Meeting you and Rishad and seeing your belief in me helped a lot in my journey. Your kindness meant and still means a lot! You guys were an early vote of confidence that helped me believe in myself more! Really :) And I have made great friends who have supported me personally/professionally thanks to Beta! Please keep Splice and Beta alive forever!” — Amanda Cua, Backscoop, Philippines
 

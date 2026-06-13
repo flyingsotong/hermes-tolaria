@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Splice newsletters Rate card
 
 Updated: 8/26/2024
 

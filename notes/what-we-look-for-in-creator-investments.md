@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# What We Look For In Creator Investments
 
 [https://slowupload.beehiiv.com/p/what-we-look-for-in-creator-investments](https://slowupload.beehiiv.com/p/what-we-look-for-in-creator-investments?utm_source=www.creatorspotlight.com\&utm_medium=newsletter\&utm_campaign=you-is-a-creator)
 We’re often asked what we look for in a creator opportunity. While there are dozens of factors we consider, our framework boils down to four key areas:**the creator, the community, the category, and current scale**.

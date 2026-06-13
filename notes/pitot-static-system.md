@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Pitot-Static System
 
 1. Airspeed = zero = pitot tube blocked
 2. Airspeed moving but inaccurate, VSI no movement, altimeter frozen = static port clogged

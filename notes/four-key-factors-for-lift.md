@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Four key factors for Lift
 
 **1. Angle of Attack (AOA or CL)**
 - The angle between the relative wind and the chord line of the wing

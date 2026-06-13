@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# I read Million Dollar Weekend for you (Deya)
 
 <https://www.youtube.com/watch?v=rSHREFWb41M>
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Media trends
 
 1. The pandemic has rushed the digital transformations in all industries. Remote work and automation are made possible by tech. Opportunity: Greater ability to hire widely, introducing more diversity across more locations. Also, greater competition for talent and retention.
 

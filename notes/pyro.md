@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Pyro
 
 **Mission Statement: We help men discover and embody their fullest potential through positive growth, inclusion, service, and purposeful living. By cultivating emotional intelligence, responsible leadership, and meaningful mentorship, we create clear pathways for male development that benefit families, communities, and future generations.**
 

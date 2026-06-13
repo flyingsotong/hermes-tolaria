@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Mx3 Barcelona
 
 **"Media has one last shot at getting this right. And that requires a mindset change."**
 

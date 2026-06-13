@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Show up as a “transition architect,”not an AI trainer
 
 Your pitch is not “I teach AI tools.” It is:
 **“I help newsrooms rebuild their operating system for the judgment era — with a safe sandbox, clear specs, and proof of impact.”**

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Reflections on Impostor Syndrome and Identity Misalignment
 
 Sun, December 3rd, 2023
 

@@ -2,6 +2,7 @@
 type: Project-Note
 source_url: https://paulgraham.com/foundermode.html?utm_source=substack&utm_medium=email
 ---
+# Founder Mode
 
 - Highlights
 

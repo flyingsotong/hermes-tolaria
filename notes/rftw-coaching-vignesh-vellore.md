@@ -4,6 +4,7 @@ date: 2025-08-27
 client: RFTW coaching Vignesh Vellore
 belongs_to: Splice Media
 ---
+# RFTW coaching Vignesh Vellore
 
 **August 27, 2025**
 This was a highly effective coaching session. You successfully reframed Vignesh's tactical challenges into a more fundamental strategic question about his company's core identity and value proposition.

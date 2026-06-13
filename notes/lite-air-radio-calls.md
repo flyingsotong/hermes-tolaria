@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Lite Air: Radio Calls
 
 * **Aldinga Traffic**, Piper Sport 8108, turning Base Runway 21 for (Touch and Go or Full Stop), **Aldinga**
 * **Aldinga Traffic**, Piper Sport 8108, departing Downwind Runway 21, on climb 2500, tracking southwest to the training area, **Aldinga** (note: not climbing "to" 2500 ...but just climbing 2500)

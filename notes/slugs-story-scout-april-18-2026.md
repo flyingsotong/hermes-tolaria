@@ -4,6 +4,7 @@ scout_date: 2026-04-18
 related_to:
   - Slugs
 ---
+# Slugs story scout — April 18, 2026
 
 ---
 Five candidates, ranked #1 to #5. Cross-industry signals prioritized.

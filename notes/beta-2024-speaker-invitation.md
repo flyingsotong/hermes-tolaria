@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Beta 2024 speaker invitation
 
 I'm writing to see if you'd be interested in speaking at Splice Beta this year.
 

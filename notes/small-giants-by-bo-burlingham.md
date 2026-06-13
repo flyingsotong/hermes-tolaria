@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Small Giants by Bo Burlingham
 
 <https://www.kobo.com/ebook/small-giants-1>
 

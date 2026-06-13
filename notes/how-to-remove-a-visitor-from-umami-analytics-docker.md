@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# How to Remove a Visitor from Umami Analytics (Docker)
 
 **Step 1: Access the Database** 
 SSH into the server and navigate to the docker directory:

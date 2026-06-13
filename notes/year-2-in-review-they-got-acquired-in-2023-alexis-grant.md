@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Year 2 in Review They Got Acquired in 2023 (Alexis Grant)
 
 - Description: Every year I reflect on what's working and what's not working in the business. Here's my review of 2023, the second year of They Got Acquired.
 

@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Building your media startup
 
 Talk to smart(er) people about your plan. Ask: What are the risks to failure? What do I need to do to de-risk it?
 

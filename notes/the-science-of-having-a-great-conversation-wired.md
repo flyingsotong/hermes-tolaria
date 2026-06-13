@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# The Science of Having a Great Conversation  WIRED
 
 - Description: Forming meaningful bonds with others can improve your health, make you mentally sharper, and fuel creativity. Making friends can feel daunting, but research shows there are many ways to build better connections.
 

@@ -6,6 +6,7 @@ tags:
 client: Daphne Tolis
 belongs_to: Splice Media
 ---
+# Coaching - Daphne Tolis
 
 **Daphne's situation**
 

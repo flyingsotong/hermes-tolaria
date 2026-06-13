@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# How to generate and validate startup ideas in 2024 with AI (Greg Isenberg)
 
 <https://twitter.com/gregisenberg/status/1821173742224998437>
 

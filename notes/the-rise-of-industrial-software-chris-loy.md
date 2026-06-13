@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The rise of industrial software (Chris Loy)
 
 For most of its history, software has been closer to craft than manufacture: costly, slow, and dominated by the need for skills and experience. AI coding is changing that, by making available paths of production which are cheaper, faster, and increasingly disconnected from the expertise of humans.
 

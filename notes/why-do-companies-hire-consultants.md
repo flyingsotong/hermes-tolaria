@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Why do companies hire consultants
 
 <https://twitter.com/SeanODowd15/status/1592888227148750851>
 **Smart summary:** Consultants are not hired for their specialized knowledge, but for their ability to work on special projects that business owners don't have time for. This makes them effective in getting things done short term.

@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# 8 years of Splice
 
 2023 will be remembered as the year of massive layoffs in tech. Eight years ago, I too had lost my job as part of a plan to pull back on investments and staff.
 

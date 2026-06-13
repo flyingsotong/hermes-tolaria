@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# No, 90% of New Businesses Don’t Fail. Here’s Why. 1
 
 No, 90% of New Businesses Don’t Fail. Here’s Why.
 

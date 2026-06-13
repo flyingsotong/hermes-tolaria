@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Revenue streams for media
 
 1. Advertising
 

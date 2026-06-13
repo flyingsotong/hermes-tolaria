@@ -2,6 +2,7 @@
 type: Meeting-Note
 status: archived
 ---
+# School of Splice – May 6, 2021
 
 Attendees: Alan Soon, [Rishad Patel.md](School%20of%20Splice%20%E2%80%93%20May%206,%202021/Rishad%20Patel.md)
 

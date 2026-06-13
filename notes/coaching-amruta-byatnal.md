@@ -6,6 +6,7 @@ date: 2024-05-15
 client: Amruta Byatnal
 belongs_to: Splice Media
 ---
+# Coaching - Amruta Byatnal
 
 - Title: Asia Editor
 - Company: Thomson Reuters Foundation

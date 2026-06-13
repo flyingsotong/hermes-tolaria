@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# justinwelsh.me
 
 **[justinwelsh.me](https://click.convertkit-mail.com/75u80pmr7vc8hkwdvv5izhqpqqo66/n2hohqu35vmezws6/aHR0cHM6Ly93d3cuanVzdGlud2Vsc2gubWUvYmxvZy9ob3ctdG8tZG8tYS13ZWVrbHktcHJldmlldw==)**​ _Read time:_ **3.5 minutes**_​_**A big thank you to our sponsors who keep this newsletter free to the reader:** Today's issue is brought to you by the world's best AI writer for SEO, [**Content at Scale**](https://click.convertkit-mail.com/75u80pmr7vc8hkwdvv5izhqpqqo66/wnh2h6uwvqn8eku7/aHR0cHM6Ly9jb250ZW50YXRzY2FsZS5haS9zYXR1cmRheS1zb2xvcHJlbmV1cnMv). And by Frictionless Fat Loss. [**Download the free 7-day email course**](https://click.convertkit-mail.com/75u80pmr7vc8hkwdvv5izhqpqqo66/reh8h9u0vm4ng7h2/aHR0cHM6Ly9iaXQubHkvZnJpY3Rpb25sZXNzZmF0bG9zcw==) by Registered Dietitian Matt McLeod to help you lean out, gain control over your health, and still enjoy life in 15 minutes or less per day. ​ ​ Every Friday, I settle into a small but helpful ritual that’s become a cornerstone of my life-work balance: My weekly preview. This isn’t your standard to-do list or quick glance at the calendar. It's a thoughtful process focused on eight essential questions. These questions ensure my upcoming schedule supports what’s truly important: my life. If you find yourself flying by the seat of your pants, or jumping on back-to-back calls without time for creative work, you’ll benefit from this process. So today I’m showing you how I conduct my weekly preview. I hope you’ll steal, adapt, and create your own little Friday ritual.
 **​**

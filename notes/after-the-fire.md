@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# After the fire
 
 - Description: The media business's painful transition by Brian Morrissey
 

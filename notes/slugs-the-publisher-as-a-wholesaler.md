@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# Slugs The Publisher As A Wholesaler
 
 Slugs: The publisher as a wholesaler
 

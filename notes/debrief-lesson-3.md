@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Debrief Lesson 3
 
 These are a few things I need to work on:
 

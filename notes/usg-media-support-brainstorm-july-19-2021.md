@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# USG Media support brainstorm – July 19, 2021
 
 Attendees: <boyajian@freedomhouse.org>, <director@gfmd.info>, <gdivito@internews.org>, <harlan.mandel@mdif.org>, <janine@sembramedia.org>, <jlambert@internews.org>, <jmachleder@usaid.gov>, <klord@irex.org>, Alan Soon, <marjorie@internews.org>, <markn@ned.org>, <sasa.vucinic@gmail.com>, <smaguire@usaid.gov>, <sulemana@mfwa.org>
 

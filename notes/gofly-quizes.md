@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# GoFly Quizes
 
 **What is positive stability?**
 The tendency for the aircraft to correct itself from a displacement over time

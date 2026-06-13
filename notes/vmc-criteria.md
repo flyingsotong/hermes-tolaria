@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# VMC criteria
 
 When navigating by visual reference to the ground or water, you must positively fix the aircraft’s position by visual reference to features marked on topographical charts at intervals not exceeding 30 minutes.
 

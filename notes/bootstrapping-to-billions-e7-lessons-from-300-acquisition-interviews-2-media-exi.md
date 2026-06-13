@@ -4,6 +4,7 @@ belongs_to: Magenta Debrief
 related_to:
   - Dronefly.sg
 ---
+# Bootstrapping to Billions E7 Lessons From 300+ Acquisition Interviews & 2 Media Exits w Lexi Grant
 
 This interview with Lexi Grant, founder of _They Got Acquired_, offers crucial insights for bootstrapped founders considering an exit. The core message is to be proactive, not reactive, about selling your business. Key takeaways include selling before you burn out, understanding what makes a business attractive to buyers, and preparing for the often-underestimated due diligence process.
 **Key Learnings**

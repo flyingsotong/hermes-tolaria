@@ -7,6 +7,7 @@ date: 2024-02-29
 client: Sonny Swe – Membership Growth Strategy
 belongs_to: Splice Media
 ---
+# Coaching - Sonny Swe – Membership Growth Strategy
 
 **February 29, 2024**
 

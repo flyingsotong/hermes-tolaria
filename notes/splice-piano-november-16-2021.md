@@ -2,6 +2,7 @@
 type: Meeting-Note
 status: archived
 ---
+# Splice + Piano – November 16, 2021
 
 Attendees: <tgin.wong@piano.io>, Alan Soon
 

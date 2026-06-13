@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# The Splice You're-Not-In-Media Principles
 
 **The Splice "You're-Not-In-Media" Principles** ﻿
 

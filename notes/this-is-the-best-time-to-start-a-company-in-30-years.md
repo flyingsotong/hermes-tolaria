@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# This is the best time to start a company in 30 years
 
 Greg Isenberg
 

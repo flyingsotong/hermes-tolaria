@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Death to the Mass (Jeff Jarvis)
 
 - Description: I’m honored to have been asked to write this essay for the annual report of the Tinius Trust, which controls the Scandinavian publishing giant — and the most envied news company in the world — Schibsted. I’m doubly honored to appear alongside Alan Rusbridger, BuzzFeed’s Dao Nguyen, Mic’s Cory Haik, and Emily Bell, with essays by Schibsted executives on platforms, data, product, and more. In mine, I argue for building bridges between the publishers and the platforms so, together, we can better serve the public. (Emphases added by Tinius.)
 

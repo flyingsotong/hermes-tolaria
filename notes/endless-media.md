@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Endless media
 
 We are entering a phase of endless media:**Created on demand, expansive, cheap**.
 

@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# 18 Life-Learnings from 18 Years of The Marginalian – The Marginalian
 
 - Highlights
 

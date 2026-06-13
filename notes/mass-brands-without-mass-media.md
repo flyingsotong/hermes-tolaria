@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Mass brands without mass media
 
 **Brands lost in the information space**
 

@@ -6,6 +6,7 @@ date: 2024-04-29
 client: Steve Mutua
 belongs_to: Splice Media
 ---
+# Coaching - Steve Mutua
 
 - Title: Founder
 - Company: Blueberry Production

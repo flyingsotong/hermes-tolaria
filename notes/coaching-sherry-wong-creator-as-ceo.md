@@ -7,6 +7,7 @@ date: 2024-05-02
 client: Sherry Wong – Creator as CEO
 belongs_to: Splice Media
 ---
+# Coaching - Sherry Wong – Creator as CEO
 
 **May 2, 2024**
 

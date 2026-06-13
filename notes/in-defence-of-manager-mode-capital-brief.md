@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# In defence of manager mode — Capital Brief
 
 - Description: Founder mode is always better than manager mode — as long as the founder is a visionary and the manager a hack. But it's not always that simple.
 

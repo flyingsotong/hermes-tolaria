@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Checks IMSAFE
 
 The**IMSAFE** checklist is a mnemonic used by pilots as a personal health self-assessment before deciding whether they are fit to fly. It helps pilots evaluate their physical and mental condition to ensure they are not impaired in any way that could compromise flight safety.
 

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# An apolitical beagle will lead the revolt of creators against mainstream media (Peter Erdelyi)
 
 - Description: Every time a journalist goes independent and thrives, they create a blueprint for others to follow. CEE publishers and media funders can't ignore these structural shifts anymore.
 

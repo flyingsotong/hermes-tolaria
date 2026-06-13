@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Presentation
 
 **1\. Specification is the New Economic Value**
 As the marginal cost of "doing" (writing code or drafting articles) collapses toward zero, the cost of "knowing what to do" becomes the primary expense. In an AI-driven market, the biggest risk is no longer low output; it is the**Clarity Gap.**

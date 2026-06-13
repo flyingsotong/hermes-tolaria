@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# The Splice plan to survive the 2024 media-pocolypse
 
 1. Boldly re-define the meaning of journalism by focusing on the principles and process of this work, not the content
 

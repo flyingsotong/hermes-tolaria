@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Evolution of Slugs: From curation to conviction
 
 **A profile of the newsletter that grew up with media's hardest decade**
 

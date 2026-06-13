@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# A Simple Way to Introduce Yourself
 
 <https://hbr.org/2022/08/a-simple-way-to-introduce-yourself>
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Almanack of Naval Ravikant
 
 [Almanack of Naval Ravikant — Almanack of Naval Ravikant](https://www.navalmanack.com/almanack-of-naval-ravikant/)
 

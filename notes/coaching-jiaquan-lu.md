@@ -7,6 +7,7 @@ date: 2024-04-11
 client: Jiaquan Lu
 belongs_to: Splice Media
 ---
+# Coaching - Jiaquan Lu
 
 Email: jqnlu4@gmail.com
 

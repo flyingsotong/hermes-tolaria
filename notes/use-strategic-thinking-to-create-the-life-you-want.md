@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Use Strategic Thinking to Create the Life You Want
 
 - URL: [https://hbr.org/2023/12/use-strategic-thinking-to-create-the-life-you-want](https://hbr.org/2023/12/use-strategic-thinking-to-create-the-life-you-want?utm_campaign=hbr\&utm_medium=social\&utm_source=linkedinnewsletter_lifestrategy\&tpcc=linkedinnewsletter_lifestrategy)
 

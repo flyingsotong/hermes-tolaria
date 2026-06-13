@@ -7,6 +7,7 @@ date: 2026-01-20
 client: Raastineeda Shaikh (Needa) for Nano
 belongs_to: Splice Media
 ---
+# Coaching - Raastineeda Shaikh (Needa) for Nano
 
 **January 20, 2026**
 

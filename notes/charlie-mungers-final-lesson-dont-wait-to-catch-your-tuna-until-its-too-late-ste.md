@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Charlie Munger's Final Lesson Don't Wait to Catch Your Tuna Until It's Too Late (Steady Compounding)
 
 In what would be his final interview, CNBC’s Becky Quick posed a thought-provoking question: “Is there anything left on your bucket list, Charlie?”
 

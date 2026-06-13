@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Splice It A no nonsense guide to building a media startup -- and a life of meaning around it
 
 **How to think about pricing**
 

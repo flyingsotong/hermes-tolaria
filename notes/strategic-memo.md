@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# STRATEGIC MEMO
 
 TO: Alan Soon, Founder
 FROM: CEO, Magenta Debrief

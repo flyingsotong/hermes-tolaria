@@ -7,6 +7,7 @@ date: 2023-07-25
 client: Jean Angus
 belongs_to: Splice Media
 ---
+# Coaching - Jean Angus
 
 Email: jean.angus@gmail.com
 LinkedIn: https://www.linkedin.com/in/jeanangus

@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# 1.6.2 General Airspeed Terminology and Symbols
 
 CAS
 

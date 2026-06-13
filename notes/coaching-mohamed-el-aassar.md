@@ -7,6 +7,7 @@ date: 2025-04-02
 client: Mohamed El Aassar
 belongs_to: Splice Media
 ---
+# Coaching - Mohamed El Aassar
 
 **April 2, 2025**
 

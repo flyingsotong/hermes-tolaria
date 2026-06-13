@@ -7,6 +7,7 @@ date: 2023-08-25
 client: Thea Alberto-Masakayan
 belongs_to: Splice Media
 ---
+# Coaching - Thea Alberto-Masakayan
 
 Email: theodora.alberto@gmail.com
 

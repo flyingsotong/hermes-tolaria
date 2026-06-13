@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Clean Language (Wendy Sullivan)
 
 - Author: [Wendy Sullivan](Wendy%20Sullivan.md)
 

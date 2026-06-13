@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# 14 Reasons Your Clients Don’t Renew – And What To Do About It
 
 **From:** Rich Litvin <hello@richlitvin.com>**Date:** Sep 9, 2023 at 6:06 PM +0800**To:** <alansoon@gmail.com>**Subject:** 14 Reasons Your Clients Don’t Renew – And What To Do About It
 

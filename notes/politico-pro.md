@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# Politico Pro
 
 But from my view, the deal is a vindication of B2B media, since Politico pulled off the difficult balancing act of achieving consumer media-like reach and impact with a high revenue B2B business embedded in the form of Politico Pro.
 

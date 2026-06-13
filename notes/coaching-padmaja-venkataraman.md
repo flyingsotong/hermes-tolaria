@@ -7,6 +7,7 @@ date: 2025-01-31
 client: Padmaja Venkataraman
 belongs_to: Splice Media
 ---
+# Coaching - Padmaja Venkataraman
 
 **January 31, 2025**
 

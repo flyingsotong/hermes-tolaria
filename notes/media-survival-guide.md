@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Media Survival Guide
 
 Prioritize your direct relationships -- like events
 

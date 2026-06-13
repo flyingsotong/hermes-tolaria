@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# What I learned in year three of Platformer — Casey Newton
 
 Has the Substack revolution come and gone?
 

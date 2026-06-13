@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Getting paid to vibe code Inside the new AI-era job (Lazar Jovanovic)
 
 This video features an interview with Lazar Jovanovic, the first "professional vibe coder" at Lovable, who uses AI tools to build products without a traditional coding background. He shares his insights on navigating the AI era, emphasizing that having a non-technical background can be an advantage (9:26) and that clarity in communicating with AI is paramount.
 [The rise of the professional vibe coder \(a new AI-era job\)](https://youtu.be/0XNkUdzxiZI?si=vcD3qGw4iXQ1NK7j)

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Hammer of AIs (Hal Crawford)
 
 - Description: Yuval Noah Harari’s book Nexus in a nutshell
 

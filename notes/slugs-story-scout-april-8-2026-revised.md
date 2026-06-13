@@ -6,6 +6,7 @@ scout_date: 2026-04-08
 related_to:
   - Slugs
 ---
+# Slugs story scout — April 8, 2026 (revised)
 
 ---
 ## Slugs story scout — April 8, 2026 (revised)

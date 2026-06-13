@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How to Repurpose Your Content
 
 <https://twitter.com/TimStodz/status/1573279867055087616>
 **Smart summary:** The thread provides a strategy for repurposing content to generate more income. The main idea is to take one piece of content and turn it into 22 pieces of content by using various platforms.

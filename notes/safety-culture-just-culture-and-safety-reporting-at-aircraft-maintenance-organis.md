@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Safety culture, just culture and safety reporting at aircraft maintenance organisations (Flight Safety Australia)
 
 <https://www.flightsafetyaustralia.com/2025/06/tackling-a-toolbox-talk-safety-culture-just-culture-and-safety-reporting-at-aircraft-maintenance-organisations/>
 **What is safety culture?**

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Fri, July 19th, 2024
 
 - [Links](Links.md)
 

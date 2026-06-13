@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# What it means to be a creator
 
 - URL: [https://www.creatorspotlight.com/p/creator-meaning](https://www.creatorspotlight.com/p/creator-meaning?utm_source=www.creatorspotlight.com\&utm_medium=newsletter\&utm_campaign=successful-creators-start-with-purpose)
 

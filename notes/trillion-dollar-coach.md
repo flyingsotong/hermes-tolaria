@@ -3,6 +3,7 @@ type: Coaching-Session
 client: Trillion Dollar Coach
 belongs_to: Splice Media
 ---
+# Trillion Dollar Coach
 
 **Metadata**
 

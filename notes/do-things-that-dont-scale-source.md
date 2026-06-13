@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Do Things that Don't Scale (source)
 
 Do Things that Don't Scale ([source](http://paulgraham.com/ds.html)) Paul Graham
 

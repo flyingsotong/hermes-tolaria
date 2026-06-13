@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Marketing solves the needs of the customer
 
 **Basics: defining marketing: ‘Marketing solves the needs of the customer’.**
 It’s funny to think that no-one chose to ask me what I thought marketing was when interviewed. Perhaps more worrying, that I didn’t find a definition myself. I just assumed I knew. The result was spending the first four years of my career spinning the wheels, wondering why doing ‘marketing stuff’ wasn’t working.

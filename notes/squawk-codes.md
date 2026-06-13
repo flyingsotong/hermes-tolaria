@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Squawk codes
 
 **7700** — General emergency 
 **7600** — Radio communication failure 

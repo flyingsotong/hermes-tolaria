@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Transcript Making Peace with Your Midlife, Mid-career Self (Chip Conley)
 
 <https://pca.st/5qek9wge>
 

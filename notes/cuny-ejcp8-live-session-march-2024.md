@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# CUNY EJCP8 Live Session March 2024
 
 <https://drive.google.com/drive/folders/1il8BydWDleBHN7wzNXVnOBSkiQ_Q_Kng>
 

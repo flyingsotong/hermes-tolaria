@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Learn To Act As If Nothing Bothers You (Napoleon Hill)
 
 [Learn To Act As If Nothing Bothers You | Napoleon Hill](https://youtu.be/JAMXKBSEUAU?si=BumOrRWtu73yaQy3)
 

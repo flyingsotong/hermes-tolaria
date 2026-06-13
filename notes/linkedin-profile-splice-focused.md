@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# LinkedIn Profile Splice focused
 
 **About**
 

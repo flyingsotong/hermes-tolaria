@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Frontier 2.0
 
 First principles
 

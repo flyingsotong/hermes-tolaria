@@ -7,6 +7,7 @@ date: 2025-02-10
 client: Cheena Kapoor
 belongs_to: Splice Media
 ---
+# Coaching - Cheena Kapoor
 
 **February 10, 2025**
 

@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# METAR vs TAF
 
 **Key Differences**
 - **METAR:** Observation of current conditions, hourly — unless SPECI for significant changes

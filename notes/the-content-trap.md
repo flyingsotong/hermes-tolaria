@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Content Trap
 
 **Metadata**
 

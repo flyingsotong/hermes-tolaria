@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# The Four Tendencies The Indispensable Personality Profiles That Reveal How to Make Your Life Better (and Other People’s Lives Better, Too) — Gretchen Rubin
 
 The key to happiness is to understand your own strengths and weaknesses, collectively known as your Tendency. Once you can recognize these aspects of yourself, you can start to adjust to and compensate for them. No one is perfect, and we can make life much easier on ourselves by avoiding pitfalls and playing to our strengths.
 

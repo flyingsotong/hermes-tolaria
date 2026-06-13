@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Creator Spotlight Billy Parks, Slow Ventures on investing in creator-founders
 
 This is a conversation from the Creator Spotlight Podcast, where host Francis Zer interviews Billy Parks, a partner at Slow Ventures. They discuss the firm's $60 million creator fund, which focuses on investing in "creative CEOs"—entrepreneurs who use media to build scalable product or service businesses rather than traditional media companies.
 Parks outlines their four-part investment thesis (**Creator, Community, Category, and Scale**), using their first $2 million investment in woodworking creator Jonathan Catz-Moses as a case study. The ideal creator for their fund has deep expertise in a specific niche, a passionate, cult-like following, and is building a business that can scale significantly. They are betting on the founder, not just a single business idea, by taking a small equity stake (\~10%) without seeking operational control.

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# On entrepreneurship
 
 Don't attempt to capture the successes of your past lives. Set new milestones for yourself -- the highs you've had previously don't matter.
 

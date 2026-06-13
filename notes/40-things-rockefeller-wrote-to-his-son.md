@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# 40 things Rockefeller wrote to his son
 
 [**David Senra**](https://twitter.com/FoundersPodcast)
 

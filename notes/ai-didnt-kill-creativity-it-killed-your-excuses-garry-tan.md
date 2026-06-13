@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# AI Didn’t Kill Creativity. It Killed Your Excuses. (Garry Tan)
 
 <https://garryslist.org/posts/ai-didn-t-kill-creativity-it-killed-your-excuses>
 

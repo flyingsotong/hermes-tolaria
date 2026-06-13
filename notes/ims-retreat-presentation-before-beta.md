@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# IMS retreat presentation before Beta
 
 Why mass models don't work for publishers in 2024
 

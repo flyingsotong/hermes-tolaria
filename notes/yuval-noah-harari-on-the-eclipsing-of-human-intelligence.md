@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Yuval Noah Harari on the eclipsing of human intelligence
 
 <https://pca.st/90pnaxuf>
 

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Are You Called to Coach (Gallup)
 
 - Description: What is a life calling, and how can you find yours -- including whether it involves coaching others? Join Gallup's Dean Jones for insights on this important topic.
 

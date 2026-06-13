@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Future of Creative AI and How to Harness It (Bilawal Sidhu)
 
 **The Future of Media Consumption**
 Now, "content to content" also hints at the future of content consumption. I'm going to give you a rather dry example. If you haven't had a chance to use Notebook LM and audio overviews already, I highly, highly encourage it. That's how I like to consume an insane amount of academic research. But imagine personalized weekly podcasts for your employees, right? You take all your all-hands videos, you take all your emails, all your presentations, and bam, you get this easy-to-digest summary.

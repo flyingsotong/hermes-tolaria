@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Dinner with Preethi Nallu in Barcelona
 
 Fri, March 15th, 2024
 

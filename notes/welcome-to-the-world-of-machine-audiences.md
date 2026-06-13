@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Welcome to the world of machine audiences
 
 AI could dramatically change the level and nature of demand in the information economy, writes Shuwei Fang
 

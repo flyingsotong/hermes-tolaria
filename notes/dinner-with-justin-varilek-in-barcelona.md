@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Dinner with Justin Varilek in Barcelona
 
 Thu, March 14th, 2024
 

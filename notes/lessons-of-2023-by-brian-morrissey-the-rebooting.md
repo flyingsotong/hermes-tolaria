@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# Lessons of 2023 - by Brian Morrissey - The Rebooting
 
 - URL: [https://www.therebooting.com/p/lessons-of-2023](https://www.therebooting.com/p/lessons-of-2023?utm_source=post-email-title\&publication_id=100541\&post_id=139889072\&utm_campaign=email-post-title\&isFreemail=true\&r=2qlk6\&utm_medium=email)
 

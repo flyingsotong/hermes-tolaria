@@ -3,6 +3,7 @@ type: Coaching-Session
 client: Reflections on Mentorship vs Coaching
 belongs_to: Splice Media
 ---
+# Reflections on Mentorship vs Coaching
 
 Mon, April 1st, 2024
 

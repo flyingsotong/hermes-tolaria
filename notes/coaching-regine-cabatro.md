@@ -7,6 +7,7 @@ date: 2025-04-28
 client: Regine Cabatro
 belongs_to: Splice Media
 ---
+# Coaching - Regine Cabatro
 
 **April 28, 2025**
 

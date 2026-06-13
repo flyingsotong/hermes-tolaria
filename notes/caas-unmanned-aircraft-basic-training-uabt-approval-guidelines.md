@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# CAAS Unmanned Aircraft Basic Training (UABT) Approval Guidelines
 
 **1. Introduction**
 

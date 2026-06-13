@@ -6,6 +6,7 @@ belongs_to: Magenta Debrief
 related_to:
   - Dronefly.sg
 ---
+# SG Grants Radar — 27 Apr 2026
 
 ---
 ## New this week

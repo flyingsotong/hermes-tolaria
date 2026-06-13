@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Line, No Mercy  No Malice
 
 - [Scott Galloway.md](The%20Line,%20No%20Mercy%20%20No%20Malice/Scott%20Galloway.md)
 

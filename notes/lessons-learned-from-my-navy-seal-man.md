@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Lessons Learned from My Navy SEAL Man
 
 [https://contrarianthinking.substack.com/p/what-i-learned-from-my-navy-seal](https://contrarianthinking.substack.com/p/what-i-learned-from-my-navy-seal?token=eyJ1c2VyX2lkIjo0NjAwMjMwLCJwb3N0X2lkIjozNTc3NzgyMiwiXyI6IldSUytiIiwiaWF0IjoxNjIxMzI0MjIzLCJleHAiOjE2MjEzMjc4MjMsImlzcyI6InB1Yi02NzYyNyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.F0_ELq6f-HPeLHy1p3a8YBiaE-aBxR86CNStHbPLNA0)
 Codie Sanchez

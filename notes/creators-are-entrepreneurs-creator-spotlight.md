@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Creators are entrepreneurs (Creator Spotlight)
 
 **What is a creator?**
 

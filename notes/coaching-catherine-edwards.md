@@ -7,6 +7,7 @@ date: 2025-04-03
 client: Catherine Edwards
 belongs_to: Splice Media
 ---
+# Coaching - Catherine Edwards
 
 **April 3, 2025**
 

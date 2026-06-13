@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Abundance Agenda (A16z)
 
 **How AI will transform consumer technology <https://gamma.app/docs/a16z-Consumer-Abundance-Agenda-ieotbnzbxj81biu?mode=doc>**
 

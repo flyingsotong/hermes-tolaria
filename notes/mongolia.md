@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Mongolia
 
 50% of population in UB
 

@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Alan — brain file for night shift
 
 **Purpose:** This file gives the night shift agent enough context to prioritize work, make judgment calls, and produce outputs that are useful without needing Alan present. Read this first, every time, before acting on any task.
 

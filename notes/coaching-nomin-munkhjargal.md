@@ -6,6 +6,7 @@ date: 2024-08-16
 client: Nomin Munkhjargal
 belongs_to: Splice Media
 ---
+# Coaching - Nomin Munkhjargal
 
 **Friday, August 16, 2024**
 

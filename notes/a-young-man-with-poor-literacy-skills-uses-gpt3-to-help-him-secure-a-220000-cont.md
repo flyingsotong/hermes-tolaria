@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# A young man with poor literacy skills uses GPT3 to help him secure a £220,000 contract
 
 <https://twitter.com/DannyRichman/status/1598254671591723008>
 **Smart summary:** A man mentors a young landscaper with poor literacy skills and helps him use GPT3 to communicate with clients, prepare estimates, create contracts, and secure his first big contract, worth £220,000.

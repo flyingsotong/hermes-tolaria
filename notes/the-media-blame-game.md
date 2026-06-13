@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The media blame game
 
 - URL: [https://www.therebooting.com/the-media-blame-game/](https://www.therebooting.com/the-media-blame-game/?ref=the-rebooting-newsletter)
 

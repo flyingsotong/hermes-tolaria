@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Shareholders don't pay taxes on dividends
 
 Shareholders don't pay taxes on dividends So pay dividends, not bulk bonus
 

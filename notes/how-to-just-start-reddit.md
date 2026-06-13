@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# How to just start (Reddit)
 
 <https://www.reddit.com/r/Entrepreneur/comments/1nzj45o/how_to_just_start/>
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Intrigue Media raises US$1.75 million investment round - Intrigue
 
 - Highlights
 

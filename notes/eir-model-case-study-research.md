@@ -3,6 +3,7 @@ type: Meeting-Note
 tags:
   - career
 ---
+# EiR model — case study research
 
 ---
 ## What's actually been done

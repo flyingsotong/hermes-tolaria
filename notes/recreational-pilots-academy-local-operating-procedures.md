@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Recreational Pilots Academy Local Operating Procedures
 
 **Murray Bridge (Pallamana) Airfield (YMBD)Airfield Information:**
 - **ICAO Code:** YMBD

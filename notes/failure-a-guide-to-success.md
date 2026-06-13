@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Failure A Guide to Success
 
 **Failure: A Guide to Success What I've learned from coaching media entrepreneursWhat are the most common beliefs among my clients?**
 

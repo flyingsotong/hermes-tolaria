@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Fitri, Alan Malay class – 5 October 2022 - Greetings revised
 
 Attendees: <fitriyanti@gmail.com>, Alan Soon
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Things I’ve learned this year
 
 Brian Morrissey
 <https://www.therebooting.com/p/things-i-learned-this-year>

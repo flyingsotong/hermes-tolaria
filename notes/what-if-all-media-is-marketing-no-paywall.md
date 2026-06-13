@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# What If All Media is Marketing (No Paywall)
 
 **The Logical Conclusion of Plummeting Creation Costs**
 [Doug Shapiro](https://substack.com/@dougshapiro)

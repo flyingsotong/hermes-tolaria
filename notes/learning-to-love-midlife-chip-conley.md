@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Learning to Love Midlife (Chip Conley)
 
 - Author: Chip Conley
 

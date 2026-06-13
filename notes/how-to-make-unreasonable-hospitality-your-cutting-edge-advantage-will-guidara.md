@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# How to make unreasonable hospitality your cutting edge advantage (Will Guidara)
 
 [https://bigthink.com/series/the-big-think-interview/unreasonable-hospitality/](https://bigthink.com/series/the-big-think-interview/unreasonable-hospitality/?utm_source=rejoiner\&utm_medium=email\&utm_campaign=businessnewsletter\&utm_content=06%2F24%2F24+BT+Biz\&rjnrid=PDxw8wL)
 

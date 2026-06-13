@@ -7,6 +7,7 @@ date: 2023-08-07
 client: Maya Misikir
 belongs_to: Splice Media
 ---
+# Coaching - Maya Misikir
 
 Email: mayafresenay@gmail.com
 

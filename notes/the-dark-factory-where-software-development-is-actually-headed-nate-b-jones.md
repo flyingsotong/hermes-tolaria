@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Dark Factory Where Software Development Is Actually Headed (Nate B. Jones)
 
 90% of Claude Code was written by Claude Code. Codex is releasing features entirely written by Codex. And yet most developers using AI empirically get slower, at least at first. The gap between these two facts is where the future of software lives.
 

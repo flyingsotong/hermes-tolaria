@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Splice  China Dialogue – April 19, 2023
 
 Attendees: <tallulah.staple@chinadialogue.net>, <sam.geall@chinadialogue.net>, Alan Soon, <bryony.rowan@chinadialogue.net>
 

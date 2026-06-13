@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Jensen Huang, Founder and CEO of NVIDIA (Stanford Graduate School of Business)
 
 In this View From The Top interview, Shantam Jain, MBA ’24, speaks with Jensen Huang, Founder and CEO of NVIDIA.
 As of March 1, 2024, NVIDIA is the third most valuable company on Wall Street, with over $2T in market value. Jensen shares his experience founding NVIDIA, getting funded, building the first killer application for NVIDIA’s technology, deciding which markets are worth exploring, finding the conviction in making non-consensus bets, steering the company through challenging times, designing the right organization structure, and finally, his views on the AI revolution.

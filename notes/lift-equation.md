@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Lift equation
 
 **L = CL × ½ × ρ × V² × S**
 **"Clever Pilots Value Skills."**

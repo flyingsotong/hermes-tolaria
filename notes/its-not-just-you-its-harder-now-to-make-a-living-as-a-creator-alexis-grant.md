@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# It’s not just you. It’s harder now to make a living as a creator (Alexis Grant)
 
 - Alexis Grant
 

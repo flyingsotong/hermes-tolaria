@@ -7,6 +7,7 @@ date: 2023-05-19
 client: Georgina Mallory
 belongs_to: Splice Media
 ---
+# Coaching - Georgina Mallory
 
 **May 19, 2023**
 

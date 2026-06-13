@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How Emotions Are Made (Lisa Feldman Barrett)
 
 We all have emotions built-in from birth. They are distinct, recognizable phenomena inside us. When something happens in the world, whether it’s a gunshot or a flirtatious glance, our emotions come on quickly and automatically, as if someone has flipped a switch. We broadcast emotions on our faces by way of smiles, frowns, scowls, and other characteristic expressions that anyone can easily recognize. ([Location 62](https://readwise.io/to_kindle?action=open\&asin=B00QPHURT6\&location=62))
 

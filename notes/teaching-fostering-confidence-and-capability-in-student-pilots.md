@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Teaching Fostering Confidence and Capability in Student Pilots
 
 **Introduction**
 As flight instructors, our role extends beyond teaching technical skills. We're also mentors, guides, and confidence builders. Recognizing the challenges student pilots face, particularly during demanding maneuvers like circuits, is crucial. This guide provides strategies to cultivate a supportive learning environment and empower students to succeed.

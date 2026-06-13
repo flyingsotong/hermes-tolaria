@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Secret Ingredients of Great Hospitality
 
 <https://www.youtube.com/watch?v=bwcyXcOpWVs>
 Will Guidara

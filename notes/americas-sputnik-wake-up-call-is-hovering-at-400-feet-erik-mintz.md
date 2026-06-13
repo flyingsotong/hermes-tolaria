@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# America’s Sputnik Wake-Up Call Is Hovering at 400 Feet (Erik Mintz)
 
 <https://www.commercialuavnews.com/drone-industry-commercial-sputnik-china>
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Lessons from organizing Beta
 
 **Lessons from organizing Beta**
 

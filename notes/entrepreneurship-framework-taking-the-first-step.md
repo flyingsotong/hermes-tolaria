@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Entrepreneurship Framework Taking the First Step
 
 **Overcoming Fear & Stigma**
 

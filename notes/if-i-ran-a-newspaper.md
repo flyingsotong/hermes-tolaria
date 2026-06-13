@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# If I Ran a Newspaper….
 
 - Author: [Jeff Jarvis](Jeff%20Jarvis.md)
 

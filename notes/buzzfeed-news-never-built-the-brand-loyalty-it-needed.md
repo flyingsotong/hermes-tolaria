@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# BuzzFeed News Never Built the Brand Loyalty It Needed
 
 BuzzFeed News Never Built the Brand Loyalty It Needed <https://www.amediaoperator.com/newsletter/buzzfeed-news-never-built-the-brand-loyalty-it-needed/>
 

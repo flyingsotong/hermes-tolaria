@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How to build a media company Use streetwear brand tactics (Snipd Export Jan 6, 2025)
 
 **Ep. 40: How to build a media company: Use streetwear brand tactics**
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# AI mode Google Guide What Your C-Suite Needs to Know (Carrie Rose, Rise)
 
 <https://riseatseven.com/blog/ai-mode-google-guide-what-your-c-suite-needs-to-know/>
 Carrie Rose Founder & CEO

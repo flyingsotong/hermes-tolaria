@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Moving from 'change' to 'progress'
 
 - URL: [https://www.linkedin.com/feed/update/urn:li:activity:7195672388401778688/](https://www.linkedin.com/feed/update/urn:li:activity:7195672388401778688/?commentUrn=urn%3Ali%3Acomment%3A\(activity%3A7195672388401778688%2C7195687931527806976\)\&dashCommentUrn=urn%3Ali%3Afsd_comment%3A\(7195687931527806976%2Curn%3Ali%3Aactivity%3A7195672388401778688\)\&dashReplyUrn=urn%3Ali%3Afsd_comment%3A\(7195701430874238979%2Curn%3Ali%3Aactivity%3A7195672388401778688\)\&replyUrn=urn%3Ali%3Acomment%3A\(activity%3A7195672388401778688%2C7195701430874238979\))
 

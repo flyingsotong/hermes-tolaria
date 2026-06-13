@@ -3,6 +3,7 @@ type: Coaching-Session
 client: Group Mentor Coaching Session 3
 belongs_to: Splice Media
 ---
+# Group Mentor Coaching Session 3
 
 Based on the transcript, the key feedback and suggestions I can provide are:
 1. Strengthen the initial contracting and clarification of the focus for the session. Brian had mentioned several topics (academics, imposter syndrome, uncertainty) and it would have been helpful to better summarize and confirm the primary focus he wanted to explore.

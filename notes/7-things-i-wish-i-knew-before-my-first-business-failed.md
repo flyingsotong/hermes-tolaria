@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# 7 things I wish I knew before my first business failed
 
 <https://twitter.com/Codie_Sanchez/status/1591439175735197698>
 **Smart summary:** 7 things you should know before starting a business, from someone who's failed at multiple businesses. The main points are: focus on profitability over growth, it's better to buy an existing business than to build one from scratch, make sure you're playing to your strengths, and delegate the day-to-day tasks to others so you can focus on the big picture.

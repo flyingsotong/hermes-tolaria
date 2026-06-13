@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Presentation Outline Why Media is Failing
 
 **Topic:** The systemic failures and challenges facing modern media.
 

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Is Your Mindset Stuck on Charging Too Little for Coaching (Rhonda Hess)
 
 - Description: Shift your mindset about coaching fees and earn well from the start.
 

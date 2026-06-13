@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Paperwork Trap Why You’re Not Starting Your Business
 
 The first-time founder always asks the same questions: _Sole prop or Private Limited? Physical office or a virtual one?_
 You think you’re seeking legal clarity. You’re not. You’re seeking**certainty**—a false sense of security that if the paperwork is perfect, the business will be, too. This obsession with administrative detail is a powerful form of**analysis paralysis** that keeps you from the only thing that matters: getting a paying customer.

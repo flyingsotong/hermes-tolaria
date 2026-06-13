@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# The problem with real news — and what we can do about it (Rob Wijnberg)
 
 - Description: News is all about sensational, exceptional, negative, and current events. And those five words capture precisely the problem with news.
 

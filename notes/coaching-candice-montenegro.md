@@ -7,6 +7,7 @@ date: 2025-02-04
 client: Candice Montenegro
 belongs_to: Splice Media
 ---
+# Coaching - Candice Montenegro
 
 **February 4, 2025**
 

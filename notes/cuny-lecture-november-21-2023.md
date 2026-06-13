@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# CUNY Lecture, November 21, 2023
 
 Jeremy Caplan
 

@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Working the crowd How to stay out of trouble in controlled airspace (Flight Safety Australia)
 
 <https://www.flightsafetyaustralia.com/2025/05/working-the-crowd-how-to-stay-out-of-trouble-in-controlled-airspace/>
 Back in 2009 when I was learning to fly at Camden, I made my second ‘embarrassing student’ mistake – my first had been turning the wrong way in the circuit after a runway change and nearly flying into restricted airspace. In those days, Camden was a mixed-class aerodrome; on the weekend, it was a towered airport in what we now call a Metro D, but on weekdays, it operated as a CTAF in Class G airspace.

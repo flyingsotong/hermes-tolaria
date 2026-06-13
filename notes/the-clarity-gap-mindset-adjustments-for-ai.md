@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Clarity Gap Mindset adjustments for AI
 
 **The 3 Big Changes**
 

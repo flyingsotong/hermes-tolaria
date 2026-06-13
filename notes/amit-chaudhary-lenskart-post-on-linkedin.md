@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Amit Chaudhary, Lenskart — Post on LinkedIn
 
 [#hiring #ai #artificialintelligence #lenskart #executivehiring | Amit Chaudhary | 32 comments](https://www.linkedin.com/posts/4daxis_hiring-ai-artificialintelligence-share-7428542157642223617-GIXx/)
 

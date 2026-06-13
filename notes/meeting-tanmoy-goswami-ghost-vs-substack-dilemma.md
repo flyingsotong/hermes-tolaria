@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Meeting Tanmoy Goswami – Ghost vs Substack Dilemma
 
 Wed, April 3rd, 2024
 

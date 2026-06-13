@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Building resilience - Brussels
 
 The biggest threat to media isn't misinfo -- it's the**loss of relevance and utility**among a new generation of news consumers. (My last newspaper was the WSJ -- "How my 4-year-old daughter ended my last newspaper subscription")
 

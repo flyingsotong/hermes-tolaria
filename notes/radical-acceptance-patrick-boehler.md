@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Radical acceptance (Patrick Boehler)
 
 We navigate complex systems. Our power is limited. Starting anywhere else is how you burn out.
 Welcome to the 28th edition of my monthly newsletter on journalism in a moment of systemic disruption.

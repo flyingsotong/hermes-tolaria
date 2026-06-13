@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The danger of absolute thinking is absolutely clear (Aeon Ideas)
 
 - Description: Against absolutist thinking: to navigate life, we must appreciate nuance, understand complexity and embrace flexibility
 

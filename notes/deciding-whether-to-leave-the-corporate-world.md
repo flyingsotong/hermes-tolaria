@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Deciding whether to leave the corporate world
 
 [Kum Hong Siew](Kum%20Hong%20Siew.md)
 

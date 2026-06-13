@@ -4,6 +4,7 @@ date: 2025-05-28
 client: Coaching Louis Bonneau
 belongs_to: Splice Media
 ---
+# Coaching Louis Bonneau
 
 **May 28 2025**
 

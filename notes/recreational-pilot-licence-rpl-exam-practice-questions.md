@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Recreational Pilot Licence (RPL) Exam Practice Questions
 
 **Instructions:** Choose the best answer for each question and mark the correct answer with a tick ().
 *Section 3: Aerodynamics

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Unscaled How AI and a New Generation of Upstarts Are Creating the Economy of the Future
 
 - ASIN: B073P3CMWM
 

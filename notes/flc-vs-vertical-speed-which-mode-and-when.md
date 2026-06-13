@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# FLC vs Vertical Speed: Which Mode and When
 
 Many autopilots have two vertical modes, and they work differently:
 

@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# UA Basic Training Organisation (UABTO) Requirements
 
 Based on the CAAS document, here is a detailed outline to help you design the two-hour online course for your UA Basic Training Organisation (UABTO).
 The course should be approximately**120 minutes** long, including the final quiz. Here's a suggested structure that covers all the required learning outcomes.

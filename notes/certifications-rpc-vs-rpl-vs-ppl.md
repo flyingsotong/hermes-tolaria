@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Certifications RPC vs RPL vs PPL
 
 |**Feature** |**RPC (Recreational Pilot Certificate)** |**RPL (Recreational Pilot Licence)** |**PPL (Private Pilot Licence)** |
 | ------------------------- | ------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |

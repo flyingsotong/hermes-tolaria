@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Reflections on Witnessing and Happiness
 
 Sun, March 31st, 2024
 

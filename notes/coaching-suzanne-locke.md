@@ -7,6 +7,7 @@ date: 2025-03-05
 client: Suzanne Locke
 belongs_to: Splice Media
 ---
+# Coaching - Suzanne Locke
 
 **March 5, 2025**
 

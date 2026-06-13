@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# RAAus Pre-Solo Exam
 
 *Issue 5.0 · 18 March 2022 · Taken: 1 May 2025 · Result: 85%*
 *Correct answers marked below.*

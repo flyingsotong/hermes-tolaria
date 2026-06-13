@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# 9 Things To Know About Your Partner
 
 <https://twitter.com/Theholisticpsyc/status/1615019005877817351>
 

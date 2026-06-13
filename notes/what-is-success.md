@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# What is success
 
 To laugh often and much;
 

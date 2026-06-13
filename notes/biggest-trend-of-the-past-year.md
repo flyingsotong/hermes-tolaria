@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Biggest trend of the past year
 
 **Biggest trend of the past year**
 

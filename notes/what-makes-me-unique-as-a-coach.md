@@ -5,6 +5,7 @@ tags:
 client: What makes me unique as a coach
 belongs_to: Splice Media
 ---
+# What makes me unique as a coach
 
 Based on an analysis of your extensive coaching notes and self-reflections, your uniqueness as a coach stems from a specific intersection of**deep media industry expertise**,**psychological excavation**, and a**"compassionate challenge"** style.
 Here is what makes you unique as a coach:

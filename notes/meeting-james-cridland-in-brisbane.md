@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Meeting James Cridland in Brisbane
 
 Mon, December 11th, 2023
 

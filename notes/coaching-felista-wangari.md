@@ -7,6 +7,7 @@ date: 2025-03-10
 client: Felista Wangari
 belongs_to: Splice Media
 ---
+# Coaching - Felista Wangari
 
 **March 10, 2025**
 

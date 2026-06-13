@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Beijing's Global Media Offensive
 
 - Author: [Joshua Kurlantzick](Joshua%20Kurlantzick.md)
 

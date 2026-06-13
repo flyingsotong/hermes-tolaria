@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# 5 hard questions for mid-life
 
 <https://coachparin.substack.com/p/exercise-5-hard-questions-for-mid>
 1\. How might I let go of the need to be perfect and focus on building genuine connections with others? _(This question helps shift focus from external expectations to meaningful relationships)_

@@ -6,6 +6,7 @@ tags:
 client: Claude Readback
 belongs_to: Splice Media
 ---
+# Coaching - Claude Readback
 
 *Generated February 7, 2025. Based on analysis of coaching notes.*
 

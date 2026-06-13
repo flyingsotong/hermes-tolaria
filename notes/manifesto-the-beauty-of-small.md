@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Manifesto The Beauty of Small
 
 **Manifesto: The Beauty of Small**
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Intelligence Age
 
 - Description: In the next couple of decades, we will be able to do things that would have seemed like magic to our grandparents.
 

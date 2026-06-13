@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Flight Phase Take-off
 
 <https://raaus.com.au/national-safety-month-2025/week-2/#radio-procedures-non-controlled-airspace>
 Take-off marks the point where preparation turns into action. While it may not carry the same intensity of landing, take-off requires skill, assessment, and judgment as we transition into the airborne environment. In this phase, we need to apply a high degree of situational awareness and predictability in maneuvering our aircraft. This, coupled with effective communications, will enhance safety.

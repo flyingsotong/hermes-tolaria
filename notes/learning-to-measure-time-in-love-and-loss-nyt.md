@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Learning to Measure Time in Love and Loss (NYT)
 
 - Description: Missed opportunities are not the events that define us.
 

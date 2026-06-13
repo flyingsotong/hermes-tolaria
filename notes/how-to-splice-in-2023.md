@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# How to Splice in 2023
 
 The future of media is user-centred, demand-driven, and interest-based. We believe that a healthy, viable media ecosystem requires a broader definition of media, an obsessive focus on serving users’ needs, and monetary value from that service.
 

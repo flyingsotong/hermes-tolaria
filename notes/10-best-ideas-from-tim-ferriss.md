@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# 10 Best Ideas from Tim Ferriss
 
 <https://twitter.com/worth_parker/status/1599060071127736320>
 

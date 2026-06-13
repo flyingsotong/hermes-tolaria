@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Project YouTube Transcriber API on Spaceship VPS
 
 **Date: September 17, 2025**
 **Final Conclusion: The Root Cause of all failures is that the VPS IP address (209.74.81.185) is being aggressively blocked by YouTube's anti-bot systems.**

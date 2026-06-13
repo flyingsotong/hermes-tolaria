@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Celebrating my 50th journey around the sun.
 
 Forgive, listen, slow to judgment
 

@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Splice Beta manual registration
 
 Hi,
 

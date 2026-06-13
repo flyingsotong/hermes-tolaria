@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Breaking the Cycle of Analysis Paralysis How to Create Small Promises and Transform Your Life
 
 [https://twitter.com//status/1645412512773406721](https://twitter.com/status/1645412512773406721)
 **Smart summary:** Analysis paralysis is a protective mode that our brain and nervous system go into when we try to make changes in our lives. To get out of it, we need to make small promises to ourselves every day that take no more than 10 minutes and that we enjoy. Doing this for 30 days will create confidence and self trust, and will help us to break out of analysis paralysis.

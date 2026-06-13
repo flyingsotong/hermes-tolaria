@@ -6,6 +6,7 @@ tags:
 client: Claude Analysis My Coaching Strengths & Growth Areas
 belongs_to: Splice Media
 ---
+# Claude Analysis My Coaching Strengths & Growth Areas
 
 *Generated: January 30, 2026, Berlin*
 

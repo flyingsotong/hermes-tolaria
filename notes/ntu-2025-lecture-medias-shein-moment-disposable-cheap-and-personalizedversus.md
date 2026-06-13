@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# NTU 2025 lecture Media’s Shein moment Disposable, cheap, and personalizedVersus
 
 Static vs dynamic
 Render vs generated

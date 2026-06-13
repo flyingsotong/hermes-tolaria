@@ -2,6 +2,7 @@
 type: Quote
 attribution: Denis Waitley
 ---
+# Quotes - It's not what you are that holds you back, but what you think you are not. — Denis Waitley
 
 "It's not what you are that holds you back, but what you think you are not." — Denis Waitley
 

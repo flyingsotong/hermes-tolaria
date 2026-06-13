@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Changelog
 
 **Your next step: clarity, confidence, and real change**
 You know you're capable of more, but the path isn't clear. I can help you find your way forward. This isn't about quick fixes or telling you what to do. It's about a deeper conversation where you discover your own answers and build the confidence to act on them.

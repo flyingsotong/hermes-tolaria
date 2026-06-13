@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# ️ 240 Days to Raise Creating for urgency and transparency
 
 - Description: Building in public with Jade Buffong-Phillips
 

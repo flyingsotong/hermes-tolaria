@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Becoming More Strategic A Guide for Product People
 
 <https://twitter.com/shreyas/status/1712262410764173598>
 

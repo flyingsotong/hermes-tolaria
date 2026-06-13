@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Definitions Skidding vs Slipping
 
 In aviation, skidding is generally considered more dangerous than slipping.
 When an aircraft skids, it's moving sideways toward the outside of a turn, with the tail swinging outward. This creates several hazards:

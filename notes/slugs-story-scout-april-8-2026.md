@@ -7,6 +7,7 @@ related_to:
   - Slugs
 status: archived
 ---
+# Slugs story scout — April 8, 2026
 
 ---
 ## Slugs story scout — April 8, 2026

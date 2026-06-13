@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Jane Mahoney, Private Media, Splice Pink ep 4
 
 Four different components of marketing 1, always on intro offer -- 12 weeks for $12 2, automated offers 3 big campaigns 4 editorial adhoc campaigns
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Weight and balance your first line of defence
 
 Weight and balance calculations can be a challenge in flight planning. Yet every aircraft ever certified is built around strict limits for a reason. They define how safely, predictably and easily it can fly. Staying inside those limits is one of the most effective ways a pilot can protect themselves.
 

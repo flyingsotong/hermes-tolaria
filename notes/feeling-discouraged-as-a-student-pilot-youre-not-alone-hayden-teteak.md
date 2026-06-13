@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Feeling Discouraged as a Student Pilot You’re Not Alone (Hayden Teteak)
 
 <https://www.youtube.com/watch?v=8kTLpmGNOoM>
 

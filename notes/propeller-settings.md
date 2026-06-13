@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Propeller settings
 
 **Fixed-Pitch Propellers**
 (Common on many Cessna 152s, 172s)

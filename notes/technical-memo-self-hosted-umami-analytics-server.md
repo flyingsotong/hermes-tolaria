@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Technical Memo Self-Hosted Umami Analytics Server
 
 Final Architecture and Setup Procedure for Self-Hosted Umami Analytics Server
 **TO:** Alan Soon

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Gifts of Imperfection 2
 
 The Gifts of Imperfection
 

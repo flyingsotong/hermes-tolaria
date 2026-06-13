@@ -3,6 +3,7 @@ type: Coaching-Session
 client: The Three Big Myths of Mentoring (WorkLife with Adam Grant - Transcript)
 belongs_to: Splice Media
 ---
+# The Three Big Myths of Mentoring (WorkLife with Adam Grant - Transcript)
 
 [Listen along](https://link.chtbl.com/jge66bhi)
 

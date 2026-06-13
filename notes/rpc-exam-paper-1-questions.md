@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# RPC Exam Paper 1 Questions
 
 1\. To maintain VFR when flying in Class G airspace below 10,000ft, the minimum visibility is:
 

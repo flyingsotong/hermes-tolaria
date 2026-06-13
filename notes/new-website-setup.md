@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# New website setup
 
 **Phase 1: Project & Backup Setup (On Your Computer & GitHub)**
 This ensures your code is version-controlled and safely backed up before you even touch the hosting.

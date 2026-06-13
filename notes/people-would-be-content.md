@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# People would be content
 
 People would be content with their simple, everyday lives, in harmony, and free of desire.
 

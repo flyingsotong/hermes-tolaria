@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Dad's birthday dinner
 
 1. Dad (confirmed)
 

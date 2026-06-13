@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Noise is the new censorship. How journalism got disinformation wrong ( Natalia Antelava, Dec 2023, JSK Fellows)
 
 - Description: In November, as the [Sam Altman](Sam%20Altman.md) drama unraveled in all of its jaw-dropping glory, I watched it — popcorn in hand — from my unlikely new home in Palo Alto, California. Four months prior, I had arrived…
 

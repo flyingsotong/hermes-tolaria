@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Presentation and workshop ideas
 
 How to find out what your audience really wants from you — questions to ask, and what not to say
 

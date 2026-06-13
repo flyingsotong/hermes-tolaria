@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Daily Me
 
 By NICHOLAS D. KRISTOF March 19, 2009 New York Times
 

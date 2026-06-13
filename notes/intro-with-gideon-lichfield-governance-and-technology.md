@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Intro with Gideon Lichfield – Governance and Technology
 
 Wed, August 7th, 2024
 

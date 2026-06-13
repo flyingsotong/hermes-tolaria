@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Metar Readings
 
 [This is how you read a METAR](https://metar-taf.com/explanation)
 A METAR has a fixed format. The definition of each part can be found below. Click on the item to jump to the correct paragraph.

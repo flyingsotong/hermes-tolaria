@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Hidden Potential The Science of Achieving Greater Things (Adam Grant)
 
 - Author: Adam Grant
 

@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# CAAS UA Pilot Licence in Singapore
 
 Users who operate their UA under the following conditions are required to obtain a UA Pilot Licence (UAPL):
 

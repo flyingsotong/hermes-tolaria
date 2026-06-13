@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Media startup ecosystems
 
 What makes media startup policy different? Slow cook — 5-8 year plan Trails behind bigger tech trends Press freedom issues Poor experimentation
 

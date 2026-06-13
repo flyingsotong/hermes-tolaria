@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# One key to investing well, according to a billionaire friend
 
 <https://twitter.com/Codie_Sanchez/status/1475831210463092741>
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# If the future of news is product, what does it mean to be product-led (News Product Alliance)
 
 - Description: What does it mean for a news organization to be truly product-led? This is a question we set out to answer in May at the NPA Forum.
 

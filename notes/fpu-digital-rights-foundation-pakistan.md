@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# FPU Digital Rights Foundation, Pakistan
 
 Digital Rights Foundation for FPU is seeking a more subtle and non-confrontational approach for outreach in advocating for digital rights, aiming to broaden their community through policy briefs and cater to both existing and new audiences.
 

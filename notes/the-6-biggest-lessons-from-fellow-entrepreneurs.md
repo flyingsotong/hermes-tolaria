@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The 6 biggest lessons from fellow entrepreneurs
 
 <https://www.reddit.com/r/Entrepreneur/comments/1oqxcxy/what_is_the_biggest_lesson_being_an_entrepreneur/>
 

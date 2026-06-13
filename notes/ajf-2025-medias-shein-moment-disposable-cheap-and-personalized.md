@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# AJF 2025 Media’s Shein moment Disposable, cheap, and personalized
 
 20 Fellows have been chosen to join the 2025 cohort. This year’s Fellows hail from 15 countries: Bangladesh, China, India, Indonesia, Kazakhstan, Laos, Malaysia, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Singapore, Sri Lanka, Vietnam. The 2025 cohort comprises 11 men and 9 women.
 Explores strategies for sustainable journalism through revenue innovation, community engagement, and product thinking. It examines AI’s impact on reporting, user-centric storytelling through design thinking, and adapting to digital trends. (2 hrs 30 mins)

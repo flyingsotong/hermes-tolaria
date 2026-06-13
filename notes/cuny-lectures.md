@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# CUNY lectures
 
 1. Tide is going out as platforms hold back or pull back on grant support
 

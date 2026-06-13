@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# How is a Signature Coaching Program Better Than Coaching Session Packages (Rhonda Hess)
 
 - Description: Grow your coaching income with a sea change in mindset and offer
 

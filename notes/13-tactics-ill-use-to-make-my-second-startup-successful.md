@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# 13 Tactics I'll Use to Make My Second Startup Successful
 
 <https://twitter.com/ankurnagpal/status/1574516459031535616>
 

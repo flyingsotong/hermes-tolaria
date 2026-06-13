@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# How to Know a Person The Art of Seeing Others Deeply and Being Deeply Seen (David Brooks)
 
 David Brooks, a New York Times op-ed columnist and author, discusses his new book "How to Know a Person: The Art of Seeing Others and Being Deeply Seen" during a speaking event. He shares personal anecdotes about his upbringing, career, and the development of his emotional intelligence. Brooks reflects on societal issues such as loneliness, depression, and the lack of meaningful connections, emphasizing the importance of social skills and seeing others with consideration. He also touches on political topics, cultural differences, and the challenges of bridging social divides. Throughout his talk, Brooks advocates for the power of human connection, understanding, and empathy in combating dehumanization and fostering a more compassionate society.
 

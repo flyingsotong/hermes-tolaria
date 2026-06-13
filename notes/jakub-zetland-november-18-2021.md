@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Jakub - Zetland – November 18, 2021
 
 One of the founders of Zeland, but now out at Nieman as a fellow.
 

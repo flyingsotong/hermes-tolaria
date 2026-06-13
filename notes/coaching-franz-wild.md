@@ -7,6 +7,7 @@ date: 2025-02-17
 client: Franz Wild
 belongs_to: Splice Media
 ---
+# Coaching - Franz Wild
 
 **February 17, 2025**
 

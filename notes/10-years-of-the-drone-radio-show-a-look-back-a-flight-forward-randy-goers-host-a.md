@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# 10 Years of the Drone Radio Show A Look Back, A Flight Forward Randy Goers, Host and Creator
 
 <https://youtu.be/Dhz9PoDj8WI?si=QPcQechjcqJnhHNy>
 The host, Randy Goers, explicitly lays out several recurring themes from his 446 interviews. These are the foundational pillars of the modern drone industry.

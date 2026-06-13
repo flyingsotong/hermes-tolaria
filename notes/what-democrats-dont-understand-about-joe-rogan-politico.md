@@ -2,6 +2,7 @@
 type: Media-Analysis
 source_url: https://www.politico.com/news/magazine/2024/11/11/how-trump-won-the-podcast-bros-00188518
 ---
+# What Democrats Don’t Understand About Joe Rogan - POLITICO
 
 - Description: The future of American political engagement is barely political at all.
 

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Authenticity after abundance (Adam Mosseri)
 
 [Adam Mosseri \(@mosseri\) on Threads](https://www.threads.com/@mosseri/post/DS76UiklIDf)
 

@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Why Your Best Engineers Are About to Become 10x More Valuable (Or Worthless). Here's How to Tell (Nate B. Jones)
 
 <https://www.youtube.com/watch?v=RtMLnCMv3do>
 

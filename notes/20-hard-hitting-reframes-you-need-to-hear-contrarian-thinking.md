@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# 20 Hard-Hitting Reframes You Need to Hear (Contrarian Thinking)
 
 These 20 reframes are a hard reset. They’re not motivational posters or platitudes to whisper in the mirror. They’re more like a truth serum mixed with a slap in the face.
 

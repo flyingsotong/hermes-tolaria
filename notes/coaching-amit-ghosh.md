@@ -7,6 +7,7 @@ date: 2025-02-06
 client: Amit Ghosh
 belongs_to: Splice Media
 ---
+# Coaching - Amit Ghosh
 
 **February 6, 2025**
 

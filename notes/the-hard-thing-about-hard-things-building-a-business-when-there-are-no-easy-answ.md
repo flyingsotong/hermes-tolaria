@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# The Hard Thing About Hard Things Building a Business When There Are No Easy Answers
 
 - ASIN: B00DQ845EA
 

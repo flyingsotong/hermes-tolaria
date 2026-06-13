@@ -7,6 +7,7 @@ date: 2025-01-27
 client: Chamadui Madegwa
 belongs_to: Splice Media
 ---
+# Coaching - Chamadui Madegwa
 
 **January 27, 2025**
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# 10 of the Best Prioritization Mental Models
 
 <https://twitter.com/_alexbrogan/status/1599044630330359811>
 **Smart summary:** The thread provides an overview of different frameworks that can be used to prioritize tasks, with a focus on the Eisenhower Decision Matrix, ICE Framework, Jeff Bezos Regret Minimization Framework, and North Star. The thread also discusses the concept of good and bad procrastination, and satisficing vs. maximizing.

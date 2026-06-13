@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Aeroviation Ground school assessment by Faris
 
 **Feb 14 2025**
 

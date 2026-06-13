@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Splice is home to a community of media professionals transforming the industry in Asia.
 
 The transformation of media begins with getting the definitions right. In 2021, media is no longer just news, just editorial, just entertainment, or just sports.
 

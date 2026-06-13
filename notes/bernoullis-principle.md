@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Bernoulli’s Principle
 
 **As the speed of a fluid (like air) increases, its pressure decreases.**
 

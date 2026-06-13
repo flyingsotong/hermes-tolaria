@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Hit Refresh
 
 - Author: "The most important attribute that any leader needs to have—and it is often underestimated—is the need to create clarity when none exists." — Satya Nadella, Greg Shaw, Jill Tracie Nichols
 

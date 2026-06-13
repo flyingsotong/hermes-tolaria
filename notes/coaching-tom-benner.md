@@ -7,6 +7,7 @@ date: 2023-08-24
 client: Tom Benner
 belongs_to: Splice Media
 ---
+# Coaching - Tom Benner
 
 Email: tgbenner@gmail.com
 

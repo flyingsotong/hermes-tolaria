@@ -2,6 +2,7 @@
 type: Personal-Note
 date: 2023-11-08
 ---
+# 8 November 2023 8 hours to Splice Beta
 
 8 November 2023: 8 hours to [Splice Beta.md](8%20November%202023%208%20hours%20to%20Splice%20Beta/Splice%20Beta.md)
 

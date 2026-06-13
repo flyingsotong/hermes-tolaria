@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Systems The Purpose of a System Is What It Does
 
 - Author: Anil Dash
 

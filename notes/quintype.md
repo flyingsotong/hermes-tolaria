@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Quintype
 
 Hi Vineet,
 

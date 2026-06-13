@@ -7,6 +7,7 @@ date: 2025-04-03
 client: Rachel Schraer
 belongs_to: Splice Media
 ---
+# Coaching - Rachel Schraer
 
 **April 3, 2025**
 

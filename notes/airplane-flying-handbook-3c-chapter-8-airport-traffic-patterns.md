@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Airplane Flying Handbook (3C) Chapter 8 Airport Traffic Patterns
 
 <https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook>
 **Introduction**

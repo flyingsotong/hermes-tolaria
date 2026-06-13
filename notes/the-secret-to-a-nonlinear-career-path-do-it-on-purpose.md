@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Secret to a Nonlinear Career Path Do It on Purpose
 
 [https://www.gameplan-a.com/2022/09/the-secret-to-a-nonlinear-career-path-do-it-on-purpose/](https://www.gameplan-a.com/2022/09/the-secret-to-a-nonlinear-career-path-do-it-on-purpose)
 

@@ -2,6 +2,7 @@
 type: Project-Note
 source_url: https://preseednow.com/p/praise-bootstrapping-breaking-vc-narrative
 ---
+# Bootstrapping and Breaking the VC Narrative
 
 - Author: [preseednow.com 1](preseednow.com%201.md)
 

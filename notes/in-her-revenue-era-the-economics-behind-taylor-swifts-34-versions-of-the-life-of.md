@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# In her revenue era the economics behind Taylor Swift’s 34 versions of The Life of a Showgirl
 
 [Read on The Conversation](https://theconversation.com/in-her-revenue-era-the-economics-behind-taylor-swifts-34-versions-of-the-life-of-a-showgirl-267737)
 

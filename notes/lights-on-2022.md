@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Lights On 2022
 
 This isn't meant to be a comprehensive survey (that would take far too many questions), but it's meant to figure out if newsrooms are better off now than they were before the pandemic.
 

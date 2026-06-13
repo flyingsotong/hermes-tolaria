@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Mon, October 21st, 2024
 
 - [Tweets](Tweets.md)
 

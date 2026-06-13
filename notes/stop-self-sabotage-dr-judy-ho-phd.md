@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Stop Self-Sabotage, Dr. Judy Ho, PhD
 
 <https://www.blinkist.com/en/books/stop-self-sabotage-en>
 

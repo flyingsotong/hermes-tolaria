@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Clifton Strengths Personality Report
 
 **Relator, Strategic, Restorative, Learner, Belief**
 

@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Authenticity The Key to Success — Dr. Dain Heer (Selling With Love)
 
 <https://www.sellingwithlove.com/authenticity-the-key-to-success-dr-dain-heer/>
 May 26, 2025

@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# 10 Questions Top Founders Nail Down Before Their Pitch
 
 <https://twitter.com/jchen623/status/1573015574833033216>
 **Smart summary:** The biggest mistake that early-stage startup founders make when pitching to VCs is lack of clarity, and this thread provides 10 questions that top founders make sure to answer before their pitch.

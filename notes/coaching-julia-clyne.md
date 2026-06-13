@@ -7,6 +7,7 @@ date: 2023-06-08
 client: Julia Clyne
 belongs_to: Splice Media
 ---
+# Coaching - Julia Clyne
 
 Email: julia.whiting@gmail.com / clyne.julia@gmail.com
 

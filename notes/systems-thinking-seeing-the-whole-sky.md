@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Systems Thinking Seeing the Whole 'Sky'
 
 At their core,**systems thinking is the lens** for understanding the complexity, and**design thinking is the toolkit** for creating human-centered solutions _within_ that complexity.
 In aviation safety, this combination is incredibly powerful. Aviation is a classic "complex socio-technical system"—a web of people, technology, regulations, and environmental factors.1

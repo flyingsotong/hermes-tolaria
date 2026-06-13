@@ -3,6 +3,7 @@ type: Coaching-Session
 client: SOS Coaches pitch
 belongs_to: Splice Media
 ---
+# SOS Coaches pitch
 
 Hello xxx,
 

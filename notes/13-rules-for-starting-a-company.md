@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# 13 rules for starting a company
 
 <https://twitter.com/adcock_brett/status/1600511184507064320>
 

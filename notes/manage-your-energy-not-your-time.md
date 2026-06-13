@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Manage Your Energy, Not Your Time
 
 - Category:
 

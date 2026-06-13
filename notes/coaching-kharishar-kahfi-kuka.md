@@ -7,6 +7,7 @@ date: 2025-04-14
 client: Kharishar Kahfi (Kuka)
 belongs_to: Splice Media
 ---
+# Coaching - Kharishar Kahfi (Kuka)
 
 **April 14, 2025**
 

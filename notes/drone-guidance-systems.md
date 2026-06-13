@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Drone Guidance systems
 
 **Summary of Key Differences**
 -**LiDAR** and**Vision-based** systems are best for creating**detailed maps** and understanding the drone's environment in 3D, with LiDAR providing superior, highly accurate depth information regardless of object color or texture.

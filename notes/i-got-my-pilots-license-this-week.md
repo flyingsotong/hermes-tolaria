@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# I got my pilot's license this week.
 
 <https://www.linkedin.com/feed/update/urn:li:activity:7327496033159000064/>
 

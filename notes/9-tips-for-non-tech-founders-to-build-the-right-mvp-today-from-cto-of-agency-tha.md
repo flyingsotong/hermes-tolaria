@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# 9 tips for non-tech founders to build the right MVP today (from CTO of agency that built 30+ startu…
 
 9 tips for non-tech founders to build the right MVP today (from CTO of agency that built 30+ startups)
 

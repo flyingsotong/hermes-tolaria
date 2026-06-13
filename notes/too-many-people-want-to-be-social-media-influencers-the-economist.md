@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Too many people want to be social-media influencers (The Economist)
 
 Influencers are everywhere you look these days—including on America’s campaign trail. Some 200 social-media stars attended the Democratic National Convention in August, where they were entertained at lavish parties and on boat trips. A few even got to chat with Kamala Harris. Donald Trump has likewise given interviews to influencer bros such as Logan Paul and Theo Von in an effort to appeal to their followers.
 

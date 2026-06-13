@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# 20 Commandments to Not F*ck Up Buying a Business
 
 20 Commandments to Not F\*ck Up Buying a Business
 

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# 700 hours of career coaching in 17 minutes (Adam Thomas)
 
 <https://www.youtube.com/watch?v=JtYANI4JVqs>
 I can hardly believe it, but I've spent over 700 hours coaching people in the last three and a half years. I've coached entrepreneurs and helped them found new businesses, philanthropists giving away millions of dollars, and nonprofit leaders solving some of the world's biggest problems.

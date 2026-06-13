@@ -2,6 +2,7 @@
 type: Quote
 attribution: and it is often underestimated—is the need to create clarity when none exists. — Satya Nadella
 ---
+# Quotes - The most important attribute that any leader needs to have—and it is often underestimated—is the need to create clarity when none exists. — Satya Nadella
 
 "The most important attribute that any leader needs to have—and it is often underestimated—is the need to create clarity when none exists." — Satya Nadella
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Taylor Swift And The Attention Monopoly
 
 RYAN BRODERICK 21 NOV 2023 
 <https://www.garbageday.email/p/the-taylor-swift-info-war>

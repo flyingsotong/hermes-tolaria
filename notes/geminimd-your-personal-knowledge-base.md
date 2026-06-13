@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# GEMINI.md - Your Personal Knowledge Base
 
 **Directory Overview**
 

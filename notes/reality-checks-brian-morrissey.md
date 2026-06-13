@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Reality checks (Brian Morrissey)
 
 - Description: Publishing needs a come to Jesus
 

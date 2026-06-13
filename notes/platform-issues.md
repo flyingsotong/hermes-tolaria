@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Platform issues
 
 - URL: [https://www.therebooting.com/platform-issues/](https://www.therebooting.com/platform-issues/?ref=the-rebooting-newsletter)
 

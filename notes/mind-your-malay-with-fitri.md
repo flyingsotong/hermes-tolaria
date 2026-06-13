@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Mind Your Malay with Fitri
 
 Private Malay Tutor in Singapore and Online Improve Your English/Malay With A Native (Available for online lessons only and not for MOE syllabus)
 

@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Venture Capital Financing for Startups – July 15, 2022
 
 Concerns of equity funding
 

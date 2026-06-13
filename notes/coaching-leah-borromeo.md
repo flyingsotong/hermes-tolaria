@@ -7,6 +7,7 @@ date: 2025-02-12
 client: Leah Borromeo
 belongs_to: Splice Media
 ---
+# Coaching - Leah Borromeo
 
 ---
 

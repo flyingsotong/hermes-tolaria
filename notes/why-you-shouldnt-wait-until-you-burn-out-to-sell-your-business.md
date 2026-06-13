@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Why you shouldn’t wait until you burn out to sell your business
 
 <https://theygotacquired.com/resources/sell-before-you-burn-out/>
 

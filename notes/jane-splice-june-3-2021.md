@@ -2,6 +2,7 @@
 type: Meeting-Note
 status: archived
 ---
+# Jane + Splice – June 3, 2021
 
 Attendees: <jmmcelhone@gmail.com>, Alan Soon, Rishad Patel, <yan@thibi.co>
 

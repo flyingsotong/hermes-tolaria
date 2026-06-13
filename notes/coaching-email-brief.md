@@ -4,6 +4,7 @@ tags:
   - coaching/me
   - coaching
 ---
+# Coaching - Email brief
 
 Thanks for booking a slot!
 

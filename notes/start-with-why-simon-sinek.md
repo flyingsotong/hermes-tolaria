@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Start With Why (Simon Sinek)
 
 - Author: [Simon Sinek](Simon%20Sinek.md)
 

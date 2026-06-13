@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Splice’s guide to your media future
 
 by [Sudhir Vadaketh.md](Splice%E2%80%99s%20guide%20to%20your%20media%20future/Sudhir%20Vadaketh.md) <https://www.jom.media/splices-guide-to-your-media-future/>
 

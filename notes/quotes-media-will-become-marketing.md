@@ -1,6 +1,7 @@
 ---
 type: Quote
 ---
+# Quotes - Media will become marketing
 
 "Media will become marketing"
 

@@ -2,6 +2,7 @@
 type: Media-Analysis
 source_url: https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/
 ---
+# Ignore the coming election bump » Nieman Journalism Lab
 
 - Description: "When internet users do not engage with news, it is not because they can’t engage with it. It is because they do not find it worth their while."
 

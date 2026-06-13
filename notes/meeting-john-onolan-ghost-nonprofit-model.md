@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Meeting John O'Nolan – Ghost Nonprofit Model
 
 Thu, October 24th, 2024
 

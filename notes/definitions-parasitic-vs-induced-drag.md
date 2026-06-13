@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Definitions Parasitic vs Induced Drag
 
 **Parasitic Drag (Increases with airspeed)**
 1. **Form Drag**

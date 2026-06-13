@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Partnership opportunities
 
 **Partnership opportunities** [_Here’s what’s available to book_](https://docs.google.com/spreadsheets/d/1mjDucJNTi5KDA2uNBxTn0BCOc9K2aUQjK0-cY8aS2I0/edit?usp=sharing)_ in Inbox Collective + Not a Newsletter right now. To book, you can email Dan at [_dan@inboxcollective.com_](https://mailto:dan@inboxcollective.com)._
 

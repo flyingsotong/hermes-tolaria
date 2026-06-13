@@ -7,6 +7,7 @@ date: 2025-05-07
 client: Rachael Akidi Okwir
 belongs_to: Splice Media
 ---
+# Coaching - Rachael Akidi Okwir
 
 **May 7, 2025**
 

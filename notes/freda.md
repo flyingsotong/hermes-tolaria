@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# FREDA
 
 * **Fuel:** Sufficient quantity, pump status, and proper tank selection.
 * **Radio:** Correct frequencies for ATC or navigation set, volume, and squelch.

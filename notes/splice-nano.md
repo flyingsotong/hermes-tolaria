@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Splice Nano
 
 <https://www.notion.so/splicemedia/Splice-Nano-x-ICFJ-Build-a-viable-media-company-of-one-with-AI-d0375e8538b6425da60e17685240cc2a>
 

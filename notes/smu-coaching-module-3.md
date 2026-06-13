@@ -4,6 +4,7 @@ date: 2023-04-14
 client: SMU Coaching Module 3
 belongs_to: Splice Media
 ---
+# SMU Coaching Module 3
 
 12 April 2023
 **Create a self assessment**

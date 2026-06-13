@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Something Big Is Happening (Matt Shumer)
 
 [Something Big Is Happening](https://shumer.dev/something-big-is-happening)
 

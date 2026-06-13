@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Company of One (Paul Jarvis)
 
 **Highlights**
 

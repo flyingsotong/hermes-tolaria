@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Checks Downwind (J160 RPA)
 
 1. Fuel pump on + fuel selector
 

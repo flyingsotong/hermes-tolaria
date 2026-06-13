@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Lite Air - Passenger Endorsement Briefing
 
 How we manage and treat passengers is a vital skill for ALL pilots. The experience you provide will ensure a great outcome for the passengers' flight and display excellent "pilotage" on behalf of the aviation industry.
 

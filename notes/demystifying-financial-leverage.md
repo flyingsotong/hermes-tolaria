@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Demystifying financial leverage
 
 [Patrick McKenzie (patio11)](https://bam.kalzumeus.com/author/patio11/) • Nov 11th, 2022 [https://bam.kalzumeus.com/archive/demystifying-financial-leverage/](https://bam.kalzumeus.com/archive/demystifying-financial-leverage)
 

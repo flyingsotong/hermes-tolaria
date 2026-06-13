@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# RFTW coaching Venkatesh HR + Jency Jacob (Boom)
 
 Venkatesh and Jency from Boom sought guidance on developing new, sustainable revenue streams. They feel they are at a**crossroads**, anticipating a potential disruption in their primary revenue from Meta's fact-checking program. Their main goal was to explore how to become more self-dependent and move beyond a reliance on platform grants, having found previous B2C efforts like memberships and paywalls to be very difficult. They came to the call looking for a path toward financial stability.
 **What They Learned**

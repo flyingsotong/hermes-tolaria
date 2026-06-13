@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Don't Believe Everything You Think (Joseph Nguyen)
 
 - We cannot change what we are not aware of, and once we are aware, we cannot help but change. — Sheryl Sandberg
 - You’d rather suffer in certainty than live with the fear of uncertainty. It’s better to not try at all than to try and fail, right?

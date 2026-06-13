@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Basic contract law
 
 1. Capacity: Does the person have the authority to make this promise?
 

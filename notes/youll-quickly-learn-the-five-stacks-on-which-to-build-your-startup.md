@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# You'll quickly learn the five stacks on which to build your startup
 
 1. Strategy, business, funding
 

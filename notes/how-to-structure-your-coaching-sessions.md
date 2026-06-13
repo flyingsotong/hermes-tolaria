@@ -3,6 +3,7 @@ type: Coaching-Session
 client: How to structure your coaching sessions
 belongs_to: Splice Media
 ---
+# How to structure your coaching sessions
 
 Coach Ajit <https://youtu.be/cMoUmVdmEvg>
 

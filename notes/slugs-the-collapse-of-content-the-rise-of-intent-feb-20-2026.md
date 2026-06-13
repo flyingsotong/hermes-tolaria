@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# Slugs The collapse of content; the rise of intent (Feb 20, 2026)
 
 Last week, I shared how the ground shifted for AI reasoning. But if you want to see the future of journalism, look at what’s happening in software engineering.
 

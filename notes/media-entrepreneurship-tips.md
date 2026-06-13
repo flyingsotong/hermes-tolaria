@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Media entrepreneurship tips
 
 If you're an early media startup, don't ask for money. Ask for buy-in for your mission and utility. Is what you're doing really important for your audience?
 

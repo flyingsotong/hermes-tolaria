@@ -7,6 +7,7 @@ date: 2023-08-21
 client: Paul Howell
 belongs_to: Splice Media
 ---
+# Coaching - Paul Howell
 
 **August 21, 2023**
 

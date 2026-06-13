@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Hemant Taneja on Balancing Profit and Purpose (Stanford Graduate School of Business)
 
 Q: Finally, do you have any parting advice for Stanford GSB students?
 

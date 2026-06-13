@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# What the next crop of media startups will look like
 
 <https://simonowens.substack.com/p/what-the-next-crop-of-media-startups>
 **Let’s face it: the genie is out of the bottle, and journalists now have a much better understanding of the value they bring to their employers.**

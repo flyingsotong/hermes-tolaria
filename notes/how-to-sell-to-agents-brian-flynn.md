@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# How to Sell to Agents (Brian Flynn)
 
 **Source:** <https://x.com/flynnjamm/status/2023465136204419096>
 

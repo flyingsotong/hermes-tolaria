@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Bangladesh journalism training feasibility – July 13, 2021
 
 Attendees: Alan Soon, <matt.abud@gmail.com>, <tanimahmed@gmail.com>
 

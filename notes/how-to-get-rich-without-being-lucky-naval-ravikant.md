@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# How to get rich without being lucky (Naval Ravikant)
 
 <https://twitter.com/naval/status/1002103360646823936>
 

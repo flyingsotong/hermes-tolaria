@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Checks HASELL
 
 Ensure that the aircraft is in a safe condition and that the environment is suitable for performing specific maneuvers. Needs to be done prior to ANY aerial maneuver.
 

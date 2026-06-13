@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Maneuvers Climbs & Descends
 
 **Pitch for airspeed:**
 Changing the pitch angle of the aircraft (nose up or nose down) primarily affects its airspeed. Raising the nose (increasing pitch) will decrease airspeed, while lowering the nose (decreasing pitch) will increase airspeed, assuming constant power.

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Coach the Person Not the Problem A Simple Guide to Coaching for Transformation (Chad Hall)
 
 **Don't judge** If you, as the coach, interpret client emotions as an indicator that “something’s wrong” with the client, then you’ll prevent the client from doing the tough and meaningful work of actually interpreting their emotional response for what it is.
 

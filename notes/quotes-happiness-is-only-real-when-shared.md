@@ -1,6 +1,7 @@
 ---
 type: Quote
 ---
+# Quotes - Happiness is only real when shared.
 
 "Happiness is only real when shared."
 

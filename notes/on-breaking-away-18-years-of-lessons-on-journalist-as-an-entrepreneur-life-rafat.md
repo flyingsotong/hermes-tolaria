@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# On breaking away 18 years of lessons on journalist-as-an-entrepreneur life — Rafat Ali
 
 - Description: On Breaking Away: 18 Years Of Lessons On...
 

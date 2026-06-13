@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Trap of Wanting Too Much for the People You Coach (Rhonda Hess)
 
 New coaches can feel so exuberant about coaching that they search for inappropriate opportunities to use their new skills. I did this several times until I realized it was disrespectful. In one painful situation, I coached a troubled friend, and it caused a rift that took years to heal.
 

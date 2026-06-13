@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Read more novels
 
 One early indicator of memory issues, according to Dr. Restak, is giving up on fiction. “People, when they begin to have memory difficulties, tend to switch to reading nonfiction,” he said.
 

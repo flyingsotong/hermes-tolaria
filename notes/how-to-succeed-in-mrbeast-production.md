@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How to succeed in MrBeast Production
 
 Hi, I’m Jimmy (MrBeast) and as the team is growing larger, I no longer get to spend as much time with everyone as I used to. The first dozen employees had unfiltered and unlimited access to me to learn as much as they could about my vision and what I wanted. Sadly, you don’t have that luxury. So, I thought it would be useful to try to braindump as much as I can into this silly little book to give new people to help bring them up to speed on everything we’ve learned over the past decade with this channel. We’ve been through a lot and chances are most of the problems you face we’ve dealt with. So I genuinely believe if you attently read and understand the knowledge here you will be much better set up for success. So, if you read this book and pass a quiz I’ll give you $1,000. Sorry in advance for all the run on sentences and grammar issues, I’m a youtuber not an author haha.
 

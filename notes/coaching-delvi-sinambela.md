@@ -7,6 +7,7 @@ date: 2025-02-19
 client: Delvi Sinambela
 belongs_to: Splice Media
 ---
+# Coaching - Delvi Sinambela
 
 **February 19, 2025**
 

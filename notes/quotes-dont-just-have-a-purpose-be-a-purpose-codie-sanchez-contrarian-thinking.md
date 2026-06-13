@@ -2,6 +2,7 @@
 type: Quote
 attribution: Codie Sanchez, Contrarian Thinking
 ---
+# Quotes - Don't just have a purpose, be a purpose -- Codie Sanchez, Contrarian Thinking
 
 "Don't just have a purpose, be a purpose" — Codie Sanchez, Contrarian Thinking
 

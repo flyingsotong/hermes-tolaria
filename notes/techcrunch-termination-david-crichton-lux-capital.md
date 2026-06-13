@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# TechCrunch+ Termination (David Crichton, Lux Capital)
 
 - Description: Journalists and media critics have been shrill about the deleterious state of media economics, and that alarm is deserved: quality journalism is extraordinarily hard to do in the best of circumstances and now it is no longer viable.
 

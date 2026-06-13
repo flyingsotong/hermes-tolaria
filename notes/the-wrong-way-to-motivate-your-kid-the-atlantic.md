@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Wrong Way to Motivate Your Kid (The Atlantic)
 
 [https://www.theatlantic.com/family/archive/2025/05/parenting-islands-of-competence-kids-motivation/682739/](https://www.theatlantic.com/family/archive/2025/05/parenting-islands-of-competence-kids-motivation/682739/?link_source=ta_bluesky_link)
 

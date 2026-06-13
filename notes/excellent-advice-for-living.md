@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Excellent Advice for Living
 
 - Author: Kevin Kelly
 

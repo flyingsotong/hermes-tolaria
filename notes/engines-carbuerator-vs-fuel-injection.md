@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Engines Carbuerator vs Fuel injection
 
 Both systems have their place in aviation, with the choice often depending on the aircraft's intended use, cost considerations, and pilot preference.
 **Carburetor Systems**

@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# ATC quiz
 
 *By staff writers — Flight Safety Australia*
 April 30, 2026 8:00 AM

@@ -7,6 +7,7 @@ date: 2025-01-10
 client: Mike Tatarski
 belongs_to: Splice Media
 ---
+# Coaching - Mike Tatarski
 
 Email: matatarski@gmail.com
 

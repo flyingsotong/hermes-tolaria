@@ -3,6 +3,7 @@ type: Coaching-Session
 client: RFTW coaching Ankur Paliwal
 belongs_to: Splice Media
 ---
+# RFTW coaching Ankur Paliwal
 
 <ankur.paliwal@queerbeat.org>
 **Feb 12 2026 (RFTW Session 3)**

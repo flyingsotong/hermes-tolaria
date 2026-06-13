@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Ditch the one-path career Discover the 4 essential pillars of the “portfolio life”
 
 Christina Wallace
 

@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# I Turned Google Sheets + Gmail Into a $400K Startup (Here's How)
 
 This interview with entrepreneur Laxman Papineni provides powerful, real-world lessons on how to build a successful business by prioritizing customer acquisition and market validation over product development. His journey highlights two critical principles for any aspiring founder.
 <https://www.youtube.com/watch?v=WzoFmuRx-WU&t=36s>

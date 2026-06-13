@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# What No One Tells You About Purpose and Happiness in Retirement (Two Sides of FI)
 
 January 7, 2025 [What No One Tells You About Purpose and Happiness in Retirement](https://twosidesoffi.com/purposecode/)
 

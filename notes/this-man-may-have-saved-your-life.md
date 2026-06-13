@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# This Man May Have Saved Your Life
 
 **Flight Safety Australia pays tribute to a thinker whose work transformed aviation, medicine and many other fields.**
 September 11, 2025

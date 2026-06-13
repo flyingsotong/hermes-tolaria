@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# Slugs The Dark Factory of News Why You Feel Slower (And How to Fix It)
 
 Last week, I talked about "Context Engineering." This week, I want to talk about why most of us—even the AI-curious—are still stuck in the slow lane.
 There is a fascinating paradox happening in software right now. A recent study by METR found that experienced developers using AI actually took**19% longer** to finish tasks. Meanwhile, over at Anthropic, their new coding tool was**90% written by itself.**

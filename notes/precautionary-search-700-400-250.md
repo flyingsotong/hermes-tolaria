@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Precautionary search 700, 400, 250
 
 FE + 500 ft AGL = 700 ft
 

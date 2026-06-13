@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Be more assertive with customers - Wes Kao's Newsletter
 
 - Description: Your customers called—they want you to take the reins and drive.
 

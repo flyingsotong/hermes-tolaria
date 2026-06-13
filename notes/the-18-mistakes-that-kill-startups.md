@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# The 18 Mistakes That Kill Startups
 
 [https://paulgraham.com/startupmistakes.html](https://paulgraham.com/startupmistakes.html?utm_source=www.foundersinthecloud.com\&utm_medium=referral\&utm_campaign=loneliness)
 October 2006

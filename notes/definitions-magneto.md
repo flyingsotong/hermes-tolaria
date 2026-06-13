@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Definitions Magneto
 
 The magneto is an essential electrical component in piston engines, particularly in aircraft engines and some older vehicles. It performs two key functions:
 

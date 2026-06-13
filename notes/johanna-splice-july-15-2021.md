@@ -2,6 +2,7 @@
 type: Meeting-Note
 status: archived
 ---
+# Johanna + Splice – July 15, 2021
 
 Attendees: <jcarrillo@icfj.org>, Alan Soon, Rishad Patel
 

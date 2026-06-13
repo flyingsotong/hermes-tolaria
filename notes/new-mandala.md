@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# New Mandala
 
 _The presentation will be about 10-15 mins each, with Q\&A to follow. As you've probably seen, the topic we wrote was 'Can Southeast Asia's independent media survive the pandemic?' We are interested in hearing from you on a range of countries here, and of course Myanmar and Thailand are very important topics right now. _
 

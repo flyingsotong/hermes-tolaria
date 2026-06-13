@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# A brand is a promise. 1
 
 A brand is a promise.
 **Splice Media's Unique Point of View on Branding (Promise-Focused):"Your Brand IS Your Defining Promise: Splice's Approach to Building Unshakeable Trust and Viable Media Futures by Making—and Keeping—Authentic, Actionable Commitments."**

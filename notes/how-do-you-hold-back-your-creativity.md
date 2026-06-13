@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How do you hold back your creativity
 
 How do _you_ hold back your creativity?
 

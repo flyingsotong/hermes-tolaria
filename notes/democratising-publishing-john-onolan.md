@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Democratising publishing (John O’Nolan)
 
 Thoughts on open source governance and how to create trust within technology, communities, and media.
 

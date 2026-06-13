@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Meeting Barrett Bingley – The Economist and NSL
 
 Wed, July 24th, 2024
 

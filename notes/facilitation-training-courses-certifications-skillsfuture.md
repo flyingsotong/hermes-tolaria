@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Facilitation Training — Courses & Certifications (SkillsFuture)
 
 **Last updated:** May 2026
 **Goal:** Improve workshop facilitation skills for Splice Media workshops and media training

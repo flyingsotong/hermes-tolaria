@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Diamond DA20 V-speeds
 
 Best Rate-of-Climb speed at sea level Vy: 75 kt
 Best Angle-of-Climb speed at sea level Vx: 60 kt

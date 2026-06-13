@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Jeff Bezos' 2016 Letter to Amazon Shareholders
 
 - Description: At an Amazon employee meeting, Bezos answers the question, "Jeff, what does Day 2 look like?"
 

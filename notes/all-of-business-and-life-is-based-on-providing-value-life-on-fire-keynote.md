@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# All of Business and Life is based on providing value  Life on Fire Keynote
 
 <https://steno.ai/the-garyvee-audio-experience-928645257/all-of-business-and-life-is-based-on-providing-value>
 

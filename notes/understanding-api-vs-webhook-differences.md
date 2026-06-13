@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Understanding API vs Webhook Differences
 
 [YouTube Video](https://www.youtube.com/watch?v=FVa3FGbdw3g)
 **Creator:** Jannis Moore | AI Automation

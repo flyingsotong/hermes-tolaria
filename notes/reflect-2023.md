@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Reflect 2023
 
 It's been a formative year for Reflect, our note-taking company. This letter will recap what we've shipped in 2023, how the business is going, and our plans for the coming year.
 

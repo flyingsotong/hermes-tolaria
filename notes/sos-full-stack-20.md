@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# SOS Full Stack 2.0
 
 - Provide specific coaching for applicants, focused on their specific need
 

@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# 7 Ways to Attract and Serve Satisfied Coaching Clients (Rhonda Hess)
 
 - Description: Client service in coaching begins before they hire you
 

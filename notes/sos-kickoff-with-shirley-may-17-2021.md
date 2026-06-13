@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# SOS kickoff with Shirley – May 17, 2021
 
 Attendees: Alan Soon, Rishad Patel, <reach.shirleycheong@gmail.com>
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# AI and The Next Computing Platforms With Jensen Huang and Mark Zuckerberg (SIGGRAPH 2024)
 
 <https://www.youtube.com/watch?v=w-cmMcMZoZ4>
 

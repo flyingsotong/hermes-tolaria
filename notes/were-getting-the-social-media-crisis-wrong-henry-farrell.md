@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# We're getting the social media crisis wrong (Henry Farrell)
 
 **The bigger problem isn't disinformation. It's degraded democratic publics**
 

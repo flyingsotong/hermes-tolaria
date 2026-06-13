@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# Slugs Why 2026 is Your Best Year Yet
 
 Last week, I told you that the "this seems overblown" phase of AI is over. Today, I want to tell you why that is the best news we’ve had in a decade.
 

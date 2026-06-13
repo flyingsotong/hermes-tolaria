@@ -3,6 +3,7 @@ type: Coaching-Session
 client: ICF Singapore 2024 In-Person Event
 belongs_to: Splice Media
 ---
+# ICF Singapore 2024 In-Person Event
 
 Mon, May 13th, 2024
 

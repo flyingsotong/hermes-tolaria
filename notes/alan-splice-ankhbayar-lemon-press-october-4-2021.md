@@ -2,6 +2,7 @@
 type: Meeting-Note
 status: archived
 ---
+# Alan (Splice)  Ankhbayar (Lemon Press) – October 4, 2021
 
 Attendees: <ankhbayar@lemonpress.mn>, Alan Soon
 

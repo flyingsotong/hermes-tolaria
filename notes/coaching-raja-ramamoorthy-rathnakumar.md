@@ -7,6 +7,7 @@ date: 2025-02-04
 client: Raja Ramamoorthy Rathnakumar
 belongs_to: Splice Media
 ---
+# Coaching - Raja Ramamoorthy Rathnakumar
 
 **February 4, 2025**
 

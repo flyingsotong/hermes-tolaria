@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Cloud cover Clear, Few, Scattered, Broken, Overcast, Obscured
 
 Clever foxes slyly baffle old owls.
 

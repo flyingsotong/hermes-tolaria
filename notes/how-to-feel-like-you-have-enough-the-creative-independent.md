@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How to feel like you have enough (The Creative Independent)
 
 You’re showing your work, you’re getting out there, and you’ve had some success. Maybe you’ve made some sales and gotten some recognition, but you can’t help feeling that you’re still behind. Everyone else seems to have more — followers, opportunities, time. They seem to have it all figured out. It’s starting to feel like there will never be enough money, connections, or recognition to give you the stability and success you’re looking for as an artist.
 

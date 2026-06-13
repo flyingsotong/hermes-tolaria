@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# 5 Mar 2025 call Goh Yan Han and Ng Wei Kai
 
 Sure, here is a summary of the call you had with two journalists at The Straits Times in Singapore who had just launched a new newsletter on Substack, focusing on what you learned:
 

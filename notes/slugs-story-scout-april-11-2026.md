@@ -5,6 +5,7 @@ scout_date: 2026-04-11
 related_to:
   - Slugs
 ---
+# Slugs Story Scout — April 11, 2026
 
 ---
 Five candidates ranked #1 (most Slugs-worthy) to #5. Assessed against rupture strength, cross-industry freshness, generalizability, and source quality.

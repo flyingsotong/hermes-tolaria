@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Finding momentum
 
 **Finding momentum** [Troy Young](Troy%20Young.md)
 

@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Things you need on your way to building a modern media business in 2024
 
 [Entrepreneurship 2](Things%20you%20need%20on%20your%20way%20to%20building%20a%20modern%20media%20business%20in%202024/Entrepreneurship%202)
 

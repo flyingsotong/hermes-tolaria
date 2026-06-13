@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Druker question What business are you in
 
 **Don’t assume you know what business you’re in.**
 

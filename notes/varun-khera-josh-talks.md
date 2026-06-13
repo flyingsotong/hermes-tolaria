@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Varun Khera, Josh Talks
 
 Varun Khera, Josh Talks [https://www.linkedin.com/in/varunkhera/](https://www.linkedin.com/in/varunkhera)
 

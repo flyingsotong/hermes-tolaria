@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Rachel Arthur
 
 - Title: Founder
 

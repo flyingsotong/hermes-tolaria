@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# How To Be Successful (Sam Altman)
 
 <https://blog.samaltman.com/how-to-be-successful>
 

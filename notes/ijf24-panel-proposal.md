@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# IJF24 panel proposal
 
 Deadline: Dec 31, 2024
 

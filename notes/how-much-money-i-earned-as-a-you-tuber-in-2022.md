@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How Much Money I Earned as a You Tuber in 2022
 
 How Much Money I Earned as a YouTuber in 2022
 

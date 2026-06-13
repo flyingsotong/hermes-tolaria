@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Not all traffic sources are created equal
 
 - Description: I created a general framework for figuring out which audiences drive the most engagement.
 

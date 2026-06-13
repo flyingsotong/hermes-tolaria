@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Hello friend,
 
 Not long before we meet! This is going to be our last email out to you ahead of the festivities.
 

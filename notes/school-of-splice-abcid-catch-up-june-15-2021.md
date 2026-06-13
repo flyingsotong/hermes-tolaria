@@ -2,6 +2,7 @@
 type: Meeting-Note
 status: archived
 ---
+# School of Splice- ABCID catch up – June 15, 2021
 
 Attendees: <elsom.jo@abc.net.au>, Alan Soon, Rishad Patel, <seymour.kate@abc.net.au>
 

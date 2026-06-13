@@ -7,6 +7,7 @@ date: 2023-09-13
 client: Darathtey Din
 belongs_to: Splice Media
 ---
+# Coaching - Darathtey Din
 
 **September 13, 2023**
 

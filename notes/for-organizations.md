@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# For organizations
 
 About two years ago, when the pandemic hit, we ran Splice Lights On, a survey to better understand the financial conditions at newsrooms. That resulted in emergency grants we delivered with the Meta Journalism Project.
 

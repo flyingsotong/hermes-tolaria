@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# What I Learned from Building a Billion Dollar Company
 
 <https://twitter.com/jeremygiffon/status/1618691555304566785>
 **Smart summary:** The best deals are the ones that are so obviously good that they don't require a lot of justification. The best investors are the ones who ask simple questions. And it's always possible to be profitable while still growing.

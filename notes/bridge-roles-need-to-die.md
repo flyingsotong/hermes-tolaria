@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Bridge roles need to die
 
 Bridge roles need to die. Not because the problem(s) they solve don’t matter. Coordination, alignment and cross functional working matter more than ever
 

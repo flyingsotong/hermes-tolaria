@@ -6,6 +6,7 @@ tags:
 client: ICF Foundations of Observation Competency B Co-Creating the Relationship
 belongs_to: Splice Media
 ---
+# ICF Foundations of Coaching - Observation Competency B Co-Creating the Relationship
 
 Participant: Alan Soon Teck Soon
 Observer & qualification: Tanja Bach, ACC

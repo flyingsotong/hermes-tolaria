@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Financing is a tactic, not a goal.
 
 <https://twitter.com/scottbelsky/status/1714272193863909650>
 

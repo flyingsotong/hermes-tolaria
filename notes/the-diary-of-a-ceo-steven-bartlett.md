@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Diary of a CEO (Steven Bartlett)
 
 **About the Book**
 

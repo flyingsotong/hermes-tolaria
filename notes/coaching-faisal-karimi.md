@@ -7,6 +7,7 @@ date: 2024-01-17
 client: Faisal Karimi
 belongs_to: Splice Media
 ---
+# Coaching - Faisal Karimi
 
 **January 17, 2024**
 

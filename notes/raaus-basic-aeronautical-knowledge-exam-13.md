@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# RAAus Basic Aeronautical Knowledge Exam 1/3
 
 *Issue 5.0 · 18 March 2022 · Result: 88%*
 *Answers corrected below.*

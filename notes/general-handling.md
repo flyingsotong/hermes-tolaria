@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# General Handling
 
 [7- effects-of-controls-whiteboard.pdf](Files/7-%20effects-of-controls-whiteboard.pdf)
 

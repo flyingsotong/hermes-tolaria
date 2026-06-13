@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Removed from LinkedIn
 
 **Feb 14 2025**
 

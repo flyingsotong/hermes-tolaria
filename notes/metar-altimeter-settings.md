@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Metar Altimeter settings
 
 In a METAR (Meteorological Aviation Routine Report), the purpose of stating the altimeter pressure is crucial for ensuring safe flight operations. Here's a breakdown:
 

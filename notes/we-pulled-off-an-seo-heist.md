@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# We Pulled Off an SEO Heist
 
 - Author: [@jakezward on Twitter](%40jakezward%20on%20Twitter.md)
 

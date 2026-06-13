@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How legacy media outlets can collaborate with the Creator Economy
 
 - URL: [https://simonowens.substack.com/p/how-legacy-media-outlets-can-collaborate](https://simonowens.substack.com/p/how-legacy-media-outlets-can-collaborate?utm_source=post-email-title\&publication_id=9873\&post_id=145815910\&utm_campaign=email-post-title\&isFreemail=true\&r=2qlk6\&triedRedirect=true\&utm_medium=email)
 

@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Checks Jabiru J160
 
 **Takeoff**
 

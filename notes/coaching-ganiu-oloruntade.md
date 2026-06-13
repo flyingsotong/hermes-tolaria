@@ -7,6 +7,7 @@ date: 2025-01-24
 client: Ganiu Oloruntade
 belongs_to: Splice Media
 ---
+# Coaching - Ganiu Oloruntade
 
 ---
 

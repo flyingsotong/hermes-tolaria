@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Tue, March 12th, 2024
 
 - [Links](Links.md)
 

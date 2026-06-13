@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How I Learned That the Problem in My Marriage Was Me (NYT)
 
 <https://www.nytimes.com/2025/02/04/magazine/therapy-marriage-couples-counseling.html/>
 

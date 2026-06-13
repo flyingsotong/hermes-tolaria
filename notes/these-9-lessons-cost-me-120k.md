@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# These 9 lessons cost me $120k
 
 Codie Sanchez
 

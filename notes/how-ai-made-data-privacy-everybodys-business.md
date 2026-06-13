@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How AI Made Data Privacy Everybody's Business
 
 - Description: AI models have an insatiable need for more data. How to safeguard your information and understand the new reality.
 

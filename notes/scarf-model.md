@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# SCARF model
 
 **What are the things that can lead to stress... or resentment? (Alternatively, how do you turn these into positive attributes?)**
 

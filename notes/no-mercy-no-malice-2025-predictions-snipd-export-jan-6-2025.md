@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# No Mercy  No Malice 2025 Predictions (Snipd Export Jan 6, 2025)
 
 **Episode metadata**
 

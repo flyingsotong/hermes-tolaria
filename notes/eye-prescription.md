@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Eye Prescription
 
 |**Eye** |**Sphere (SPH)** |**Cylinder (CYL)** |**Axis** |**NV-ADD** |**Pupillary Distance (PD)** |
 | -------- | ---------------- | ------------------ | -------- | ---------- | --------------------------- |

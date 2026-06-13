@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Prof K — No Mercy  No Malice
 
 - [Scott Galloway.md](Prof%20K%20%E2%80%94%20No%20Mercy%20%20No%20Malice/Scott%20Galloway.md)
 

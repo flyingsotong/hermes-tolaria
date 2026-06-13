@@ -7,6 +7,7 @@ date: 2025-09-24
 client: Marco Siciliano
 belongs_to: Splice Media
 ---
+# Coaching - Marco Siciliano
 
 **September 24, 2025**
 

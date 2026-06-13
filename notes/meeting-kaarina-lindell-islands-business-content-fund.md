@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Meeting Kaarina Lindell – Islands Business Content Fund
 
 Tue, October 22nd, 2024
 

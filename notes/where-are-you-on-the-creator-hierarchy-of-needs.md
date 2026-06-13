@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Where are you on the creator hierarchy of needs
 
 [Creator Spotlight Article](https://www.creatorspotlight.com/p/creator-protections?utm_source=www.creatorspotlight.com\&utm_medium=newsletter\&utm_campaign=where-are-you-on-the-creator-hierarchy-of-needs)
 **Author:** Natalia Perez-Gonzalez -**Published:** 2025-11-15

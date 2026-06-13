@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# What’s the most powerful platform-building play out there
 
 - Description: If you’ve ever thought about a newsletter—and especially if you haven’t—this one’s a must-read.
 

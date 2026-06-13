@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Aeroviation RPC Phase 1 Simulators
 
 RPC registration fee $500
 

@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Piston engines (SSBB)
 
 **1. Suck**
 

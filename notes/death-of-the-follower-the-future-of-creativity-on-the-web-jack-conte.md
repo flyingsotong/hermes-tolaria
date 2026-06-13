@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Death of the Follower & the Future of Creativity on the Web (Jack Conte)
 
 _In this Keynote, Jack Conte discusses the evolution of the internet and its_ _impact on creators at SXSW 2024. He reflects on his own journey as a musician and the rise of Web 2.0, which allowed creators to share content online. He emphasizes the importance of the "subscribe" button, which enabled creators to build a following and establish ongoing relationships with their audience. Conte shares his experiences with his band Pomplamoose, highlighting how they leveraged YouTube to gain fans and sell merchandise. He introduces the concept of "true fans," a small, dedicated group of supporters who can sustain a creator's work financially._
 

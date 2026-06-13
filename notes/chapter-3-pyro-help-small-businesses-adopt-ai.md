@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Chapter 3 - Pyro Help Small Businesses Adopt AI
 
 This is a service-based business that sits at the intersection of a massive need and a massive technology shift. SMBs are often the last to benefit from tech waves due to a lack of time, expertise, and resources.
 **The Opportunity (The "Pros")**

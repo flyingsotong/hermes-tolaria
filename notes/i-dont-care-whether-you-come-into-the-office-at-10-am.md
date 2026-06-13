@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# I don’t care whether you come into the office at 10 am.
 
 I don’t care whether you come into the office at 10 am. I don’t care if you choose to work from home or not. I don’t care if you work from the garage while they fix your car.
 

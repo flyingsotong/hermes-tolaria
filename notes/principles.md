@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Principles
 
 - Author: [Ray Dalio](Ray%20Dalio.md)
 

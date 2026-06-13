@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Nordic Theory of Everything In Search of a Better Life
 
 - ASIN: B018QLGBF2
 

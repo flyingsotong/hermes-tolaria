@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Packaged media vs networked media
 
 - Description: The network is the media
 

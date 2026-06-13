@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# When I started providing automation services, I assumed I'd help businesses do what they already do, but better - with AI, automation, agents. Discovery calls revealed something different many businesses came because they were struggling with
 
 When I started providing automation services, I assumed I'd help businesses do what they already do, but better - with AI, automation, agents. Discovery calls revealed something different:**many businesses came because they were struggling with day-to-day operations and thought AI would stop the struggling.**
 

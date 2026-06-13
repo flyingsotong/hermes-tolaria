@@ -4,6 +4,7 @@ belongs_to: Magenta Debrief
 related_to:
   - Dronefly.sg
 ---
+# Funding session with Alex and Irene at Beta
 
 - what is IFPIM, what is Luminat
 

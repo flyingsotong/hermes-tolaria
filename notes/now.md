@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Now
 
 **Feb 5 2026**
 - FlyCheck approved on the App Store (took 2 days, 14 hours, and 31 minutes)

@@ -2,6 +2,7 @@
 type: Coaching-Session
 belongs_to: Splice Media
 ---
+# ICF-ACC credentials Minimum Skills Requirements
 
 - Author: International Coaching Federation (ICF)
 

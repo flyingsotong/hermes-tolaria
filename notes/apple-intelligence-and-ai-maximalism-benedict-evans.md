@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Apple Intelligence and AI Maximalism — Benedict Evans
 
 - Author: ben-evans.com
 

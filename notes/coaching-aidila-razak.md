@@ -7,6 +7,7 @@ date: 2025-01-15
 client: Aidila Razak
 belongs_to: Splice Media
 ---
+# Coaching - Aidila Razak
 
 **January 15, 2025**
 

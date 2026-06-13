@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Adam Grant's one phrase to unlock potential (Big Think)
 
 - URL: [https://bigthink.com/series/the-big-think-interview/failure-adam-grant/](https://bigthink.com/series/the-big-think-interview/failure-adam-grant/?utm_campaign=bt_business\&utm_source=rejoiner\&utm_medium=email\&utm_content=11%2F27%2F23+BT+Biz\&rjnrid=PDxw8wL)
 

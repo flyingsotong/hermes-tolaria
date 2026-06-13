@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Cult Status 1
 
 Cult Status
 

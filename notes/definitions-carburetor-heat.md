@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Definitions Carburetor Heat
 
 Carb heat is a system used on reciprocating piston engines (such as those found in airplanes) to manage the temperature of air entering the engine's carburetor. Here’s what it does:
 

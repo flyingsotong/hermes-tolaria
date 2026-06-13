@@ -7,6 +7,7 @@ date: 2023-07-11
 client: Kate Delos Reyes
 belongs_to: Splice Media
 ---
+# Coaching - Kate Delos Reyes
 
 Email: kate@beacon.ph
 

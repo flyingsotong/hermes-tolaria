@@ -7,6 +7,7 @@ date: 2025-02-17
 client: Jacque Manabat
 belongs_to: Splice Media
 ---
+# Coaching - Jacque Manabat
 
 **February 17, 2025**
 

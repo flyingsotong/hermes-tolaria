@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# The Price of Efficiency — Survivorship bias (Contrarian Thinking)
 
 **The Strategy Behind This Demolition**
 Ideally, DOGE could pull this off without a guillotine. Ideally, it could be a precise demolition, done with a scalpel, carefully planned and strategically executed, line item by line item. Unfortunately, we have to be realistic — ain’t nobody got time for that. Doing so would take years that America simply doesn’t have.

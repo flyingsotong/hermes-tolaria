@@ -6,6 +6,7 @@ tags:
 client: What I know about myself as a coach
 belongs_to: Splice Media
 ---
+# What I know about myself as a coach
 
 **What I do well**
 I build frameworks that stick. Every engagement produces a "sticky concept" the client takes away — The Oxygen Metaphor, The Uncomfortable Truth, The Launching Muscle, The Steward Narrative. Most coaches ask good questions; I give clients new language for their own experience.

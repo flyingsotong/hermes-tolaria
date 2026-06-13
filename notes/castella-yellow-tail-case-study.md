@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Castella Yellow Tail case study
 
 - Takes place in 2001 in the US
 

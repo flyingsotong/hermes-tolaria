@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# YouTube is the last bastion of unbiased journalism in India - Rest of World
 
 - URL: [https://restofworld.org/2023/india-youtube-journalism/](https://restofworld.org/2023/india-youtube-journalism/?utm_source=Rest+of+World+Newsletter\&utm_campaign=c62a3cd957-EMAIL_CAMPAIGN_2023_12_18_05_34\&utm_medium=email\&utm_term=0_-c62a3cd957-%5BLIST_EMAIL_ID%5D)
 

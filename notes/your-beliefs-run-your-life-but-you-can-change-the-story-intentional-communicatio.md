@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Your Beliefs Run Your Life but You Can Change the Story - Intentional Communication Consultants
 
 - Author: [intentionalcommunication.com 1](intentionalcommunication.com%201.md)
 

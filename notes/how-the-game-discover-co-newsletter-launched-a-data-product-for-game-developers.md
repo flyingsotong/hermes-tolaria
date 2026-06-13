@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# How the Game Discover Co newsletter launched a data product for game developers
 
 **How the GameDiscoverCo newsletter launched a data product for game developers**
 **Simon Carless carved out a niche in the gaming industry by tracking the metrics around game releases.**

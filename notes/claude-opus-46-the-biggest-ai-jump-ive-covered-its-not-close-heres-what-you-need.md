@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Claude Opus 4.6 The Biggest AI Jump I've Covered--It's Not Close. Here's What You Need to Know (Nate B. Jones)
 
 [Claude Opus 4.6: The Biggest AI Jump I've Covered--It's Not Close. \(Here's What You Need to Know\)](https://youtu.be/JKk77rzOL34?si=OgFUzI_RziuTVnq9)
 In this video, Nate B Jones discusses the significant advancements of Claude Opus 4.6 and its implications for knowledge workers, emphasizing that the pace of AI development is accelerating beyond expectations. He highlights how AI agents are no longer just incremental tools but are fundamentally changing work processes and organizational structures.

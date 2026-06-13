@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Feedback given to organizers of Building Collective Alliance - Women Journalists and Human Rights Defenders Against Gendered Misinformation (Asia-Pacific Regional Convening - Bangkok, Thailand, 4-6 September 2023)
 
 Feedback given to organizers of _Building Collective Alliance - Women Journalists and Human Rights Defenders Against Gendered Misinformation (Asia-Pacific Regional Convening - Bangkok, Thailand, 4-6 September 2023)_
 

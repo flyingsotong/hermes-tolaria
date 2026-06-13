@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Education of a Photographer
 
 Written in Apple Notes in March 2008
 

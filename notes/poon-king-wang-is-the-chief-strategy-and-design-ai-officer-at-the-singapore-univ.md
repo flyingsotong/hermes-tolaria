@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Poon King Wang is the Chief Strategy and Design AI Officer at the Singapore University of Technology and Design (SUTD) and concurrently serves as Director of the Lee Kuan Yew Centre for Innovative Cities (LKYCIC). His work focuses on the human
 
 Poon King Wang is the Chief Strategy and Design AI Officer at the Singapore University of Technology and Design (SUTD) and concurrently serves as Director of the Lee Kuan Yew Centre for Innovative Cities (LKYCIC). His work focuses on the human dimensions of smart cities, digital transformation, and the future of work, education, and healthcare.
 **September 25, 2025**

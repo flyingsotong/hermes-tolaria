@@ -4,6 +4,7 @@ tags:
   - coaching/me
   - coaching
 ---
+# Coaching - Contract
 
 **What coaching is**
 

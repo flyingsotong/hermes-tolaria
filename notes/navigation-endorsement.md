@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Navigation endorsement
 
 *Source: Claude*
 

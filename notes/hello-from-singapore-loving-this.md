@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Hello from Singapore. Loving this.
 
 Moved up from the Fold 3 and I'm surprised at how nice of an upgrade this is.
 

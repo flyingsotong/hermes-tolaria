@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Jovi at Splice Beta – August 25, 2023
 
 Attendees: <joycehau@google.com>, Alan Soon, <iwibowo@google.com>, <stephaniepark@google.com>, <jovial.dalopez@narasi.tv>
 

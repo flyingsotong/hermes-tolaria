@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# SMA Alan - Briefing – 6 July 2023
 
 Attendees: Alan Soon, <dian.anderson@ebimpact.org>
 

@@ -6,6 +6,7 @@ tags:
 client: Sean Wood
 belongs_to: Splice Media
 ---
+# Coaching - Sean Wood
 
 **Analysis of coaching call with Sean Wood**
 

@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Female Brain
 
 Chapter 7 of The Female Brain is titled "The Mature Female Brain". It covers the changes that occur in the female brain during the perimenopause and menopause stages, as well as the effects of hormone therapy and aging on the brain's functions and health³. The main points of this chapter are:
 

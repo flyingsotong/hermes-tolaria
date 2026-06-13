@@ -3,6 +3,7 @@ type: Coaching-Session
 client: The Very Real Dangers of Executive Coaching by Steven Berglas
 belongs_to: Splice Media
 ---
+# The Very Real Dangers of Executive Coaching by Steven Berglas
 
 <https://hbr.org/2002/06/the-very-real-dangers-of-executive-coaching>
 

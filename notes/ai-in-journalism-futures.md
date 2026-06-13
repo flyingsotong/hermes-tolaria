@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# AI in Journalism Futures
 
 **Initial Report**
 David Caswell and Shuwei Fang

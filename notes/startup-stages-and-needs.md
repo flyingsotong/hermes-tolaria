@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Startup stages and needs
 
 0.0
 

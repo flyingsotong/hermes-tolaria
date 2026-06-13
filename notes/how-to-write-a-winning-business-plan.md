@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# How to Write a Winning Business Plan
 
 <https://hbr.org/1985/05/how-to-write-a-winning-business-plan>
 

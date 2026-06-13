@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Tech Crunch+ Termination (David Crichton, Lux Capital)
 
 TechCrunch+ Termination (David Crichton, Lux Capital)
 

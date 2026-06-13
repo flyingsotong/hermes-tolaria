@@ -2,6 +2,7 @@
 type: Meeting-Note
 status: archived
 ---
+# ICRC x Splice – May 12, 2021
 
 Attendees: <adullard@icrc.org>, Alan Soon
 

@@ -6,6 +6,7 @@ tags:
 client: Reframing journalism
 belongs_to: Splice Media
 ---
+# Coaching - Reframing journalism
 
 ---
 

@@ -3,6 +3,7 @@ type: Aviation-Reference
 related_to:
   - Magenta Debrief
 ---
+# Circuit Pattern Entry Non-Towered Airports
 
 **Pattern Entry Altitude:** Always enter the traffic pattern**at pattern altitude** at non-towered airports.
 **Arrival from Downwind Side (Preferred)**

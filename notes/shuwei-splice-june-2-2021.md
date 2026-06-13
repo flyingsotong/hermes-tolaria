@@ -2,6 +2,7 @@
 type: Meeting-Note
 status: archived
 ---
+# Shuwei + Splice – June 2, 2021
 
 Attendees: Alan Soon, Rishad Patel, <shuwei.fang@opensocietyfoundations.org>
 

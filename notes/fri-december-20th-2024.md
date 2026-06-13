@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Fri, December 20th, 2024
 
 - Books
 

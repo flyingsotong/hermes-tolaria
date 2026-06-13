@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Information manipulation -- FIMI as a challenge to EU and NATO
 
 Brussels
 

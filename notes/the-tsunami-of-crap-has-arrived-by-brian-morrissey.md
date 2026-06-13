@@ -2,6 +2,7 @@
 type: Media-Analysis
 source_url: https://www.therebooting.com/p/the-tsunami-of-crap-has-arrived?utm_source=substack&publication_id=100541&post_id=139239490&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=2qlk6
 ---
+# The tsunami of crap has arrived - by Brian Morrissey
 
 - Description: Bring in the bots
 

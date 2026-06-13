@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Four Left Turning Tendencies in Single-Engine Aircraft
 
 These tendencies primarily affect single-engine, propeller-driven airplanes and are less pronounced or non-existent in multi-engine or jet aircraft.
 

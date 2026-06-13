@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Setting the Table (Danny Meyer)
 
 - Author: [Danny Meyer](Danny%20Meyer.md)
 

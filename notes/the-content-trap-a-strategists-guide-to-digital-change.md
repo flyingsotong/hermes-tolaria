@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# The Content Trap A Strategist's Guide to Digital Change
 
 - ASIN: B015BCX08A
 

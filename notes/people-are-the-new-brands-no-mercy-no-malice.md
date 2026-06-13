@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# People Are The New Brands (No Mercy No Malice)
 
 - Description: The text discusses the shift from brand loyalty to personal connections in American society.
 

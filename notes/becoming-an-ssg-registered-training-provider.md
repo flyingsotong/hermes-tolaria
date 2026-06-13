@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Becoming an SSG-registered training provider
 
 <https://www.tpgateway.gov.sg/plan-courses/organisation-registration-for-first-time-training-provider/apply-for-organisation-registration>
 ** Opportunity Summary: Building a Training Provider in Singapore**

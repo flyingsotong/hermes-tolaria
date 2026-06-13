@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# The Sky Is Rising 2024 Edition Rather Than Destroying Culture, The Internet Has Saved The Content Industries (Techdirt)
 
 - Description: Read the latest edition of The Sky Is Rising at The Copia Institute » Twelve years ago, we released our very first research report, the Sky is Rising. Back then, in 2012, the commonly accepted wisdom was that the internet was killing various creative industries, from the music industry (especially!) to movies, TV, and books…
 

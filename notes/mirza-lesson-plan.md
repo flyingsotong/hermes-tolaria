@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Mirza Lesson plan
 
 | Lesson | Cockpit Familiarisation | Area from aerodrome | Effects of controls | Straight and level | Climb and Descend | Medium and Turns/Steep Turns | Stalls | Entry/Spinning Stalls | Forced Size | Landing/Crosswind Landings | Emergency Procedures | Precautionary search and landing | Radio calls/Checklist |
 | ------------------------------ | ----------------------- | ------------------- | ------------------- | ------------------ | ----------------- | ---------------------------- | ------ | --------------------- | ----------- | -------------------------- | -------------------- | -------------------------------- | --------------------- |

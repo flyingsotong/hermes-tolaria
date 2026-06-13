@@ -4,6 +4,7 @@ belongs_to: Magenta Debrief
 related_to:
   - Dronefly.sg
 ---
+# OSF Workshop
 
 Need to grow our own channels to reduce reliance on publishers for distribution
 

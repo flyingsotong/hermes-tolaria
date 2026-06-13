@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# There’s an obsession in marketing to be different, it’s wrong.
 
 [Martin Soler](Martin%20Soler.md)
 <https://martinsoler.substack.com/p/tell-newsletter-75>

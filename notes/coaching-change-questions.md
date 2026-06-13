@@ -6,6 +6,7 @@ tags:
 client: Change Questions
 belongs_to: Splice Media
 ---
+# Coaching - Change Questions
 
 **Key coaching objectives**
 1. Separate their identity as a journalist from their career choices

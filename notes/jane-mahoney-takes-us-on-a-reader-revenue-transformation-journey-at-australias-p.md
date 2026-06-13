@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# Jane Mahoney takes us on a reader revenue transformation journey at Australia's Private Media
 
 **Jane Mahoney takes us on a reader revenue transformation journey at Australia's Private Media**
 

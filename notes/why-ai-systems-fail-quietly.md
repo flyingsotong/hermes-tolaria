@@ -1,6 +1,7 @@
 ---
 type: Note
 ---
+# Why AI Systems Fail Quietly
 
 ### They can go wrong without crashing—and standard monitoring won’t catch it
 Varun Raj is a cloud and AI engineering executive.

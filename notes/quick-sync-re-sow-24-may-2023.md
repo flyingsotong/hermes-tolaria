@@ -1,6 +1,7 @@
 ---
 type: Meeting-Note
 ---
+# Quick sync re SOW – 24 May 2023
 
 Attendees: Alan Soon, Rishad Patel, <faithchen@google.com>, <google.com_1882ogi61qtcmifklnni5pgcpv5706gpe9nmuravedjlusr9dpfmqoj369fjanplc8s30dhl@resource.calendar.google.com>
 

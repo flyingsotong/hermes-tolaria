@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Daniel Kahneman's “Thinking, Fast and Slow” Insights for pilots
 
 - **System 1: Fast, intuitive, and emotional.** This system operates automatically, relying on mental shortcuts (heuristics) and past experiences. It's excellent for rapid decisions and routine tasks.
 

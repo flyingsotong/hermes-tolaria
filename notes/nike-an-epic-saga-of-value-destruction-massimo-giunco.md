@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# Nike An Epic Saga of Value Destruction (Massimo Giunco)
 
 - Description: The article discusses Nike's recent financial struggles and strategic missteps under CEO John Donahue and President Heidi O'Neill. Key points include:
 

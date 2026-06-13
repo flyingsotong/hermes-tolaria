@@ -1,6 +1,7 @@
 ---
 type: Project-Note
 ---
+# With Puma
 
 Conduct a review of our listeners with Splice. Specifically, we want to know if our users' affinity is to the Puma brand, or the individual podcasts themselves.
 

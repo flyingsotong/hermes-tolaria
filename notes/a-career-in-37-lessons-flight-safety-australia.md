@@ -6,6 +6,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# A career in 37 lessons (Flight Safety Australia)
 
 [https://www.flightsafetyaustralia.com/2025/10/a-career-in-37-lessons/](https://www.flightsafetyaustralia.com/2025/10/a-career-in-37-lessons/?utm_source=Swift%20Digital\&utm_medium=Email\&utm_campaign=Flight%20Safety%20Australia)
 Thomas Turner

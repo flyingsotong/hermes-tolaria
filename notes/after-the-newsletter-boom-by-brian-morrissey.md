@@ -1,6 +1,7 @@
 ---
 type: Media-Analysis
 ---
+# After the newsletter boom - by Brian Morrissey
 
 Brian Morrissey
 

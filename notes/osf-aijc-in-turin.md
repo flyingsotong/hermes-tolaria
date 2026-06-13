@@ -4,6 +4,7 @@ belongs_to: Magenta Debrief
 related_to:
   - Dronefly.sg
 ---
+# OSF AIJC in Turin
 
 Day 1 4/15/2024
 

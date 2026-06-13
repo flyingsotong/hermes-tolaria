@@ -1,6 +1,7 @@
 ---
 type: Personal-Note
 ---
+# 90-90-1 rule (Robin Sharma)
 
 For the next 90 days, devote the first 90 minutes of your work day to**the one best opportunity in your life**. Nothing else. Zero distractions. Just get that project done. Period.
 

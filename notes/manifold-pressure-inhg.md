@@ -5,6 +5,7 @@ tags:
 related_to:
   - Magenta Debrief
 ---
+# Manifold Pressure (inHg)
 
 Manifold pressure in an aircraft is a measure of the absolute pressure in the intake manifold of a piston engine. It's typically measured in inches of mercury (inHg) and displayed on a gauge in the cockpit.
 
