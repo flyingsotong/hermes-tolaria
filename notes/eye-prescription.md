@@ -1,5 +1,5 @@
 ---
-type: Note
+type: Personal-Note
 ---
 # Eye Prescription
 

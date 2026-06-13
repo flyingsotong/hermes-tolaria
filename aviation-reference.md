@@ -7,6 +7,7 @@ _order: 50
 _pinned_properties:
   - category
   - source
+_sort: "created:desc"
 ---
 
 # Aviation-Reference

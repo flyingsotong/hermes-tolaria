@@ -7,6 +7,7 @@ _order: 60
 _pinned_properties:
   - date
   - participants
+_sort: "created:desc"
 ---
 
 # Meeting-Note

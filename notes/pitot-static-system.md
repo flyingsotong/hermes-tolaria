@@ -1,5 +1,5 @@
 ---
-type: Note
+type: Aviation-Reference
 ---
 # Pitot-Static System
 

@@ -1,5 +1,5 @@
 ---
-type: Note
+type: Quote
 ---
 # Success is one small thing done everyday
 

@@ -4,6 +4,7 @@ _icon: file-text
 _color: stone
 _sidebar_label: Uncategorized
 _order: 99
+_sort: "created:desc"
 ---
 
 # Note
