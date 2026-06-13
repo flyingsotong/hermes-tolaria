@@ -2,20 +2,16 @@
 type: Note
 date: 2023-06-02
 ---
-# Basma Elbaz
+# Coaching - Basma Elbaz
 
 - <basma.elbaz85@gmail.com>
-
 - Phone:
-
 - Location:
 
 **2 June 2023**
 
 - worried about not being able to deliver as a consultant (even though she's now considering a job with TikTok)
-
 - turns out she was trying to over-promise beyond what she can control
-
 - Insight: Understand outcome vs output -- sell what you can control, don't promise outcomes you can't deliver
 
 **Initial email**
