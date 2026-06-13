@@ -1,0 +1,15 @@
+---
+type: Meeting-Note
+---
+
+The key to happiness is to understand your own strengths and weaknesses, collectively known as your Tendency. Once you can recognize these aspects of yourself, you can start to adjust to and compensate for them. No one is perfect, and we can make life much easier on ourselves by avoiding pitfalls and playing to our strengths.
+
+- The Four Tendencies are all about how we respond to the two kinds of expectations we face every day: the outer expectations that come from work and society, and the inner expectations we set for ourselves.
+
+- The first of the Four Tendencies are Upholders. These are people who excel at meeting both inner and outer expectations. Upholders find great satisfaction in meeting expectations and following rules, which means that these people are the kind that find it gratifying and liberating to have a disciplined life. In fact, a good motto for Upholders is “discipline brings freedom.” All Upholders want to meet expectations, so you can help by, for example, avoiding making spontaneous changes or casually suggesting a plan that hasn’t been thought out. This is because Upholders are eager to please, so they might latch onto a bad idea and think they need to see it through to the bitter end.
+
+- The second is Questioners, who are people who meet inner expectations but question and struggle with outer expectations. Questioners do a fine job of setting and meeting their own expectations, but they resist the expectations of others and feel a strong desire to question everything. The nature of a Questioner can be a hindrance when it results in analysis paralysis. Questioners tend to feel insulted when someone questions their motives or reasoning. This is likely because they’re so thorough in their decision-making that they feel their choices should be seen as unquestionably logical.
+
+- The third is Obligers, people who deal well with outside expectations but struggle with their own. Obligers can create the kind of outside accountability they need to take action. Over two-thirds of Obligers report feelings of frustration over their inability to devote any time to themselves. Feelings of low self-esteem are also common, which can be made worse by ignorant Upholders who call Obligers lazy for not exercising. Many Obligers have had to deal with bosses and therapists who don’t listen to their requests for accountability and tell them to “grow up and learn how to be accountable for yourself.” If only it were that easy!
+
+- And the fourth is the Rebels, who push against both inner and outer expectations. You don’t want to give a Rebel any sort of direct order, but if you give them the necessary information, explain the potential consequences and offer them the freedom to make their own choice, you stand a good chance of getting your desired outcome. Rebels can have trouble taking care of themselves and meeting their inner expectations. While it might be for different reasons, such as not wanting to be a conformist, the result can be the same.

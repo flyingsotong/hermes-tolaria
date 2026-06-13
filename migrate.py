@@ -56,6 +56,10 @@ def classify_file(filename, tags, title):
     if "story scout" in lower or "story-scout" in lower:
         return "Story-Scout"
 
+    # Slugs newsletters (published issues, not scouts)
+    if lower.startswith("slugs ") and "scout" not in lower:
+        return "Media-Analysis"
+
     # Coaching
     if lower.startswith("coaching -"):
         if "email" in lower or "contract" in lower or "brief" in lower:
@@ -67,30 +71,84 @@ def classify_file(filename, tags, title):
         return "Grant-Radar"
 
     # Aviation / flight
-    if "flight" in tags or "flight-training" in tags or "flying" in tags:
+    if any(t in tags for t in ["flight", "flight-training", "flying", "aviation"]):
+        return "Aviation-Reference"
+    if any(kw in lower for kw in ["flight", "aviation", "pilot", "aircraft", "engine", "aeroviation",
+                                   "circuit", "engine", "radio call", "ctaf", "right of way",
+                                   "altimeter", "cloud cover", "vmc", "v-speed", "squawk",
+                                   "taf ", "metar", "check ", "checks ", "poh", "rpl ", "rpc ",
+                                   "raaus", "casa", "atc ", "ga aircraft", "msl", "agv"]):
         return "Aviation-Reference"
 
-    # Personal
-    if any(t in tags for t in ["personal"]) or "Love Letter" in title:
-        return "Personal-Note"
+    # RAAus / CASA exam notes
+    if any(kw in lower for kw in ["raaus", "casa", "rpl", "rpc", "uapl", "uabto"]):
+        return "Aviation-Reference"
 
-    # Meeting notes
-    if any(kw in lower for kw in ["call with", "meeting", "call —", "call -", "briefing", "conversation"]):
+    # Drone
+    if any(kw in lower for kw in ["drone", "dronefly", "uav", "uas", "caas"]):
+        return "Aviation-Reference"
+    
+    # Meeting / call notes — date patterns in filenames with names
+    if re.search(r'\d{4}.*call|call.*\d{4}|— \w+ \d|– \w+ \d', lower):
+        return "Meeting-Note"
+    if any(kw in lower for kw in ["call with", "meeting", "call —", "call -", "briefing",
+                                   "conversation", "catch-up", "catch up", "kickoff",
+                                   " — ", " – "]) and not any(kw in lower for kw in ["story", "scout"]):
+        # Likely a meeting or partnership note
         return "Meeting-Note"
 
-    # Media analysis (The Rebooting, industry analysis)
-    if any(kw in lower for kw in ["the rebooting", "the reboot", "brian morrissey", "press gazette"]):
-        return "Media-Analysis"
+    # Personal notes - date-only filenames, personal tags
+    if any(t in tags for t in ["personal"]):
+        return "Personal-Note"
+    if re.match(r'^\d{1,2}\s\w+\s\d{4}', lower) or re.match(r'^\w+,\s+\w+\s+\d{1,2}', lower):
+        return "Personal-Note"
 
-    # Splice / dronefly projects
+    # Splice / magazine projects
     if any(kw in lower for kw in ["splice", "dronefly"]):
         return "Project-Note"
+    
+    # Media analysis — Brian Morrissey, The Rebooting, industry publications
+    if any(kw in lower for kw in ["the rebooting", "brian morrissey", "press gazette",
+                                   "media operator", "nieman", "axios", "politico",
+                                   "ben thompson", "stratechery", "platformer"]):
+        return "Media-Analysis"
+    
+    # CUNY lectures
+    if "cuny" in lower:
+        return "Media-Analysis"
 
-    # Startup/business
-    if any(t in tags for t in ["startup", "business", "career"]):
+    # Book summary / podcast notes with "(Author)" or "by Author" pattern
+    if re.search(r'\([A-Z][a-z]+ [A-Z][a-z]+\)', title) or re.search(r'\([A-Z][a-z]+\)', title):
+        return "Personal-Note"
+
+    # Coaching-related content (not client sessions — frameworks, reflections)
+    if any(t in tags for t in ["coaching"]):
+        return "Coaching-Session"
+    if any(kw in lower for kw in ["coach", "mentor", "icf "]):
+        return "Coaching-Session"
+
+    # Grants
+    if any(t in tags for t in ["grants"]):
+        return "Grant-Radar"
+    if "grant" in lower:
+        return "Grant-Radar"
+
+    # Startup / business frameworks (no tags)
+    if any(kw in lower for kw in ["startup", "founder", "venture", "pitch",
+                                   "fundraising", "revenue ", "sales", "marketing",
+                                   "business ", "bootstrapping", "mvp"]):
         return "Project-Note"
 
-    # Default
+    # Personal reflections
+    if any(kw in lower for kw in ["reflection", "journal", "diary", "birthday",
+                                   "what i", "letter to"]):
+        return "Personal-Note"
+
+    # CUNY lectures, school sessions
+    if any(kw in lower for kw in ["school of splice", "beta ", "sos "]):
+        return "Project-Note"
+
+    # Default: try body-based classification for generic notes
     return None
 
 
