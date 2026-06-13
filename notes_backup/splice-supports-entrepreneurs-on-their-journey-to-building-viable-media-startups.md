@@ -1,4 +1,0 @@
----
-type: Project-Note
----
-

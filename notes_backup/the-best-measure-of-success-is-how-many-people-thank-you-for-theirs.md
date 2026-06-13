@@ -1,6 +1,0 @@
----
-type: Note
-tags:
-  - quotes
----
-

@@ -1,6 +1,0 @@
----
-type: Quote
-attribution: E. B. White
----
-
-"I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day." — E. B. White

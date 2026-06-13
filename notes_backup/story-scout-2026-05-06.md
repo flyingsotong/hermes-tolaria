@@ -1,5 +1,0 @@
----
-type: Story-Scout
----
-
-"

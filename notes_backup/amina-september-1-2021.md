@@ -1,9 +1,0 @@
----
-type: Meeting-Note
----
-
-grants end this month sept 30 2021
-
-55K project based support -- covers beta cancellation
-
-low res 10 K 25K move on from wordpress
