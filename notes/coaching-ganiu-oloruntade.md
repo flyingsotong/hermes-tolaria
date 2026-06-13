@@ -9,11 +9,10 @@ belongs_to: Splice Media
 ---
 # Coaching - Ganiu Oloruntade
 
----
-
 **January 24, 2025**
 
 **Key takeaways from the conversation**
+
 - The journalist recognized he had already made the decision to leave journalism but was hesitating due to financial security concerns
 - Through discussion, he acknowledged the declining state of journalism and limited career prospects in the field
 - He discovered his passion for strategy consulting work he does for friends' businesses
@@ -25,23 +24,27 @@ The conversation successfully helped him reach several important realizations. T
 **Areas for improvement**
 
 When the journalist mentioned doing strategy work for friends' businesses, this was a crucial moment that warranted deeper exploration:
+
 - What specific strategic problems does he help solve?
 - What approaches or frameworks does he use?
 - How does he measure the impact of his recommendations?
 - What types of businesses seem to benefit most from his help?
 
 Given his front-row seat at a tech publication, his unique positioning could have been explored more:
+
 - How does his understanding of the startup ecosystem give him competitive advantage?
 - What patterns has he observed about which startups succeed?
 - What connections has he built that could help his transition?
 
 Practical transition planning could have been stronger:
+
 - What financial runway does he need before making changes?
 - How might he test his business concept while keeping his current job?
 - What specific skills gaps does he need to fill?
 - Who could mentor him through this transition?
 
 **Questions that weren't asked**
+
 - What specific companies or startups interest him?
 - What's his ideal income target?
 - Who in his network could help with the transition?
