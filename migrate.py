@@ -294,7 +294,11 @@ def transform_file(src_path, dest_dir):
     
     clean_body = "\n".join(cleaned_lines).strip()
 
-    # Write out
+    # Write out: prepend the H1 back to the body
+    full_body = "# " + title + "
+
+" + clean_body if title else clean_body
+
     yaml_lines = ["---"]
     for key, val in frontmatter.items():
         if isinstance(val, str):
@@ -305,7 +309,7 @@ def transform_file(src_path, dest_dir):
                 yaml_lines.append(f"  - {item}")
     yaml_lines.append("---")
 
-    output = "\n".join(yaml_lines) + "\n\n" + clean_body
+    output = "\n".join(yaml_lines) + "\n\n" + full_body
 
     dest_path = dest_dir / dest_filename
     # Avoid overwriting: append -2, -3 etc.
