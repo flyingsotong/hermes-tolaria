@@ -7,8 +7,7 @@ source_url: https://cacm.acm.org/news/can-ai-replace-copilots-on-passenger-jets/
 author: Alan Soon
 date: 2026-06-13
 ---
-
-# The Co-Pilot Isn't There to Fly the Plane
+# Slugs: The Co-Pilot Isn't There to Fly the Plane
 
 Researchers in the US and Europe have spent 20 years investigating how to replace one of the two pilots in a commercial cockpit with an AI system. The finding coming back from human factors experts is not that AI can't fly — it's that flying is not what a co-pilot is primarily for.
 
