@@ -1,0 +1,37 @@
+---
+type: Note
+---
+
+- Description: The media business's painful transition by Brian Morrissey
+
+- Highlights
+
+ - The day after
+
+In the chaos and disorder that engulfed Iraq following the U.S.-led invasion in 2003, then-Defense Secretary Donald Rumsfeld airly said, “Freedom is untidy.” So too is the current transition of the media business, as bad news cascades. In just the past week, the following has happened:
+
+Sports Illustrated had a near-death encounter with its future up in the air after Arena Group missed a $15 million licensing payment to Authentic Brands Group. The Los Angeles Times, owned by billionaire biotech entrepreneur Patrick Soon-Shiong, lost its top three editors, had a staff walkout and braced for deep cuts to stanch losses of up to $40 million last year alone. Condé Nast, in the midst of its own layoffs and staff unrest, for all intents and purposes folded Pitchfork into GQ. (A regular ignominy of digital media is that brands aren’t allowed a dignified death, as evidenced by the regular exhuming of Gawker’s corpse.) The Baltimore Sun was sold by handy PE villain Alden Capital to Sinclair boss David Smith, igniting fears of editorial independence. The bad news is unlikely to end anytime soon. While the vibecession appears to be ending, the terrible last couple years in the media business largely hasn’t been driven by cyclical factors. The structural challenges remain – a brutally competitive digital ad market, not enough subscriptions to go around, cost bases out of whack for a post-ZIRP era – and will be joined by increased competition from retail media, decreased ad rates from the phaseout of the third-party cookie, search traffic continuing to whither and likely four or five other once-in-a-generation shifts. You could argue what’s happening now is just the final phase of a decline set in motion with the advent of the commercial internet. Maybe it was just a matter of when, not if.
+
+What will emerge the day after will be a different industry, leaner and diminished, often serving as a front operation to other businesses. More legacy brands will be sent off to the SEO glue factory. The middle of the market will be eviscerated. The brands that remain will be more tightly focused, in good and bad ways, and often operate thanks to subsidies from related business lines.
+
+Derek Thompson has a nice frame for this moment in the media business. It’s a good time to be either a city state (think newsletters and podcasts) or an empire (The New York Times). The reality is there will be far more of the former than the latter. Legacy brands like CNN and ESPN are at risk of getting caught in the middle.
+
+The New York Times has made the shift from being 70%+ advertising to the inverse in favor of subscriptions. It became a lifestyle brand as much as a news company. The bundle was critical to news, particularly newspapers. You’d get the news but also autos, comics, horoscopes, food and classifieds.
+
+This is a difficult example because it is not a playbook that can easily be replicated. In some ways, the news business has exhibited some of the power laws seen in tech and other markets. Back in 2020, Tony Haile pointed out that the Times was competing for news subscribers far away from New York City, in places like Houston. After all, most people will only have a single news subscription, and national politics has become an obsession for many since the escalator ride.
+
+Media remains a great way to get attention and influence, only rarely works nearly as well as a standalone business. B2B is instructive in this regard. Much of the industry’s revenue comes not from advertising or even subscriptions to access content. Instead content often acts as the glue for events and data businesses. Industry Dive has served as a handy foil to the travails of BuzzFeed, bought for $525 million by Informa in 2022. Now, it’s bundled off as part of a new TechTarget, a collection of B2B assets that leans heavily on data and related services. In B2B, news is often necessary but insufficient.  Without a way to turn that into commercial action – downloading a white paper, attending an online forum or private dinner – the audience attention is not worth much.
+
+That’s why new entrants like Semafor, Puck and Punchbowl have B2B-influenced models. The formulas aren’t the same, but there are aspects of B2B – a heavy events focus, pricey data subscriptions, an odd webinar – that relegates advertising to preferred categories like corporate social responsibility and steers clear of the overall digital ad market that’s proven impossible for publishers to credibly compete with tech platforms.
+
+Most news companies can’t be picky about ports in a storm, but the billionaire with a savior complex has reached its expiration date. This pretty much never works. I used to think it’s because billionaires had other agendas, which is of course often the case. Now I think it’s just as much because these very accomplished and powerful people are unable themselves to gin up sustainable business models. Just look at the track record of Jeff Bezos at The Washington Post, which is on track to lose $100 million, or Soon-Shiong's at the LA Times.
+
+The rank-and-file in newsrooms often feels let down by management. And there have been many poor decisions that not just been made but repeated. Old generals aren’t alone in wanting to fight the previous war.
+
+The peculiarity of this particular moment is there is a bifurcation happening with excess rewards – relatively speaking, this is the media business, thank you – going to a subset of those who take the independent path and make it work. There are easier ways to make money in this world, but while I have doubts of a broad middle class emerging on platforms like Substack and Beehiiv, there are thousands of small businesses being created in newsletters and podcasts. These are a far cry from the billions promised by the previous generation. But the idea of talented writers and creators relying on the people who led the industry into this mess being the ones to get it out is a bridge too far. Better to bet on yourself, even if it means all the hassles and headaches of being a small business owner. Of course that’s assuming talented young people will still go into the industry and be trained.
+
+Community models will become more critical. This is often presented as an unalloyed good, but there is a fine line between community and tribe. The power of partisanship will invariably wane – these periods tend not to last – but right now the incentives are to find a choir to preach to. Barstool decamping to Rumble is a sign of things to come. I’m fascinated by DailyWire, for instance, and if it can ride its culture war hobby horses to a full-fledged media company with entertainment assets like the movie “Sound of Freedom.”
+
+Beyond politics, the leaders in niche categories will thrive. That’s due in large part to having no option other than be audience focused. Too often in the past generation of digital media the clear incentives were to skip loyalty altogether in favor of fleeting impressions. It was a game of how much mayo could you put on the sandwich before people complained.
+
+Like Kyle Chayka, I’m optimistic that what will emerge will be in many ways more human and even weird, as the viral sameness wrought by algorithms reaches its logical conclusion with AI’s tsunami of crap. Maybe it goes by the Slow Media Movement or some other catchall to encompass an approach that’s unique, straightforward and flawed.

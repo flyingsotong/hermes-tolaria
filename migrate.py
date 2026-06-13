@@ -148,8 +148,8 @@ def classify_file(filename, tags, title):
     if any(kw in lower for kw in ["school of splice", "beta ", "sos "]):
         return "Project-Note"
 
-    # Default: try body-based classification for generic notes
-    return None
+    # Catch-all: anything still unmatched gets Note type
+    return "Note"
 
 
 def extract_quote_attribution(body, title):

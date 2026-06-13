@@ -1,0 +1,25 @@
+---
+type: Note
+---
+
+**Scorpio Moon lives for emotional intensity.**They have the ability to see through anyone right to their innermost feelings. This can be disturbing to some people and intriguing for others. They have a need for change and rebirth. Their life may be full of drama and upheaval which they feel is out of their control. But if their life begins to feel “normal” they are the first one to create some test for someone in their life just to create excitement. Emotional drama fulfills them.
+
+**Scorpio Moon wants it all.** They don’t do anything halfway or waste their time with meaningless relationships. They want commitment. They may also expect their partner to give up something for them, although they have a deep fear of betrayal. They may test their partners, even if they don’t mean to. They come off as being suspicious, although once they have committed themselves to a partner; they are extremely loyal and protective.
+
+**Scorpio Moon has a great presence, even when they are shy.**They need to spend a lot of time learning to control their emotions. They are very intuitive, but they may be inclined to use it for their own gains. They are passionate and fearless. Those with a Moon in Scorpio in their charts are excellent astrologers, or they may just have a strong interest in the occult and the unusual. They make good psychologists because they are good at understanding the intricacies of the mind.
+
+**Moon Sign Scorpio can be intimidating and are difficult to scare or shock.**They have the ability to size up a person or a situation in a matter of seconds. Their powers can be used for good or evil, as the saying goes. and many times it depends on how they were raised as children. Those who were manipulated or deprived will not open up to others, while those raised in a nurturing environment will most likely be mild-tempered and easy to get along with. They can be jealous, possessive and self-indulgent. They can also be rather destructive, both to themselves and others. On the good side, they can be vulnerable, intelligent and ambitious.
+
+**Scorpio Moon is tenacious, and once they want something, they are like the dog that won’t let go.** Their stubbornness can stand in their own way at times, or it can help them overcome bad habits. They tend to be emotional, materialistic, sensual and secretive. They are also very creative. Their fighting spirit is strong and it is difficult for them to admit defeat. They can be fiercely competitive, especially with those of their own sex. With the opposite sex, they can often be wrapped around the other person’s little finger, wanting to indulge that person’s every whim. They could use a little balance in their life in this area.
+
+Charismatic, Scorpio Moon attracts many, and must exercise caution so they are not tempted into multiple relationships. They don’t like to be criticized. They are seldom mainstream in their ideals and don’t always conform to all of society’s rules.
+
+**You can do well in any field that involves understanding others.** How easily you do this will have much to do with what you are prepared to face in yourself. By exploring your own dark cupboards you learn to sense what others keep in theirs. This placement calls for great emotional honesty; an all-or-nothing preparedness to live from a position of power and truth.
+
+**Your greatest gift is to bring light into your own and others lives by seeing things as they really are.**You can transform what needs redeeming through accepting others as they are. If you fail to live from a place of honesty, you could display the more negative and poisonous potential of the Moon here.
+
+**Overwhelmed by your own vulnerability, you could seek to destroy others.**You may (unconsciously or not) try to take others down, rather than face the darkness within yourself. If this happens, you need to transform first the pain in your own life before involving yourself with others and having an influence on what they do with theirs.
+
+**At its highest level, the Moon in Scorpio gives you the ability to transform your own and others lives.**You can act as an agent for change to become a catalyst for greater growth and awareness. You can help others shift their psychological values. The potential power contained here is enormous. You have the opportunity to be a force for change.
+
+**Valuing your own and others privacy, you can be trusted to keep a confidence, and have a rare kind of understanding that is born from simply accepting things for what they are.**You can be the one others turn to with their deepest secrets and most hidden pain. You may operate as a vault for other people, helping them share parts of their story that are too painful or difficult to deal with on their own. With your awareness of the depths of human nature and empathy for others, you can bear witness, offer counsel and help others heal.
