@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 **1. What is the definition of 'in the vicinity' of a non-controlled aerodrome?**

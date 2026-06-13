@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 - **Brakes:** Checked and off/set for landing

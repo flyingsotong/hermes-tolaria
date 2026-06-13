@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 *Issue 5.0 · 18 March 2022 · Result: 88%*

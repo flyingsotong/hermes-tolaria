@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+status: archived
 ---
 
 Attendees: <carl@pumapodcast.com>, <hwa@mediasupport.org>, <lb@mediasupport.org>, Alan Soon, [Rishad Patel.md](IMS,%20Puma,%20Splice%20%E2%80%93%20June%2010,%202021/Rishad%20Patel.md)

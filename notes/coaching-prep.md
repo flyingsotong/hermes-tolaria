@@ -4,6 +4,7 @@ tags:
   - coaching/me
   - coaching
 client: Prep
+belongs_to: Splice Media
 ---
 
 **Objective: What is the one insight that your client needs today?**

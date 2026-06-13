@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 Best Rate-of-Climb speed at sea level Vy: 75 kt

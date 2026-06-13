@@ -5,6 +5,7 @@ tags:
   - coaching
 date: 2023-08-25
 client: Priti Patnaik
+belongs_to: Splice Media
 ---
 
 Email: pritipatnaik.consultancy@gmail.com

@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 **The "S" in MSL is "Sea."**

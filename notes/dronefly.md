@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 Based on an analysis of your search data and page performance, here are several business opportunities for **dronefly.sg** that you may be currently missing or under-utilizing:

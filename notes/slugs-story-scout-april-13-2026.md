@@ -1,6 +1,8 @@
 ---
 type: Story-Scout
 scout_date: 2026-04-13
+related_to:
+  - Slugs
 ---
 
 Five candidates ranked #1 to #5. Cross-industry signals first; one Tier 2 media story at the end.

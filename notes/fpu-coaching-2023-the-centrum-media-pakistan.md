@@ -2,6 +2,7 @@
 type: Coaching-Session
 date: 2023-09-27
 client: FPU coaching 2023 The Centrum Media, Pakistan
+belongs_to: Splice Media
 ---
 
 **September 27, 2023** Talha, Aisha Farrukh, Wahid

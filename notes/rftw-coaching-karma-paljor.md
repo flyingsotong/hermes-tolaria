@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: RFTW coaching Karma Paljor
+belongs_to: Splice Media
 ---
 
 **Aug 20, 2025**

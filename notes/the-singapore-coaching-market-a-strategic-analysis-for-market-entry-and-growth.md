@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: The Singapore Coaching Market A Strategic Analysis for Market Entry and Growth
+belongs_to: Splice Media
 ---
 
 **Section 1: The Singapore Coaching Market Landscape**

@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+status: archived
 ---
 
 Pankaj/FactorDaily, Alan/Splice – June 17, 2021

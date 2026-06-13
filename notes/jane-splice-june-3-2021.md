@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+status: archived
 ---
 
 Attendees: <jmmcelhone@gmail.com>, Alan Soon, Rishad Patel, <yan@thibi.co>

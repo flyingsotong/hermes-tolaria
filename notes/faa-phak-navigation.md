@@ -1,5 +1,7 @@
 ---
-type: Note
+type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 One knot = 1 nautical mile per hour = 1.85 kmh

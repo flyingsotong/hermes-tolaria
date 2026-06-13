@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+status: archived
 ---
 
 Attendees: Alan Soon, [Rishad Patel.md](Firetree%20+%20Splice%20%E2%80%93%20June%2016,%202021/Rishad%20Patel.md)

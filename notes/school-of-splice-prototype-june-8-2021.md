@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+status: archived
 ---
 
 Attendees: <kris@lawson.media>, Alan Soon, [Rishad Patel.md](School%20of%20Splice%20prototype%20%E2%80%93%20June%208,%202021/Rishad%20Patel.md)

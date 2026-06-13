@@ -1,5 +1,6 @@
 ---
-type: Note
+type: Coaching-Session
+belongs_to: Splice Media
 ---
 
 - Author: International Coaching Federation (ICF)

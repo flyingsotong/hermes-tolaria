@@ -2,6 +2,7 @@
 type: Coaching-Session
 date: 2025-05-28
 client: Coaching Louis Bonneau
+belongs_to: Splice Media
 ---
 
 **May 28 2025**

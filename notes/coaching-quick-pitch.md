@@ -4,6 +4,7 @@ tags:
   - coaching/me
   - coaching
 client: Quick pitch
+belongs_to: Splice Media
 ---
 
 I coach journalists and media entrepreneurs across their careers. My goal is to help provide insight and awareness around change — either building a media startup, or transitioning to a different role in the industry.

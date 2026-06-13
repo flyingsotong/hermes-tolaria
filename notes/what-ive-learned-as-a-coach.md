@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: What I've learned as a coach
+belongs_to: Splice Media
 ---
 
 1.**There is always more going on than the client suggests.** The stuff that people struggle with is almost never what they say it is -- sometimes they're looking at the wrong thing, and other times they're trying to bury it. Don't expect your coachee to know what they're looking for at the start of the session. Look past their story.

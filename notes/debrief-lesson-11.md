@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 1.**Drifting into the left on downwind — not identifying and correcting:**

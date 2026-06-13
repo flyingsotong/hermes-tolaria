@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 What is the worst imaginable consequence of making a mistake? For some, it might be this:

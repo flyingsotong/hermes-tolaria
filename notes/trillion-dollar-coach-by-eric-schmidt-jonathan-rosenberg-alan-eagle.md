@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: Trillion Dollar Coach by Eric Schmidt, Jonathan Rosenberg, Alan Eagle
+belongs_to: Splice Media
 ---
 
 <https://www.kobo.com/ebook/trillion-dollar-coach>

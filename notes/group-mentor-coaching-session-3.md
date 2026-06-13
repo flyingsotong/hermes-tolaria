@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: Group Mentor Coaching Session 3
+belongs_to: Splice Media
 ---
 
 Based on the transcript, the key feedback and suggestions I can provide are:

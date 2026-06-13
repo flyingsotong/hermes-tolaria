@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - dronefly/monitor
+related_to:
+  - Magenta Debrief
 ---
 
 ---

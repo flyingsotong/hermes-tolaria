@@ -4,6 +4,7 @@ tags:
   - coaching/me
   - coaching
 client: My most powerful coaching questions
+belongs_to: Splice Media
 ---
 
 The question that created the most awareness for Alan's clients was one that challenged their core assumptions about their identity and the nature of their work.

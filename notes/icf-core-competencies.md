@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: ICF Core Competencies
+belongs_to: Splice Media
 ---
 
 Released October 2019 rev. 07.30.

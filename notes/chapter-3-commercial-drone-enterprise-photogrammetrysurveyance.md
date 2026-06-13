@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 **Chapter 3: Commercial Drone Enterprise (Photogrammetry/Surveyance)**

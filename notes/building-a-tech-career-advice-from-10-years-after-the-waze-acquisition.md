@@ -1,5 +1,5 @@
 ---
-type: Note
+type: Project-Note
 ---
 
 <https://twitter.com/julie_mo/status/1669050123211399177>

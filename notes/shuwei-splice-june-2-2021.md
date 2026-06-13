@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+status: archived
 ---
 
 Attendees: Alan Soon, Rishad Patel, <shuwei.fang@opensocietyfoundations.org>

@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 -**Ailerons cause Yaw (Adverse Yaw)** - Opposite the direction of roll.

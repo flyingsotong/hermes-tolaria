@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 * **Aldinga Traffic**, Piper Sport 8108, turning Base Runway 21 for (Touch and Go or Full Stop), **Aldinga**

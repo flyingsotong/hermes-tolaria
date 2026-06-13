@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 As a recreational pilot with a drone that's less than 250 grams, you are in the simplest category for drone flying in Singapore. You are exempt from the most burdensome requirements, but you must still operate responsibly and are subject to all general aviation safety rules. Here is a clear breakdown of what you can and cannot do.

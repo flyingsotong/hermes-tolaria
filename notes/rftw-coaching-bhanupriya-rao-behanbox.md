@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: RFTW coaching Bhanupriya Rao (BehanBox)
+belongs_to: Splice Media
 ---
 
 _Our sessions have charted Bhanu's strategic pivot from running a journalism platform to leading a "business of change," first by unearthing her "Change Labs" concept as the core business plan. This led to a focus on hiring a senior leader to execute this new vision and, most recently, to developing a "Value Assessment" survey to understand what her audience truly values, which will define her future products and team structure._

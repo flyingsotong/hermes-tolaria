@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: Highlights of ICF Credentialing Requirements
+belongs_to: Splice Media
 ---
 
 A minimum of three of the 10 mentoring hours must be one-on-one with the mentor coach. Group mentoring may count for a maximum of seven hours towards the mentoring requirement. Only groups of 10 or fewer will count.

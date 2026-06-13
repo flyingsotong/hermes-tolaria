@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 1\. To maintain VFR when flying in Class G airspace below 10,000ft, the minimum visibility is:

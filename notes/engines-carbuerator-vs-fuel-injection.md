@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 Both systems have their place in aviation, with the choice often depending on the aircraft's intended use, cost considerations, and pilot preference.

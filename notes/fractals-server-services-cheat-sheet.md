@@ -1,5 +1,5 @@
 ---
-type: Note
+type: Project-Note
 ---
 
 Last Updated: October 10, 2025

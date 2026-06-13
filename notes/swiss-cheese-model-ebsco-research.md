@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 The Swiss cheese model is a visual framework used to analyze accidents and adverse events in complex systems, such as healthcare and aviation. Developed by James Reason in 1990, it illustrates how accidents occur when multiple layers of defense, represented as slices of Swiss cheese, align through holes. These holes symbolize various failures or unsafe conditions, which can randomly open and close. The model distinguishes between "unsafe acts"—direct actions that lead to accidents—and latent organizational conditions that may go unnoticed but contribute to these unsafe acts.

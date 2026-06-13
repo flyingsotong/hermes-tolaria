@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 The oil system provides lubrication for many components inside a piston engine, but you might be surprised what else it can do.....

@@ -3,6 +3,8 @@ type: Story-Scout
 tags:
   - story-scout
 scout_date: 2026-04-22
+related_to:
+  - Slugs
 ---
 
 ---

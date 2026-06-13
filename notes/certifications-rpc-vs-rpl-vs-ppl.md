@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 |**Feature** |**RPC (Recreational Pilot Certificate)** |**RPL (Recreational Pilot Licence)** |**PPL (Private Pilot Licence)** |

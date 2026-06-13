@@ -1,5 +1,7 @@
 ---
-type: Note
+type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 | Feature | Airspeed | Groundspeed |

@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 <https://www.linkedin.com/feed/update/urn:li:activity:7327496033159000064/>

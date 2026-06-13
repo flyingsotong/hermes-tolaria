@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 <https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook>

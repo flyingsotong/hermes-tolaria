@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 Tips for Smoother Flying: Advice from Experienced Pilots (r/flying)

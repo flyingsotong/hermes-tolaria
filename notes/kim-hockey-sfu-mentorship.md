@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: Kim Hockey SFU mentorship
+belongs_to: Splice Media
 ---
 
 Tue, 07 Jan 25 · Kim Hockey

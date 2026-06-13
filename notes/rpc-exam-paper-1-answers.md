@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 Okay, here are the answers to your RPC Exam questions, along with explanations based on standard Australian aviation regulations and practices (primarily CASA regulations and AIP, which RAAus operations generally align with).

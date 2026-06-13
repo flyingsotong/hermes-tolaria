@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 Flying in GPS mode is often compared to "pointing a camera in the sky." The pilot tells the drone where to go, and the flight controller handles how to get there, correcting for wind and drift.

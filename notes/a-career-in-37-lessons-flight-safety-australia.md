@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 [https://www.flightsafetyaustralia.com/2025/10/a-career-in-37-lessons/](https://www.flightsafetyaustralia.com/2025/10/a-career-in-37-lessons/?utm_source=Swift%20Digital\&utm_medium=Email\&utm_campaign=Flight%20Safety%20Australia)

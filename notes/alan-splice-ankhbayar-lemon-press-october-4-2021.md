@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+status: archived
 ---
 
 Attendees: <ankhbayar@lemonpress.mn>, Alan Soon

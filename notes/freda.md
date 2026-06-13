@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 * **Fuel:** Sufficient quantity, pump status, and proper tank selection.

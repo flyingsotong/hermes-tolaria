@@ -5,6 +5,7 @@ tags:
   - coaching
 date: 2023-08-22
 client: Priyanka Borpujari
+belongs_to: Splice Media
 ---
 
 - Email: priyanka.borpujari@gmail.com

@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 <https://www.commercialuavnews.com/drone-industry-commercial-sputnik-china>

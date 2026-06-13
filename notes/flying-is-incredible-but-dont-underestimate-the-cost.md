@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 Flight training can easily run into the tens of thousands of dollars. If you're treating it as a hobby, understand that it's a luxury-level expense. Be smart with your money. Unless you're fully committed to going the commercial route, avoid student loans—you'll be paying off interest long after the thrill wears off.

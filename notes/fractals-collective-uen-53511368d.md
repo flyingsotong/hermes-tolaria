@@ -1,5 +1,5 @@
 ---
-type: Note
+type: Project-Note
 ---
 
 Entity name: FRACTALS COLLECTIVE

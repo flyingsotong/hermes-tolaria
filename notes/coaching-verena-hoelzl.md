@@ -5,6 +5,7 @@ tags:
   - coaching
 date: 2023-11-27
 client: Verena Hoelzl
+belongs_to: Splice Media
 ---
 
 Email: verena-hoelzl@gmx.de

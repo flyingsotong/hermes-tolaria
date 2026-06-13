@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 - **System 1: Fast, intuitive, and emotional.** This system operates automatically, relying on mental shortcuts (heuristics) and past experiences. It's excellent for rapid decisions and routine tasks.

@@ -2,6 +2,7 @@
 type: Coaching-Session
 date: 2023-04-14
 client: SMU Coaching Module 3
+belongs_to: Splice Media
 ---
 
 12 April 2023

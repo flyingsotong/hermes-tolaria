@@ -1,5 +1,8 @@
 ---
-type: Note
+type: Grant-Radar
+belongs_to: Magenta Debrief
+related_to:
+  - Dronefly.sg
 ---
 
 Need to grow our own channels to reduce reliance on publishers for distribution

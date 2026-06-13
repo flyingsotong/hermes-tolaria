@@ -1,5 +1,8 @@
 ---
 type: Grant-Radar
+belongs_to: Magenta Debrief
+related_to:
+  - Dronefly.sg
 ---
 
 **My thoughts**

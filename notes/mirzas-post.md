@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 Watching him earn his wings has been one of the most rewarding parts of instructing. It wasn’t always smooth. Procedures, sequences, and the pressure to get everything right in the cockpit definitely challenged him. But what stood out each and every time was his mindset. He kept showing up, lesson after lesson, always better than before. He never gave up.

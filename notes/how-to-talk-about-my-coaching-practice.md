@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: How to talk about my coaching practice
+belongs_to: Splice Media
 ---
 
 **Prepping for a session with me**

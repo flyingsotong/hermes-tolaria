@@ -5,6 +5,7 @@ tags:
   - coaching
 date: 2024-08-30
 client: Yusha Rahman – Media Startup Session
+belongs_to: Splice Media
 ---
 
 **August 30, 2024**

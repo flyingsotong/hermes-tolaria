@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 Effective 1 December 2025, unmanned aircraft (UA) with a total weight of more than 250g are

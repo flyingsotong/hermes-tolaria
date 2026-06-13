@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 Based on the CAAS document, here is a detailed outline to help you design the two-hour online course for your UA Basic Training Organisation (UABTO).

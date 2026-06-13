@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 These five switches control the exterior lights on a Cessna, each with a specific role for visibility and safety.

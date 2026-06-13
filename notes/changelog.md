@@ -1,5 +1,5 @@
 ---
-type: Note
+type: Personal-Note
 ---
 
 **Your next step: clarity, confidence, and real change**

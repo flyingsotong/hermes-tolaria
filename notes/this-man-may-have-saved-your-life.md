@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 **Flight Safety Australia pays tribute to a thinker whose work transformed aviation, medicine and many other fields.**

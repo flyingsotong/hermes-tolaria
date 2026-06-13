@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: 3 Approaches to Being an Ethical Coach
+belongs_to: Splice Media
 ---
 
 _The article discusses three ways coaches view ethics: as a restriction, an obligation, or a value. The restriction view sees ethics as limiting, with a focus on what's not allowed. The obligation perspective treats ethics as a moral duty that can feel burdensome. The value approach integrates ethics into one's personal and professional life, making ethical decisions align with internal beliefs. The author emphasizes that no approach is right or wrong, but being aware and making a conscious choice is important for a coach's ethical sensitivity and maturity._

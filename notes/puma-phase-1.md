@@ -1,5 +1,5 @@
 ---
-type: Note
+type: Project-Note
 ---
 
 _Alan and Rishad, could you please share a proposed budget with me covering the deliverables below of what I would term **Phase one **of the roadmap steps to greater audience engagement for Puma? Thanks. _

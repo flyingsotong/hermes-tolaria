@@ -3,6 +3,7 @@ type: Coaching-Session
 tags:
   - coaching/me
 client: What makes me unique as a coach
+belongs_to: Splice Media
 ---
 
 Based on an analysis of your extensive coaching notes and self-reflections, your uniqueness as a coach stems from a specific intersection of**deep media industry expertise**,**psychological excavation**, and a**"compassionate challenge"** style.

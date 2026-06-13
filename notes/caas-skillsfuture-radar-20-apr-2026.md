@@ -2,6 +2,10 @@
 type: Grant-Radar
 tags:
   - grants
+belongs_to: Magenta Debrief
+related_to:
+  - Dronefly.sg
+status: archived
 ---
 
 ---

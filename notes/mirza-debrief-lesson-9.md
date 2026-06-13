@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 [Radio calls Basic.md](Mirza%20Debrief%20Lesson%209/Radio%20calls%20Basic.md)

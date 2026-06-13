@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 [Maneuvers Climbs & Descends.md](Circuits/Maneuvers%20Climbs%20&%20Descends.md)

@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: The 18 Key Components of Fearless Coaching
+belongs_to: Splice Media
 ---
 
 The 18 Key Components of Fearless

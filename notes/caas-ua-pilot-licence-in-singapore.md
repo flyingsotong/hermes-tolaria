@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 Users who operate their UA under the following conditions are required to obtain a UA Pilot Licence (UAPL):

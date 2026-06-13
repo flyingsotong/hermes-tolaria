@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 Here are the right-of-way rules specifically under Australian air law, primarily governed by the Civil Aviation Safety Authority (CASA) through the Civil Aviation Safety Regulations (CASR) 1998, particularly Part 91 (General operating and flight rules), and supplemented by guidance in the Aeronautical Information Publication (AIP) Australia.

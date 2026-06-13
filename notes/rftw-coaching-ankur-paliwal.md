@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: RFTW coaching Ankur Paliwal
+belongs_to: Splice Media
 ---
 
 <ankur.paliwal@queerbeat.org>

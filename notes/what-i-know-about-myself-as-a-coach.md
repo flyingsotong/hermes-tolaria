@@ -4,6 +4,7 @@ tags:
   - coaching/me
   - coaching
 client: What I know about myself as a coach
+belongs_to: Splice Media
 ---
 
 **What I do well**

@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 <https://raaus.com.au/national-safety-month-2025/week-2/#radio-procedures-non-controlled-airspace>

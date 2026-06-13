@@ -3,6 +3,9 @@ type: Grant-Radar
 tags:
   - grants/singapore
   - aviation
+belongs_to: Magenta Debrief
+related_to:
+  - Dronefly.sg
 ---
 
 ---

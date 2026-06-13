@@ -4,6 +4,8 @@ tags:
   - flight-training
   - flying
   - me
+related_to:
+  - Magenta Debrief
 ---
 
 **December 21, 2024**

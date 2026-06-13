@@ -1,5 +1,5 @@
 ---
-type: Note
+type: Project-Note
 ---
 
 **10 Jan 2025 at 4:19 PM**

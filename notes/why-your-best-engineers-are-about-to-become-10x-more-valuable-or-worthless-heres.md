@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 <https://www.youtube.com/watch?v=RtMLnCMv3do>

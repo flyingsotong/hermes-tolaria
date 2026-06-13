@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: FPU coaching 2023 Sundus Rasheed, Urban Lounge
+belongs_to: Splice Media
 ---
 
 _Hey Sundus,_

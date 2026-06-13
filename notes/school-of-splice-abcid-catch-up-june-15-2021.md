@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+status: archived
 ---
 
 Attendees: <elsom.jo@abc.net.au>, Alan Soon, Rishad Patel, <seymour.kate@abc.net.au>

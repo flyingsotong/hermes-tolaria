@@ -1,6 +1,8 @@
 ---
 type: Story-Scout
 scout_date: 2026-04-18
+related_to:
+  - Slugs
 ---
 
 ---

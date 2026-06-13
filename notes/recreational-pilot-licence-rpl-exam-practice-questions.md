@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 **Instructions:** Choose the best answer for each question and mark the correct answer with a tick ().

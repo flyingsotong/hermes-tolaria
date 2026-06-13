@@ -1,5 +1,8 @@
 ---
-type: Note
+type: Grant-Radar
+belongs_to: Magenta Debrief
+related_to:
+  - Dronefly.sg
 ---
 
 Day 1 4/15/2024

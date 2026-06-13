@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 At their core,**systems thinking is the lens** for understanding the complexity, and**design thinking is the toolkit** for creating human-centered solutions _within_ that complexity.

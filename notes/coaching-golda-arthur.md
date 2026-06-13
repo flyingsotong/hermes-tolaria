@@ -4,6 +4,7 @@ tags:
   - coaching/clients
 date: 2025-07-01
 client: Golda Arthur
+belongs_to: Splice Media
 ---
 
 # Coaching - Golda Arthur

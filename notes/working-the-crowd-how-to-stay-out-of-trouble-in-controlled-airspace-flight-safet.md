@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 <https://www.flightsafetyaustralia.com/2025/05/working-the-crowd-how-to-stay-out-of-trouble-in-controlled-airspace/>

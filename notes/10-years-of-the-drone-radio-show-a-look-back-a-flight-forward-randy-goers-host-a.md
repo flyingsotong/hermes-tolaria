@@ -3,6 +3,8 @@ type: Aviation-Reference
 tags:
   - flight-training
   - flying
+related_to:
+  - Magenta Debrief
 ---
 
 <https://youtu.be/Dhz9PoDj8WI?si=QPcQechjcqJnhHNy>

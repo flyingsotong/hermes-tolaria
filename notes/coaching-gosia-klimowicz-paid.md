@@ -5,6 +5,7 @@ tags:
   - coaching
 date: 2025-07-29
 client: Gosia Klimowicz (Paid)
+belongs_to: Splice Media
 ---
 
 Pronounced "Go-sha"

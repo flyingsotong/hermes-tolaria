@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 **Atmospheric pressure decreases with altitude**, so if the altimeter setting is not adjusted, the altimeter will read higher than the actual altitude. This can be dangerous, especially when flying in mountainous terrain or near obstacles.

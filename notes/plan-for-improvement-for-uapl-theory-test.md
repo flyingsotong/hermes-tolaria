@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 To improve your score, you should focus on the areas where you made the most mistakes.

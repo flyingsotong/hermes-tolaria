@@ -1,6 +1,7 @@
 ---
 type: Coaching-Session
 client: How to not fk up your ICF ACC exam
+belongs_to: Splice Media
 ---
 
 Here is a list of what not to do in coaching, according to the ICF, summarized by Bard:

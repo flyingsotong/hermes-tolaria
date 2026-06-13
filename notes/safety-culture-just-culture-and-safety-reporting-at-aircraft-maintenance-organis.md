@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 <https://www.flightsafetyaustralia.com/2025/06/tackling-a-toolbox-talk-safety-culture-just-culture-and-safety-reporting-at-aircraft-maintenance-organisations/>

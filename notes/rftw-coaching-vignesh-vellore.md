@@ -2,6 +2,7 @@
 type: Coaching-Session
 date: 2025-08-27
 client: RFTW coaching Vignesh Vellore
+belongs_to: Splice Media
 ---
 
 **August 27, 2025**

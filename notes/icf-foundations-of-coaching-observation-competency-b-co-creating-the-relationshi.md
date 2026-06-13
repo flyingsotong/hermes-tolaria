@@ -4,6 +4,7 @@ tags:
   - coaching/me
   - coaching
 client: ICF Foundations of Observation Competency B Co-Creating the Relationship
+belongs_to: Splice Media
 ---
 
 Participant: Alan Soon Teck Soon

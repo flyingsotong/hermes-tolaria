@@ -2,6 +2,8 @@
 type: Aviation-Reference
 tags:
   - flight-training
+related_to:
+  - Magenta Debrief
 ---
 
 These tendencies primarily affect single-engine, propeller-driven airplanes and are less pronounced or non-existent in multi-engine or jet aircraft.

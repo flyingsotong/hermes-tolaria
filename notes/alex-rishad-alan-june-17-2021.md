@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+status: archived
 ---
 
 Attendees: <afenby@fb.com>, Alan Soon, [Rishad Patel.md](Alex,%20Rishad,%20Alan%20%E2%80%93%20June%2017,%202021/Rishad%20Patel.md)

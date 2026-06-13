@@ -1,5 +1,7 @@
 ---
 type: Aviation-Reference
+related_to:
+  - Magenta Debrief
 ---
 
 **Pattern Entry Altitude:** Always enter the traffic pattern**at pattern altitude** at non-towered airports.
