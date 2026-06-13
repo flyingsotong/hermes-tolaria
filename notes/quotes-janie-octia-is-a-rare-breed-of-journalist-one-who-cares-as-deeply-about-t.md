@@ -1,0 +1,5 @@
+---
+type: Quote
+---
+
+"Janie Octia is a rare breed of journalist - one who cares as deeply about the technology and tools that promote good journalism as she does about the journalism itself. Her incredibly sharp and analytical mind allows her to cut through layers of fluff and get to the heart of problems, and her selflessness ensures that she always puts the need of the collective before the need of the self. Her list of achievements as the editorial operations manager at Yahoo is long and impressive. It includes critical roles in building digital newsroom CMS, creating analytics tools and improving customer experiences for users of Yahoo sites. Through it all, Janie was always been a delight to work with due to the positivity and diligence she brought to her job. I have no doubts whatsoever that with her experience, insights, knowledge, and most of all, attitude, Janie would be an asset to any digital newsroom."
