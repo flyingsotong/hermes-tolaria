@@ -2,6 +2,7 @@
 type: Coaching-Session
 client: SMU Coaching Module 2
 belongs_to: Splice Media
+session_date: 2023-02-15
 ---
 # SMU Coaching Module 2
 

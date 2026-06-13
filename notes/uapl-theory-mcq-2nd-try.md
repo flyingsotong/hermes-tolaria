@@ -5,6 +5,7 @@ tags:
   - flying
 related_to:
   - Magenta Debrief
+date: 2025-08-25
 ---
 # UAPL Theory MCQ (2nd try)
 

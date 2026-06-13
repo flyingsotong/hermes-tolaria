@@ -1,5 +1,6 @@
 ---
 type: Note
+date: 2024-12-20
 ---
 # People Are The New Brands (No Mercy No Malice)
 

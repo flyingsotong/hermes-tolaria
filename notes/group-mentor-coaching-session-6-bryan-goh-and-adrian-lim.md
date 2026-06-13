@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-07-08
 ---
 # Group Mentor Coaching Session 6 – Bryan Goh and Adrian Lim
 

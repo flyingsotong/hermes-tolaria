@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-09-05
 ---
 # Meeting Anthony Wong – SCMP Newsroom Optimization
 

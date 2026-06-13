@@ -6,6 +6,7 @@ tags:
   - me
 related_to:
   - Magenta Debrief
+date: 2024-12-21
 ---
 # Aspiring pilot... need help justifying a PPL to myself
 

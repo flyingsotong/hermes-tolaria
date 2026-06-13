@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-05-21
 ---
 # Meeting Adam Najberg – Leaving Tencent
 

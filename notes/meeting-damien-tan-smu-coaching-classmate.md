@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-01-30
 ---
 # Meeting Damien Tan – SMU Coaching Classmate
 

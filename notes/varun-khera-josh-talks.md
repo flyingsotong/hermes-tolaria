@@ -1,5 +1,6 @@
 ---
 type: Note
+date: 2023-09-29
 ---
 # Varun Khera, Josh Talks
 

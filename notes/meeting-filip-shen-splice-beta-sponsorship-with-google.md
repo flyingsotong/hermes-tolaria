@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-08-21
 ---
 # Meeting Filip Shen – Splice Beta Sponsorship with Google
 

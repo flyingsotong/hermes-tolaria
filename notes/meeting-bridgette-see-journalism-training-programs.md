@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-05-07
 ---
 # Meeting Bridgette See – Journalism Training Programs
 

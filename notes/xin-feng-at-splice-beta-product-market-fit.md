@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-11-07
 ---
 # Xin Feng at Splice Beta – Product Market Fit
 

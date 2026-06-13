@@ -2,6 +2,7 @@
 type: Coaching-Session
 client: FPU coaching 2023 Sundus Rasheed, Urban Lounge
 belongs_to: Splice Media
+session_date: 2023-10-24
 ---
 # FPU coaching 2023 Sundus Rasheed, Urban Lounge
 

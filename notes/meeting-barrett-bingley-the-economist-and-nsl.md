@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-07-24
 ---
 # Meeting Barrett Bingley – The Economist and NSL
 

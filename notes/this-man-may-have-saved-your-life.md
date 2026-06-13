@@ -5,6 +5,7 @@ tags:
   - flying
 related_to:
   - Magenta Debrief
+date: 2025-09-11
 ---
 # This Man May Have Saved Your Life
 

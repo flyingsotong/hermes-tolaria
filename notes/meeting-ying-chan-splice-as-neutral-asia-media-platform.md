@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-05-05
 ---
 # Meeting Ying Chan – Splice as Neutral Asia Media Platform
 

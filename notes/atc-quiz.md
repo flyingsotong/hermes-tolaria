@@ -4,6 +4,7 @@ tags:
   - flight-training
 related_to:
   - Magenta Debrief
+date: 2026-04-30
 ---
 # ATC quiz
 

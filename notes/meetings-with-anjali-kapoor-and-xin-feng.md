@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-09-04
 ---
 # Meetings with Anjali Kapoor and Xin Feng
 

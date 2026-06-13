@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2025-05-26
 ---
 # Authenticity The Key to Success — Dr. Dain Heer (Selling With Love)
 

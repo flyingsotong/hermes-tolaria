@@ -1,6 +1,7 @@
 ---
 type: Quote
 attribution: Claude Monet
+date: 2024-06-05
 ---
 # Quotes - The subject is of secondary importance to me. I want to represent what exists between the subject and me. — Claude Monet
 

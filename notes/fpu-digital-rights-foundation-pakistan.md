@@ -1,5 +1,6 @@
 ---
 type: Note
+date: 2023-08-30
 ---
 # FPU Digital Rights Foundation, Pakistan
 

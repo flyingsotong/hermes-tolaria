@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-03-16
 ---
 # Ezra Klein – Media Specificity Over Scale
 

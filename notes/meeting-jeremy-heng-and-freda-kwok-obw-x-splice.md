@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-09-25
 ---
 # Meeting Jeremy Heng and Freda Kwok – OBW x Splice
 

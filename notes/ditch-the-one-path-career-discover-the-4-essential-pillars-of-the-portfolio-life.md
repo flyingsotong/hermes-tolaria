@@ -1,5 +1,6 @@
 ---
 type: Note
+date: 2023-04-18
 ---
 # Ditch the one-path career Discover the 4 essential pillars of the “portfolio life”
 

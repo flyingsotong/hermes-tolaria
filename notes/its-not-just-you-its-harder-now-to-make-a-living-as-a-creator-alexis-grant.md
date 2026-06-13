@@ -1,5 +1,6 @@
 ---
 type: Personal-Note
+date: 2024-03-07
 ---
 # It’s not just you. It’s harder now to make a living as a creator (Alexis Grant)
 

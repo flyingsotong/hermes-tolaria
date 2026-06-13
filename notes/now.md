@@ -1,5 +1,6 @@
 ---
 type: Personal-Note
+date: 2025-08-19
 ---
 # Now
 

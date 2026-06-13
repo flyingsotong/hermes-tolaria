@@ -1,5 +1,6 @@
 ---
 type: Note
+date: 2023-12-06
 ---
 # Use Strategic Thinking to Create the Life You Want
 

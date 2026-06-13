@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-01-18
 ---
 # Intro with Nick Guan – Amok TV
 

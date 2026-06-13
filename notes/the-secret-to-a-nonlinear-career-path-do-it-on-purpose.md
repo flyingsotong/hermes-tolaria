@@ -1,5 +1,6 @@
 ---
 type: Note
+date: 2022-09-13
 ---
 # The Secret to a Nonlinear Career Path Do It on Purpose
 
