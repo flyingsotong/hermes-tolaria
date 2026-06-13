@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2025-05-30
 ---
 # What I learned building an AI Automation Agency (and why I think this Business Model is Broken) — N…
 

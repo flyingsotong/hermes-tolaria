@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-01-29
 ---
 # First Meeting with Kassy Cho
 

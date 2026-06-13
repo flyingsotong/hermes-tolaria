@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2023-12-11
 ---
 # Meeting James Cridland in Brisbane
 

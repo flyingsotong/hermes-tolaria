@@ -2,6 +2,7 @@
 type: Coaching-Session
 client: FPU coaching 2023 Oonib Azam
 belongs_to: Splice Media
+session_date: 2023-10-26
 ---
 # FPU coaching 2023 Oonib Azam
 

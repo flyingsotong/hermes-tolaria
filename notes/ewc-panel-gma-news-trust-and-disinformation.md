@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-06-25
 ---
 # EWC Panel – GMA News Trust and Disinformation
 

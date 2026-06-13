@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-02-02
 ---
 # Intro with Vishal Dembla – The Economist
 

@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-09-26
 ---
 # Meeting Catherine So – SCMP Subscription Strategy
 

@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-09-17
 ---
 # Meeting Haikel Fahim – Telum Sale Plans
 

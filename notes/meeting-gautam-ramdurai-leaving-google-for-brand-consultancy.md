@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-01-16
 ---
 # Meeting Gautam Ramdurai – Leaving Google for Brand Consultancy
 

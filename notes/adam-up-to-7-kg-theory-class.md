@@ -4,6 +4,7 @@ tags:
   - flight-training
 related_to:
   - Magenta Debrief
+date: 2025-08-22
 ---
 # ADAM Up to 7 kg Theory Class
 

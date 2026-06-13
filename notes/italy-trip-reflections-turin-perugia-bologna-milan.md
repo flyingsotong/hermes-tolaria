@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-04-21
 ---
 # Italy Trip Reflections – Turin, Perugia, Bologna, Milan
 

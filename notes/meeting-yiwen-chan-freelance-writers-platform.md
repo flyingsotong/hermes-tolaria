@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-06-19
 ---
 # Meeting Yiwen Chan – Freelance Writers Platform
 

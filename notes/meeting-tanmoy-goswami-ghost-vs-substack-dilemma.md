@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-04-03
 ---
 # Meeting Tanmoy Goswami – Ghost vs Substack Dilemma
 

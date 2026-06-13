@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-03-04
 ---
 # Meeting Simon Rizkalla – Startup Problem Statement
 

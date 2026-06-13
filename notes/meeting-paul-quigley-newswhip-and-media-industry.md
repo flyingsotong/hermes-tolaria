@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-08-27
 ---
 # Meeting Paul Quigley – NewsWhip and Media Industry
 

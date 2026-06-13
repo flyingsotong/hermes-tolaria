@@ -1,5 +1,6 @@
 ---
 type: Project-Note
+date: 2024-02-23
 ---
 # Splice’s guide to your media future
 

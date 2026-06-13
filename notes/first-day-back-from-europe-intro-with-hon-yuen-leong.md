@@ -1,5 +1,6 @@
 ---
 type: Note
+date: 2024-06-18
 ---
 # First Day Back from Europe, Intro with Hon Yuen Leong
 

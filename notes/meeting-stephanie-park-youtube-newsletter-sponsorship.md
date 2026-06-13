@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-08-26
 ---
 # Meeting Stephanie Park – YouTube Newsletter Sponsorship
 

@@ -1,5 +1,6 @@
 ---
 type: Note
+date: 2023-07-21
 ---
 # Via Character Strengths Profile
 

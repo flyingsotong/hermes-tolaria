@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-04-02
 ---
 # Meeting Nic Hopkins – Google Support and Bryan Goh Coaching
 

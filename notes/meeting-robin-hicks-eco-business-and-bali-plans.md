@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-03-05
 ---
 # Meeting Robin Hicks – Eco-Business and Bali Plans
 

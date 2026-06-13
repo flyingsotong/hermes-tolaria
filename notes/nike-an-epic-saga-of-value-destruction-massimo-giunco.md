@@ -1,5 +1,6 @@
 ---
 type: Personal-Note
+date: 2024-07-28
 ---
 # Nike An Epic Saga of Value Destruction (Massimo Giunco)
 

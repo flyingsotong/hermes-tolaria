@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-03-26
 ---
 # Meeting Nessa McGann – RadioDays Asia
 

@@ -1,5 +1,6 @@
 ---
 type: Note
+date: 2024-05-06
 ---
 # FCC Panel on Alternative Media Careers
 

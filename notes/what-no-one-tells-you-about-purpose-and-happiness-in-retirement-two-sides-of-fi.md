@@ -1,5 +1,6 @@
 ---
 type: Note
+date: 2025-01-07
 ---
 # What No One Tells You About Purpose and Happiness in Retirement (Two Sides of FI)
 

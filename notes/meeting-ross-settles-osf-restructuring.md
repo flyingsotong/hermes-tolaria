@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-02-06
 ---
 # Meeting Ross Settles – OSF Restructuring
 

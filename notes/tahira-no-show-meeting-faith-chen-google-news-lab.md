@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-04-09
 ---
 # Tahira No Show, Meeting Faith Chen – Google News Lab
 

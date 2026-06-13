@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2023-10-30
 ---
 # 50th Birthday – Rob and Moya Message
 

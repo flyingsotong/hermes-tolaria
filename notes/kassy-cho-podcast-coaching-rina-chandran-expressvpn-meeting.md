@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-02-16
 ---
 # Kassy Cho Podcast, Coaching Rina Chandran, ExpressVPN Meeting
 

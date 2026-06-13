@@ -1,5 +1,6 @@
 ---
 type: Personal-Note
+date: 2023-12-03
 ---
 # Reflections on Impostor Syndrome and Identity Misalignment
 

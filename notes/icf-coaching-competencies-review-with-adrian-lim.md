@@ -2,6 +2,7 @@
 type: Coaching-Session
 client: ICF Coaching Competencies Review with Adrian Lim
 belongs_to: Splice Media
+session_date: 2024-02-15
 ---
 # ICF Coaching Competencies Review with Adrian Lim
 

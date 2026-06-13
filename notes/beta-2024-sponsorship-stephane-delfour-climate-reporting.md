@@ -1,5 +1,6 @@
 ---
 type: Meeting-Note
+date: 2024-09-03
 ---
 # Beta 2024 Sponsorship – Stephane Delfour Climate Reporting
 
