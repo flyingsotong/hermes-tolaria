@@ -7,6 +7,7 @@ _order: 20
 _pinned_properties:
   - scout_date
   - recommendation
+_sort: "created:desc"
 ---
 
 # Story-Scout
