@@ -1,6 +1,6 @@
 ---
-type: Note
 date: 2023-05-30
+type: Coaching-Session
 ---
 # Coaching - Samuel Okocha
 
