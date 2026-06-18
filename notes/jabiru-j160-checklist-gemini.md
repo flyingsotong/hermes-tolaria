@@ -1,5 +1,5 @@
 ---
-type: Personal-Note
+type: Aviation-Reference
 ---
 # Jabiru J160 Checklist (Gemini)
 
