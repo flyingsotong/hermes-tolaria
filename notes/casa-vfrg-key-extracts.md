@@ -6,6 +6,8 @@ belongs_to: Magenta Debrief
 related_to:
   - RAAus Cross Country Endorsement
   - navigation
+see_also:
+  - vfrg/_index.md (full VFRG reference - 7 chapters)
 tags:
   - flight-training
   - regulations
