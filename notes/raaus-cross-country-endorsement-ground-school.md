@@ -14,7 +14,6 @@ tags:
   - meteorology
   - ground-school
 ---
-
 # RAAus Cross Country (X) Endorsement — Ground School
 
 ## Regulatory requirement
@@ -26,12 +25,14 @@ Group D variation: pilots without X can operate 25-100 NM if a CFI/Examiner endo
 ## Minimum flight experience
 
 **Group A or B (3-axis aircraft):**
+
 - 10 hours dual cross-country navigation training
 - 2 hours solo cross-country navigation
 - Pass RAAus Flight Navigation written exam (80%)
 - Pass navigation flight test with DCFI, CFI, or Pilot Examiner
 
 **Group D (weight-shift/trikes):**
+
 - 2 hours dual cross-country navigation training
 - 1 hour solo cross-country navigation
 - Pass RAAus Group D Flight Navigation written exam (80%)
@@ -41,7 +42,7 @@ Group D variation: pilots without X can operate 25-100 NM if a CFI/Examiner endo
 
 The written examination is set to **Unit 2.03 of the RAAus Syllabus of Flight Training** and administered at an approved RAAus Flight Training School. Pass mark: **80%**. You sit it prior to being recommended for the endorsement.
 
----
+***
 
 ## Unit 2.03 — Navigation syllabus
 
@@ -64,12 +65,14 @@ On WAC, VTC, VNC, and ERC-L charts covering the local area of operation:
 ### 1.1.2 Computation techniques
 
 Mental rules of thumb for:
+
 - Time interval from GS and distance (e.g. 120 KT = 2 NM/min)
 - Endurance from fuel flow and fuel available (excluding reserves)
 
 ### 1.1.3 Form of the Earth
 
 Understand:
+
 - Shape and rotation of the earth
 - Latitude and longitude
 - Meridians of longitude, parallels of latitude
@@ -90,6 +93,7 @@ Understand:
 ### 1.1.5 Charts and publications (advanced)
 
 From AIP Visual Charts (VTC, VNC, WAC, ERC-L, AUS PCA) and ERSA:
+
 - Select appropriate charts/documents for given operational information
 - Extract and decode symbols from AIP visual charts
 - Interpret topographic detail on WAC, VTC, VNC
@@ -100,6 +104,7 @@ From AIP Visual Charts (VTC, VNC, WAC, ERC-L, AUS PCA) and ERSA:
 ### 1.1.6 Computations (advanced)
 
 Review basic computations, then:
+
 - Solve GS, distance, fuel used, fuel required, fuel remaining, fuel consumption problems
 - Determine HDG, GS, and drift given TAS, W/V, TR
 - Determine TR given HDG, TAS, W/V
@@ -120,13 +125,14 @@ Review basic computations, then:
 - **Monitor fuel consumption** and revise reserves
 - **Plan in-flight diversions** around adverse weather and to suitable aerodromes
 
----
+***
 
 ## Unit 2.03 — Meteorology syllabus
 
 ### 1.2.1 Local weather knowledge
 
 Demonstrate knowledge of likely local occurrence of:
+
 - Thunderstorms
 - Low cloud
 - Poor visibility
@@ -143,6 +149,7 @@ And how these phenomena affect safe aeroplane operation.
 ### 1.2.3 Significance of observations
 
 Recognise signs indicating:
+
 - Turbulence, thermals, dust devils
 - Wind gradient, wind shear
 
@@ -180,6 +187,7 @@ Identify different cloud classifications and the weather associated with them.
 ### 1.2.8 Visibility
 
 Effects on visibility of:
+
 - Haze
 - Smoke
 - Fog
@@ -187,6 +195,7 @@ Effects on visibility of:
 ### 1.2.9 Turbulence
 
 Knowledge and understanding of:
+
 - Mechanical turbulence
 - Terrain-induced turbulence
 - Convectional turbulence
@@ -213,6 +222,7 @@ Knowledge and understanding of:
 ### 1.2.12 Met reports and forecasts
 
 Understand:
+
 - METARs
 - SPECIs
 - TTF (Trend Type Forecast)
@@ -221,19 +231,19 @@ Understand:
 - SIGMET
 - AIRMET
 
----
+***
 
 ## Related documents
 
-| Document | Location |
-|---|---|
-| RAAus Flight Operations Manual | raaus.com.au/resources/ |
-| RAAus Syllabus of Flight Training (Issue 7) | raaus.com.au/resources/ |
-| AIP Visual Charts (VTC, VNC, WAC, ERC-L) | Airservices Australia |
-| ERSA | Airservices Australia |
-| AIP Daylight/Darkness Graphs | AIP GEN |
-| CAAP 166-1(2) — Non-controlled aerodrome procedures | casa.gov.au |
-| RAAP 1-2016 — Type Transition Guidance | RAAus Member Portal |
+| Document                                            | Location                |
+| --------------------------------------------------- | ----------------------- |
+| RAAus Flight Operations Manual                      | raaus.com.au/resources/ |
+| RAAus Syllabus of Flight Training (Issue 7)         | raaus.com.au/resources/ |
+| AIP Visual Charts (VTC, VNC, WAC, ERC-L)            | Airservices Australia   |
+| ERSA                                                | Airservices Australia   |
+| AIP Daylight/Darkness Graphs                        | AIP GEN                 |
+| CAAP 166-1(2) — Non-controlled aerodrome procedures | casa.gov.au             |
+| RAAP 1-2016 — Type Transition Guidance              | RAAus Member Portal     |
 
 ## Study approach
 
