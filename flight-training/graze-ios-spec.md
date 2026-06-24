@@ -1,5 +1,17 @@
 # Graze — iOS spec
 
+## Context
+
+I write my notes in Markdown. They live in a git repo — `flyingsotong/hermes-tolaria`. That's 1,000+ notes: coaching sessions, aviation references, media analysis, personal writing. Git is the source of truth. It's portable. It has history. It's not going anywhere.
+
+The problem: reading these notes on an iPhone is a kludge. GitHub Mobile renders markdown but won't search inside files. Working Copy does git properly but shows raw markdown. Obsidian needs a sync plugin. Bear — the app I actually enjoy reading in — is a walled garden with no git awareness.
+
+I want one app that does what Bear does for reading (beautiful typography, dark sidebar, folder navigation, full-text search) but sources its content from a git repo instead of a proprietary database. No sync dashboard. No cloud service. The repo IS the database.
+
+Graze is that app. Read-only for v1. If it works well, I ship it to the App Store. Editing and two-way sync come in v2.
+
+The spec below is written to be fed to an LLM (Deepseek on my Mac) to build as a native SwiftUI app. It covers architecture, UI design, data models, git integration, search, rendering, and every edge case I can think of.
+
 ## What this is
 
 A **read-only Bear clone that reads off a GitHub repo.** The goal: beautiful markdown reading on iPhone, sourced from a git repo. Zero sync dashboard. Zero proprietary cloud. The repo is the database. Start with reading (v1); editing can follow (v2).
