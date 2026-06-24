@@ -7,6 +7,7 @@ _order: 80
 _pinned_properties:
   - status
   - url
+_sort: "modified:desc"
 ---
 
 # Project-Note
