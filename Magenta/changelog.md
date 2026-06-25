@@ -4,6 +4,19 @@ Agent-driven changes to magentadebrief.com — theme, SEO, content, analytics in
 
 ---
 
+## 2026-06-25 — Investigations + infrastructure fixes
+
+### Slugs scout email: smtplib → himalaya
+- Switched email delivery from raw Python `smtplib` to `himalaya message send -a splice` (raw MIME)
+- Reason: intermittent `[Errno 32] Broken pipe` from Gmail SMTP dropping connections mid-send
+- himalaya handles SMTP reconnection internally. Patched in slugs-scout skill.
+
+### Referrals investigated
+- **goflyaviation.com.au** (4 PV to RPL cost page): Existing relationship — GoFly Online (Anne-Maree). No new signal.
+- **Reddit** (12 PV across 8 pages): Cannot trace specific thread — Reddit strips referrer path. Diversity suggests recommendation thread or user profile links.
+
+---
+
 ## 2026-06-24 — Analytics infrastructure + SEO overhaul
 
 ### Google Search Console access
