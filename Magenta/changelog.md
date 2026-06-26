@@ -15,6 +15,10 @@ Agent-driven changes to magentadebrief.com — theme, SEO, content, analytics in
 - **Images added 26 Jun:** feature image (DSC06024-EDIT.webp) + 2 body images (DSC06024-EDIT-1.webp, DSC06022.webp)
 - **feature_image_alt** set (191-char limit on Ghost), **feature_image_caption** set, **body image alts** set via lexical JSON editing (HTML roundtrip doesn't persist alt in Ghost 6.x)
 
+### GEO audit on publish
+- **Schema fix:** Original codeinjection had `offers` on Product (triggers Merchant listings in GSC — critical error) and was nested Review-inside-Product. Replaced with correct structure: top-level Review → itemReviewed → Product with aggregateRating + image, NO offers, NO review back-ref. Matches review-schema-fix.md template.
+- **12/13 GEO signals present:** H1/H2 structure, price in text (US$139), rating in text (3.2/5), product name, brand, category all explicit. robots.txt allows AI crawlers. FAQ schema is the only missing signal (no Q&A content on this review — acceptable).
+
 ### Editorial audit findings (reference)
 - New sections "Who should wait" and "What would change the verdict quickly" are good evolutions worth standardizing across all hardware reviews
 - Missing vs prior reviews: no "About this review" section (disclosure at end instead of up front), no structured "What this is" specs block, no "Setup and first-use reality" section
