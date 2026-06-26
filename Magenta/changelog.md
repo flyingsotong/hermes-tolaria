@@ -12,6 +12,8 @@ Agent-driven changes to magentadebrief.com — theme, SEO, content, analytics in
 - **Product + Review JSON-LD:** injected via codeinjection_head — `offers` (US$139), `reviewRating` (3.2/5), `brand` (WingFlex). Ghost's auto-schema omits price
 - **Tags:** verified `Simulation` + `#hardware-review` both present → theme auto-schema triggers correctly
 - **Pending from Alan:** product photos (currently zero images in body)
+- **Images added 26 Jun:** feature image (DSC06024-EDIT.webp) + 2 body images (DSC06024-EDIT-1.webp, DSC06022.webp)
+- **feature_image_alt** set (191-char limit on Ghost), **feature_image_caption** set, **body image alts** set via lexical JSON editing (HTML roundtrip doesn't persist alt in Ghost 6.x)
 
 ### Editorial audit findings (reference)
 - New sections "Who should wait" and "What would change the verdict quickly" are good evolutions worth standardizing across all hardware reviews
