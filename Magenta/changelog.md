@@ -4,6 +4,20 @@ Agent-driven changes to magentadebrief.com — theme, SEO, content, analytics in
 
 ---
 
+## 2026-06-26 — WingFlex DAP 500 review published + metadata fixes
+
+### Meta/SEO fixes post-publish
+- **Meta title:** replaced garbled "An autopilot panel with missing by keyboard bindings" with H1 text "a dedicated GA autopilot panel at US$139 let down by basic keyboard bindings"
+- **OG title + description:** set (were None — social previews were bare)
+- **Product + Review JSON-LD:** injected via codeinjection_head — `offers` (US$139), `reviewRating` (3.2/5), `brand` (WingFlex). Ghost's auto-schema omits price
+- **Tags:** verified `Simulation` + `#hardware-review` both present → theme auto-schema triggers correctly
+- **Pending from Alan:** product photos (currently zero images in body)
+
+### Editorial audit findings (reference)
+- New sections "Who should wait" and "What would change the verdict quickly" are good evolutions worth standardizing across all hardware reviews
+- Missing vs prior reviews: no "About this review" section (disclosure at end instead of up front), no structured "What this is" specs block, no "Setup and first-use reality" section
+- Structure drift from MOZA/Virpil/PU Air template — section ordering diverged
+
 ## 2026-06-25 — Investigations + infrastructure fixes
 
 ### Slugs scout email: smtplib → himalaya
