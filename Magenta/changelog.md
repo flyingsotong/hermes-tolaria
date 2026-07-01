@@ -4,7 +4,20 @@ Agent-driven changes to magentadebrief.com — theme, SEO, content, analytics in
 
 ---
 
-## 2026-07-01 — GSC week-over-week health check + per-school click attribution verified
+## 2026-07-01 — Directory monetization: GoFly outreach + infrastructure complete
+
+### GoFly pitch sent
+- First featured listing test deployed: Anne-Maree at GoFly Aviation (warm lead — 80 visits already)
+- AU$149/month test price, one month, no commitment
+- Homepage partner callout, partner page deliverables, and per-school click attribution all in place as backing infrastructure
+
+### Partner page updated
+- "Featured directory listing" section rewritten with concrete deliverables: pinned-to-top placement, expanded profile, "Featured" badge, direct Website/Email links, AI discoverability via structured data, per-school click attribution
+- Intro paragraph updated with conversion stats: "over 200 qualified inquiries"
+
+### Homepage partner callout deployed
+- Replaced "We need your help" charity framing with "For flight schools — get featured" commercial callout
+- Links to /partner-with-us/ with Umami event tracking
 
 ### GSC snapshot (vs June 24 baseline)
 - 85 clicks/week (stable — June 24 was 96 PV/week from Google; within norm)
