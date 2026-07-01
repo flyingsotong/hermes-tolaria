@@ -4,6 +4,49 @@ Agent-driven changes to magentadebrief.com — theme, SEO, content, analytics in
 
 ---
 
+## 2026-07-01 — GSC week-over-week health check + per-school click attribution verified
+
+### GSC snapshot (vs June 24 baseline)
+- 85 clicks/week (stable — June 24 was 96 PV/week from Google; within norm)
+- 7,043 impressions/week at 1.21% CTR (June 24: ~1,600 imp/week at 1.5% CTR — impression volume WAY up but CTR dilution suggests broader query reach)
+- AU: 16 clicks at 1.43% CTR (was 2.0% — slipped but more impressions means broader ranking)
+- US: 23 clicks at 1.10% CTR (was 0.5% — CTR DOUBLED. Meta fixes + WingFlex review may be improving wrong-audience clicks into actual interest)
+- SG: 6 clicks at 0.77% CTR (was highest-converting — snippet failure still bleeding Singapore guide: 2 clicks from 581 impressions)
+- Thailand: 6 clicks at 2.82% CTR (meta rewrite is working — best CTR of any major market)
+- Directory: 5 clicks from 513 impressions at 0.97% CTR — the snippet failure is real. Page 7.4 avg position with zero-click meta description
+- WingFlex DAP 500 now appearing in GSC: 1 click, 18 impressions, position 4.8 (7 days post-publish)
+
+### Per-school click attribution confirmed working
+- `directory.js` already tracks `RAAus School Link Click` events with school name + URL in Umami `event_data` table
+- 213 total clicks across 100 unique schools since launch. 19 schools active in last 30 days
+- Top school: Adelaide Biplanes (8 clicks). Top recent: Ballarat Flight Training (2 clicks, June 30)
+- Report script at `/root/scripts/school-click-report.py` — supports `--top N`, `--active-only`, `--json`
+
+### Key insight
+Meta rewrites are still propagating (7 days since June 24 deploy). Impression volume jumped dramatically (more queries matching) but CTR diluted — suggesting Google is testing the pages against more query types. Structured data (June 29) hasn't had time to affect rankings yet. The real test is mid-July.
+
+---
+
+## 2026-06-29 — Structured data: directory + guide FAQ schemas
+
+### RAAus directory: ItemList + EducationalOrganization JSON-LD
+- Injected 138-school ItemList JSON-LD (49.4KB) via Ghost `codeinjection_foot`
+- Each school gets `EducationalOrganization` with name, address, phone, URL, geo coordinates
+- Makes directory machine-readable for AI crawlers without breaking human UX
+- Post body strips `<script>` tags, hence `codeinjection_foot` approach
+
+### FAQPage schema: Singapore & Thailand guides
+- Added 5 `<details>` FAQ toggles to each guide
+- Theme auto-generates FAQPage JSON-LD from `<details>` elements
+- Guides had zero structured data previously despite 3,748 combined impressions
+
+### Audit false positives confirmed
+- `data-lat`/`data-lng`: all 138 rows have valid coordinates (audit reported empty)
+- Page weight: JS lazy-load (30-row batch) already handles directory rendering
+- Periodic verification: weekly RAAus diff cron already exists (`bc8c8842a725`)
+
+---
+
 ## 2026-06-26 — WingFlex DAP 500 review published + metadata fixes
 
 ### Meta/SEO fixes post-publish
