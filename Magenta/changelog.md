@@ -4,6 +4,13 @@ Agent-driven changes to magentadebrief.com — theme, SEO, content, analytics in
 
 ---
 
+## 2026-07-03 — Top-10 school outreach: exam guide share (4 schools)
+
+### Sent warm intros to top directory schools
+- Adelaide Biplanes (Martyn Smith — warm, prior Dec 2025 contact), Royal Aero Club WA, Cloud Dancer, Melbourne West
+- Framed as resource share: RAAus exam guide link, asking for their opinion/feedback
+- Zero sales ask — opens doors for future profile offers and featured listings
+
 ## 2026-07-01 — Directory monetization: GoFly outreach + infrastructure complete
 
 ### GoFly pitch sent
@@ -123,3 +130,29 @@ Meta rewrites are still propagating (7 days since June 24 deploy). Impression vo
 - Ghost 6.47. Admin API supports `og_title`, `og_description`, `twitter_title`, `twitter_description` per-post (currently unused — falls back to meta_title/description, which is fine)
 - Tag pages get search impressions but most have null meta — future opportunity
 - Brand-spam queries ("braun flight stick review", "bosch flight stick review") pollute GSC impressions at position 1 with 0% CTR
+
+## 2026-07-04 — RAAus directory: schema fix, accessibility, callout repair
+
+### FAQPage JSON-LD fixed
+- Malformed FAQPage schema in post header injection — extra `]}` after `mainEntity` array close caused all 6 JSON-LD blocks to show a parse error
+- Fixed via Admin API: used `json.JSONDecoder.raw_decode()` to extract valid JSON (char 1185), stripped trailing `]\n}`
+- All 6 blocks now validate: NewsMediaOrganization, WebSite, Article, Dataset, FAQPage (3 Q&As), ItemList (138 schools)
+- ItemList geo coordinates confirmed complete — 138/138 schools have lat/lng via `item.geo` (not `item.address.geo`)
+
+### Table accessibility
+- Added `<caption class="sr-only">` describing the directory for screen readers
+- Added `scope="col"` to all 5 `<th>` headers (State, Location, School, Training, Contact)
+- Fixed via Admin API: edited the HTML card inside Ghost's lexical document (child 7)
+- Pitfall: regex `<th[^>]*>` also matched `<thead>`, corrupting it to `<th scope="col" ead>` — fixed by using word boundary `<th\b>` and cleaning up
+
+### Callout guide links restored
+- First guide link ("Read our guide on how to choose a flight school here") was lost during an earlier `<br>` tag cleanup attempt
+- Rebuilt the callout HTML from scratch with all 5 links + their URLs
+- Ghost callout cards strip structural HTML (`<ul>`, `<li>`, `<p>`) but preserve inline elements and `<br>` — the 8 `<br>` tags (4 `<br><br>` pairs) are the correct pragmatic approach for this Ghost component
+- Remaining 159 `<br>` tags are in table cells (structural separators for school name / aircraft / badges) — not fixable without restructuring the data pipeline
+
+### What we learned
+- Ghost `callout` cards strip structural HTML — `<ul>`/`<li>`/`<p>` tags are removed at render time. Only inline elements (`<a>`, `<span>`) and `<br>` survive
+- Ghost lexical editor stores HTML cards as child nodes with `type: "html"` — access via `?formats=lexical` on Admin API
+- When editing HTML cards inside lexical, always verify the rendered page (not just the API response) — Ghost theme processing and BunnyCDN caching can change what actually ships
+- `<br>` tags in Ghost HTML cards are often a pragmatic choice, not a bug — the platform constraints make semantic alternatives unreliable
