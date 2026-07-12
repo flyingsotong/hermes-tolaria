@@ -19,29 +19,29 @@ Markdown conversion by Claude Sonnet 5
 
 ## CHECKLIST OF CURRENT PAGES
 
-| Section/Page | Date |  | Section/Page | Date |
-| --- | --- | --- | --- | --- |
-| Cover | Mar 21 |  | Section 2.08 | Mar 21 |
-| Checklist of current pages | Mar 21 |  | Section 2.09 | Mar 21 |
-| Amendment record sheet | Mar 21 |  | Section 2.10 | Mar 21 |
-| Table of contents | Mar 21 |  | Section 2.11 | Mar 21 |
-| Introduction | Mar 21 |  | Section 2.12 | Mar 21 |
-| Abbreviations & Definitions | Jul 24 |  | Section 2.13 | Jul 24 |
-| Section 1.01 | Mar 21 |  | Section 2.14 | Mar 21 |
-| Section 1.02 | Mar 21 |  | Section 2.15 | Mar 21 |
-| Section 1.03 | Mar 21 |  | Section 2.16 | Mar 21 |
-| Section 1.04 | Mar 21 |  | Section 3.01 | Mar 21 |
-| Section 1.05 | Mar 21 |  | Section 3.02 | Mar 21 |
-| Section 1.06 | Mar 21 |  | Section 3.03 | Mar 21 |
-| Section 1.07 | Mar 21 |  | Section 4.01 | Mar 21 |
-| Section 1.08 | Mar 21 |  | Section 4.02 | Mar 21 |
-| Section 2.01 | Mar 21 |  | Section 4.03 | Mar 21 |
-| Section 2.02 | Mar 21 |  | Section 4.04 | Mar 21 |
-| Section 2.03 | Mar 21 |  | Section 4.05 | Mar 21 |
-| Section 2.04 | Mar 21 |  | Section 4.06 | Mar 21 |
-| Section 2.05 | Mar 21 |  | Section 4.07 | Mar 21 |
-| Section 2.06 | Mar 21 |  | Section 4.08 | Mar 21 |
-| Section 2.07 | Mar 21 |  |  |  |
+| Section/Page | Date | Section/Page | Date |
+| --- | --- | --- | --- |
+| Cover | Mar 21 | Section 2.08 | Mar 21 |
+| Checklist of current pages | Mar 21 | Section 2.09 | Mar 21 |
+| Amendment record sheet | Mar 21 | Section 2.10 | Mar 21 |
+| Table of contents | Mar 21 | Section 2.11 | Mar 21 |
+| Introduction | Mar 21 | Section 2.12 | Mar 21 |
+| Abbreviations & Definitions | Jul 24 | Section 2.13 | Jul 24 |
+| Section 1.01 | Mar 21 | Section 2.14 | Mar 21 |
+| Section 1.02 | Mar 21 | Section 2.15 | Mar 21 |
+| Section 1.03 | Mar 21 | Section 2.16 | Mar 21 |
+| Section 1.04 | Mar 21 | Section 3.01 | Mar 21 |
+| Section 1.05 | Mar 21 | Section 3.02 | Mar 21 |
+| Section 1.06 | Mar 21 | Section 3.03 | Mar 21 |
+| Section 1.07 | Mar 21 | Section 4.01 | Mar 21 |
+| Section 1.08 | Mar 21 | Section 4.02 | Mar 21 |
+| Section 2.01 | Mar 21 | Section 4.03 | Mar 21 |
+| Section 2.02 | Mar 21 | Section 4.04 | Mar 21 |
+| Section 2.03 | Mar 21 | Section 4.05 | Mar 21 |
+| Section 2.04 | Mar 21 | Section 4.06 | Mar 21 |
+| Section 2.05 | Mar 21 | Section 4.07 | Mar 21 |
+| Section 2.06 | Mar 21 | Section 4.08 | Mar 21 |
+| Section 2.07 | Mar 21 |  |  |
 
 ## AMENDMENT RECORD SHEET
 

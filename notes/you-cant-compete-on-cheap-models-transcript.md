@@ -9,8 +9,7 @@ tags:
 source_url: https://www.youtube.com/watch?v=1cSNE-ZkDLQ
 publication: YouTube
 ---
-
-# You Can't Compete on Cheap Models Anymore
+# You Can't Compete on Cheap Models Anymore (Nate B. Jones)
 
 ## The strange convergence
 
