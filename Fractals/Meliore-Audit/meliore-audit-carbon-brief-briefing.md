@@ -20,7 +20,15 @@ Carbon Brief is a UK-based climate publication that has evolved from a high-trus
 - **Global South Climate Database (GSCD):** searchable expert directory for journalists to source diverse voices
 - **Emerging:** Large database of climate scientists with University of Exeter — citation-aware mapping going beyond "who's who" into a structured map of climate research
 
-**Revenue model:** Free + donations + CC content reuse. From Leo's prior conversation: commercial-mindedness is present, FT Strategies influence visible. Grant funding can seed early commercial data work as bridge to productization. COP30 pilot tested an exclusive group at ~US$10.
+**Revenue model:** Free + donations + CC content reuse. From Leo's prior conversation and Alan's email to Mary: commercial-mindedness is present and genuine — "refreshing willingness to experiment without the legacy hang-ups." FT Strategies influence visible. Grant funding can seed early commercial data work as bridge to productization. COP30 pilot tested an exclusive group at ~US$10.
+
+**Alan's CommsHub pitch framing** (from email to Mary, post-intro call):
+Carbon Brief is evolving from publication into **climate verification and expertise infrastructure** — and Leo is "a rare talent in the media space" who "understands where all of this can go." The funding thesis Alan pitched to Mary has three layers:
+1. **Fuel Leo's ambition** — give him shots on goal; he already sees the full architecture
+2. **Improve collective verification/provenance** — decision-quality in an environment flooded with cheap, plausible output
+3. **Support secondary ecosystem players** — academia and other downstream users; widening pathways in the information space
+
+**The GSCD is Carbon Brief's "AI-era defensible" asset** — climate scientist database extending beyond "who's who" into citation-aware mapping (a "universe" of researchers and science).
 
 ---
 
@@ -39,7 +47,7 @@ Carbon Brief is a UK-based climate publication that has evolved from a high-trus
 - Joe Goodman — Visuals producer
 - Emma Hancox — Senior digital content executive
 
-(~15-20 people total based on the team listing)
+(~25 people total based on what Leo stated on the call: "£2 million a year operation with 25 people")
 
 ---
 
@@ -97,7 +105,9 @@ Working shorthand: **reference formats + briefing products + databases/knowledge
 ## Six-dimension pre-read
 
 ### Hunger
-Leo left the Guardian and WWF-UK to build Carbon Brief from a niche publication into climate's reference standard. That's a mission-driven founder who's been at it for 13+ years. Commercial-mindedness is recent (FT Strategies, COP30 pilot). The question is whether he's hungry enough to disrupt his own model — or whether the org's identity as "free, trusted, grant-funded" limits how far he'll push.
+Leo left the Guardian and WWF-UK to build Carbon Brief from a niche publication into climate's reference standard. That's a mission-driven founder who's been at it for 13+ years. Alan's assessment after the intro call: Leo "embraces commercial options" with a "refreshing willingness to experiment without the legacy hang-ups" — notably different from most org leaders in this cohort. He's had FT Strategies exposure and ran a COP30 pricing pilot. The hunger appears genuine and unconflicted.
+
+**The difference from the Anna pattern:** Anna was hungry (5/5) but building on a bankrupt model she couldn't see. Leo may already see the full architecture — Alan called him "a rare talent who understands where all of this can go." The question isn't whether he's hungry enough to change. It's whether he has the **bandwidth** to execute while running a daily editorial operation with no commercial team.
 
 ### Offer
 Potentially strong. The compounding formats (explainers, factchecks) have latent value as API-accessible reference data. The Exeter database could be a defensible B2B product if the spec is rigorous enough. The GSCD demonstrates willingness to build infrastructure, but the one-person annual update cadence is a red flag — if it's not resourced properly, the data decays.
@@ -106,7 +116,7 @@ Potentially strong. The compounding formats (explainers, factchecks) have latent
 Carbon Brief operates as a journalism outlet funded by grants and donations. The "no ads, free to view" posture is part of their brand identity. Shifting to a commercial data product would require a frame shift — not "selling out" but "charging for infrastructure services the climate field needs." The firewall on the data side is simpler than on the editorial side. Constitutional/legal structure unknown — check.
 
 ### Culture
-Team of ~15-20, mostly journalists and science communicators. The editorial team is strong — experienced, award-winning, deep domain knowledge. But there's no commercial or product person visible on the team listing. Leo is the closest to a commercial thinker (FT Strategies exposure), and he's the editor. Who on the team would build and sell a product? If the answer is "Leo delegates editorial and builds product himself," that's a Cadence problem.
+Team of 25, mostly journalists and science communicators. The editorial team is strong — experienced, award-winning, deep domain knowledge. But there's no commercial or product person visible on the team listing. Leo is the closest to a commercial thinker (FT Strategies exposure), and he's the editor. Who on the team would build and sell a product? If the answer is "Leo delegates editorial and builds product himself," that's a Cadence problem.
 
 ### Cadence
 Carbon Brief ships every day — the Daily Briefing goes out, articles publish, factchecks land. They have strong editorial cadence. But the GSCD is updated annually by one person. The Exeter database is "emerging" with no publicly visible timeline. Commercial cadence is significantly slower than editorial cadence — the muscle that needs building is in product development, not content production.
@@ -149,4 +159,10 @@ Tests the tension between institutional value and founder dependency. Carbon Bri
 
 ## Coaching note
 
-Leo is a journalist-editor who has been pulled toward infrastructure thinking partly by the market and partly by his own strategic exposure (FT Strategies). He's more commercial-curious than most org leaders on your list, but the identity shift from "publisher" to "infrastructure provider" is the hardest transition in media. He'll need to be convinced that the database work doesn't dilute Carbon Brief's editorial authority — it compounds it. Your job is to help him see that clearly.
+Leo is the opposite of Anna in an important way. Anna was hungry but her model was bankrupt — your job was to help her see it. Leo may already see the full architecture. Alan's email to Mary called him "a rare talent who understands where all of this can go." He's more commercially unconflicted than anyone on your list.
+
+That makes the bottleneck different. The question isn't whether Leo is willing — it's whether he has the **bandwidth** to execute while running a daily editorial operation with no commercial team. The GSCD updated annually by one person isn't a sign of disinterest; it's a sign of an editor who can't get to the product work because the editorial machine demands all his attention.
+
+Your job today: test whether the infrastructure is real enough to fund, or still a vision with a staffing gap. If he can name the next hire, the timeline, and the first buyer — that's execution-ready. If it's "I need funding to figure that out" — that's still a project, not a product.
+
+The CommsHub pitch you already made to Mary (fuel his ambition + improve verification + widen pathways) is a strong frame — but who is the actual paying customer? Machine-usable structured data for academia? Journalist subscriptions? Enterprise climate research tools? Nail that down today.
